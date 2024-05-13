@@ -13,3 +13,5 @@
 
 You can download github repository of Line-Former from [Link](https://github.com/TheJaeLal/LineFormer)
 
+After cloning github repository, there are two files in the "Line chart" folder of the Data-Extraction folder, you can use these two files to generate the json file as an output. 
+
