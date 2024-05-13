@@ -6,5 +6,5 @@
 
 | Task  | Checkpoint Path |
 | ------------- | ------------- |
-[Statista Dataset](https://github.com/vis-nlp/Chart-to-text)
-[Statista Dataset- Train, Valid, Test](https://drive.google.com/drive/folders/1v9sxXq8qNjy124dD_dHVeejDL0pU0ntf?usp=sharing)
+| Original-statista Data |[Original Dataset](https://github.com/vis-nlp/Chart-to-text) |
+| Preprocessed Data |[Train, Valid, Test](https://drive.google.com/drive/folders/1v9sxXq8qNjy124dD_dHVeejDL0pU0ntf?usp=sharing) |
