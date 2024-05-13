@@ -1,0 +1,13 @@
+44 63 67 82 tick_label y_axis 75 72
+44 143 67 161 tick_label y_axis 75 151
+43 223 67 241 tick_label y_axis 75 230
+42 302 66 320 tick_label y_axis 75 310
+41 380 66 398 tick_label y_axis 75 389
+42 460 65 479 tick_label y_axis 75 468
+54 536 66 554 tick_label y_axis 75 548
+93 564 124 582 tick_label x_axis 109 548
+178 564 239 582 tick_label x_axis 206 548
+269 564 342 582 tick_label x_axis 303 548
+411 564 442 582 tick_label x_axis 428 548
+495 564 556 582 tick_label x_axis 524 548
+586 564 659 582 tick_label x_axis 622 548

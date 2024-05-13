@@ -1,0 +1,12 @@
+2 63 24 319 Number of oocytes/female axis_title 
+42 2 65 20 80 tick_label 
+42 47 64 64 70 tick_label 
+41 91 64 109 60 tick_label 
+42 136 65 154 50 tick_label 
+41 181 64 198 40 tick_label 
+41 225 65 243 30 tick_label 
+41 270 65 288 20 tick_label 
+41 315 65 332 10 tick_label 
+52 360 64 377 0 tick_label 
+124 393 194 405 sucrose tick_label 
+217 389 407 405 sucrose/ascorbic acid tick_label 

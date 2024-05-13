@@ -1,0 +1,10 @@
+268 412 416 427 Concentration [mg/m^{3} ] axis_title
+398 399 411 407 1.5 tick_label
+525 398 531 406 2 tick_label
+645 399 658 406 2.5 tick_label
+277 399 283 406 1 tick_label
+150 398 164 406 0.5 tick_label
+30 399 36 406 0 tick_label
+2 84 16 280 Homogneous Exposure Group axis_title
+568 84 594 98 GM legend_label
+612 84 638 98 AM legend_label

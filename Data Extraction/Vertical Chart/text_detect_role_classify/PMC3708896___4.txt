@@ -1,0 +1,56 @@
+42 5 85 17 100000 tick_label 
+49 45 85 57 10000 tick_label 
+56 84 85 96 1000 tick_label 
+63 125 85 136 100 tick_label 
+70 163 85 176 10 tick_label 
+77 203 84 215 1 tick_label 
+29 55 42 167 Number of Genes axis_title 
+126 413 222 427 Biological process tick_grouping 
+353 414 457 428 Cellular component tick_grouping 
+477 414 575 426 Molecular function tick_grouping 
+638 294 678 221 transporter activity tick_label 
+617 283 652 221 receptor activity tick_label 
+539 283 576 221 catalytic activity tick_label 
+510 293 550 222 antioxidant activity tick_label 
+384 289 421 221 viral reproduction tick_label 
+359 288 397 221 rhythmic process tick_label 
+329 269 357 221 reproduction tick_label 
+290 271 319 220 pigmentation tick_label 
+269 291 308 221 nitrogen utilization tick_label 
+216 293 258 222 metabolic process tick_label 
+75 299 117 222 biological regulation tick_label 
+63 296 103 222 biological adhesion tick_label 
+119 283 155 222 cellular process tick_label 
+103 258 130 222 cell killing tick_label 
+203 264 232 221 localization tick_label 
+216 263 245 220 locomotion tick_label 
+59 403 141 221 celluar component organization or biogenesis tick_label 
+221 380 294 222 negative regulation of biolagical process tick_label 
+287 342 345 222 regulation of biological process tick_label 
+261 377 333 221 positive regulation of biological process tick_label 
+138 334 192 221 establishment of localization tick_label 
+132 314 180 221 developmental process tick_label 
+169 320 218 220 immune system process tick_label 
+221 347 282 222 multicellular organismal process tick_label 
+221 313 269 222 muit-orgarnism process tick_label 
+328 304 372 221 reproductive process tick_label 
+342 303 383 221 response to stimulus tick_label 
+458 328 511 220 membrane-enclosed lumen tick_label 
+448 320 499 221 macromolecular comptex tick_label 
+438 314 486 220 extracellular region part tick_label 
+431 295 475 222 extracellular region tick_label 
+563 385 638 222 Protein binding transcription factor activity tick_label 
+551 321 600 221 enzyme regulator activity tick_label 
+563 321 613 222 metallochaperone activity tick_label 
+537 319 588 221 channel regulator activity tick_label 
+571 333 626 221 molecular transducer activity tick_label 
+611 328 664 220 translation regulator activity tick_label 
+419 266 447 221 cell junction tick_label 
+504 274 537 220 organelle part tick_label 
+500 256 524 220 organelle tick_label 
+540 248 563 222 binding tick_label 
+423 218 429 236 cell tick_label 
+385 254 409 222 signaling tick_label 
+438 251 460 221 cell part tick_label 
+195 217 194 251 gowth tick_label 
+157 218 156 247 death tick_label 

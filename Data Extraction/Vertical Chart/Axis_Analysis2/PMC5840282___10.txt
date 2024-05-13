@@ -1,0 +1,13 @@
+550 353 597 369 tick_label x_axis 575 337
+430 353 490 368 tick_label x_axis 461 337
+315 353 378 369 tick_label x_axis 347 337
+201 352 264 369 tick_label x_axis 234 337
+83 353 156 369 tick_label x_axis 120 337
+26 48 46 63 tick_label y_axis 62 56
+26 88 46 103 tick_label y_axis 62 97
+26 128 46 144 tick_label y_axis 62 137
+25 168 46 184 tick_label y_axis 62 177
+26 208 46 224 tick_label y_axis 62 217
+26 248 46 264 tick_label y_axis 62 257
+26 289 46 304 tick_label y_axis 62 297
+35 329 46 344 tick_label y_axis 62 337

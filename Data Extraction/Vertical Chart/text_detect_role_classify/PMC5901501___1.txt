@@ -1,0 +1,20 @@
+91 418 106 434 -1 tick_label 
+220 418 242 434 -.5 tick_label 
+356 417 367 434 0 tick_label 
+488 417 502 434 .5 tick_label 
+622 418 629 433 1 tick_label 
+31 401 47 411 0 tick_label 
+31 369 47 380 5 tick_label 
+31 332 47 350 10 tick_label 
+31 301 47 318 15 tick_label 
+31 268 47 288 20 tick_label 
+31 235 47 255 25 tick_label 
+31 204 47 224 30 tick_label 
+31 171 47 191 35 tick_label 
+31 140 47 160 40 tick_label 
+31 107 47 128 45 tick_label 
+31 75 47 95 50 tick_label 
+31 43 47 63 55 tick_label 
+31 11 47 31 60 tick_label 
+7 126 25 316 Number of individuals axis_title 
+290 436 422 454 PIE -score value axis_title 

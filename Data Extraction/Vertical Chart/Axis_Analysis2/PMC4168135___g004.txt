@@ -1,0 +1,14 @@
+171 519 246 538 tick_label x_axis 209 497
+275 519 335 538 tick_label x_axis 305 497
+367 519 435 538 tick_label x_axis 401 497
+455 519 539 538 tick_label x_axis 497 497
+553 519 633 538 tick_label x_axis 594 497
+653 519 726 538 tick_label x_axis 690 497
+60 4 96 23 tick_label y_axis 113 14
+60 73 96 92 tick_label y_axis 113 83
+60 143 96 161 tick_label y_axis 113 152
+60 212 96 231 tick_label y_axis 113 221
+61 281 96 300 tick_label y_axis 113 290
+62 350 96 368 tick_label y_axis 113 359
+71 419 96 438 tick_label y_axis 113 428
+83 488 96 507 tick_label y_axis 113 498

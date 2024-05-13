@@ -1,0 +1,6 @@
+48 98 66 112 tick_label y_axis 78 105
+48 219 66 233 tick_label y_axis 78 227
+48 341 66 354 tick_label y_axis 78 348
+56 463 66 475 tick_label y_axis 78 470
+205 480 258 494 tick_label x_axis 231 470
+442 480 530 494 tick_label x_axis 486 470

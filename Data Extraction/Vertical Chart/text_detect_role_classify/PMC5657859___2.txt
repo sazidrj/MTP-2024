@@ -1,0 +1,45 @@
+87 720 101 731 40 tick_label 
+157 720 170 731 42 tick_label 
+226 721 240 731 44 tick_label 
+296 720 310 731 46 tick_label 
+366 720 380 731 48 tick_label 
+437 720 450 731 50 tick_label 
+506 720 519 731 52 tick_label 
+579 720 586 731 2 tick_label 
+648 721 657 731 4 tick_label 
+344 751 438 763 Surveillance week axis_title 
+256 737 281 747 2016 tick_grouping 
+570 737 595 747 2017 tick_grouping 
+155 90 285 103 A (subtyping not performed) legend_label 
+155 104 229 117 A (H1N1)pdm09 legend_label 
+155 118 197 130 A (H3N2) legend_label 
+155 131 188 142 H3N2v legend_label 
+155 145 271 158 B (lineage not performed) legend_label 
+155 158 243 171 B (Victoria Lineage) legend_label 
+155 172 254 185 B (Yamagata Lineage) legend_label 
+25 88 52 99 2,100 tick_label 
+26 117 52 128 2,000 tick_label 
+26 146 52 158 1,900 tick_label 
+26 176 52 187 1,800 tick_label 
+26 205 52 216 1,700 tick_label 
+26 234 52 246 1,600 tick_label 
+26 264 52 275 1,500 tick_label 
+26 293 52 304 1,400 tick_label 
+26 322 52 334 1,300 tick_label 
+26 351 52 363 1,200 tick_label 
+26 381 52 392 1,100 tick_label 
+26 410 52 422 1,000 tick_label 
+33 439 52 450 900 tick_label 
+33 469 52 479 800 tick_label 
+33 498 52 509 700 tick_label 
+33 527 52 538 600 tick_label 
+26 0 52 11 2,400 tick_label 
+26 29 52 41 2,300 tick_label 
+25 58 52 70 2,200 tick_label 
+0 291 14 423 No. of positive specimens axis_title 
+33 557 52 567 500 tick_label 
+33 586 52 596 400 tick_label 
+34 615 52 626 300 tick_label 
+33 644 52 655 200 tick_label 
+34 674 52 684 100 tick_label 
+44 703 52 714 0 tick_label 

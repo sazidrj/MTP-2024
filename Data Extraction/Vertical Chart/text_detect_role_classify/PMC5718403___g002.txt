@@ -1,0 +1,13 @@
+145 541 235 565 Control tick_label 
+367 542 434 565 Local tick_label 
+554 541 669 570 Systemic tick_label 
+185 8 201 26 a other 
+395 270 412 294 b other 
+603 137 619 155 c other 
+53 512 70 536 0 tick_label 
+39 409 70 433 10 tick_label 
+38 306 70 330 20 tick_label 
+38 203 70 227 30 tick_label 
+37 100 70 124 40 tick_label 
+38 0 70 21 50 tick_label 
+0 220 23 354 % Fruit set axis_title 

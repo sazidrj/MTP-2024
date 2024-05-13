@@ -1,0 +1,16 @@
+58 9 85 29 40 tick_label 
+58 80 84 100 30 tick_label 
+58 152 85 171 20 tick_label 
+60 223 85 242 10 tick_label 
+71 294 85 314 0 tick_label 
+117 315 148 335 1st tick_label 
+187 315 226 335 2nd tick_label 
+265 316 298 335 3rd tick_label 
+340 317 372 335 4th tick_label 
+3 83 24 218 No. of cases axis_title 
+135 355 355 381 pEGFR-IR quadrant axis_title 
+506 106 534 127 <2 legend_label 
+517 141 532 162 2 legend_label 
+506 176 534 197 >2 legend_label 
+442 49 577 78 CB_{1}IR score legend_title 
+441 232 570 262 \chi^{2}= 34.3^{***} other 

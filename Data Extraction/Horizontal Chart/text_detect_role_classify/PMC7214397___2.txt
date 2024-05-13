@@ -1,0 +1,13 @@
+242 365 256 385 5 tick_label
+355 366 380 384 10 tick_label
+474 366 500 384 15 tick_label
+593 366 618 384 20 tick_label
+266 398 469 421 QUADAS scores axis_title
+123 365 136 385 0 tick_label
+55 307 114 327 Liu S tick_label
+24 244 114 268 Wang P tick_label
+23 180 115 201 Zhu WY tick_label
+0 117 115 142 Zhang AQ tick_label
+24 54 114 78 Bagheri tick_label
+555 0 601 21 Yes legend_label
+557 32 644 53 Unclear legend_label

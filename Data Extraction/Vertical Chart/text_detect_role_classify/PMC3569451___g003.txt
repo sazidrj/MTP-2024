@@ -1,0 +1,14 @@
+70 340 137 355 S.aureus tick_label 
+180 340 262 355 S.carnosus tick_label 
+289 340 388 357 S.epidermidis tick_label 
+400 340 511 359 S.haemolyticus tick_label 
+522 340 624 359 S.lugdunensis tick_label 
+632 340 748 359 S.saprophyticus tick_label 
+0 0 32 14 25% tick_label 
+0 64 32 80 20% tick_label 
+0 129 32 145 15% tick_label 
+0 195 32 211 10% tick_label 
+7 261 32 277 5% tick_label 
+7 326 32 342 0% tick_label 
+125 10 359 29 Expected relative abundance legend_label 
+125 42 360 58 Predicted relative abundance legend_label 

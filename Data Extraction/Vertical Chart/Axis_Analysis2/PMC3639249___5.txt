@@ -1,0 +1,9 @@
+199 460 277 487 tick_label x_axis 239 450
+353 460 510 494 tick_label x_axis 433 450
+581 459 671 487 tick_label x_axis 627 450
+112 5 127 27 tick_label y_axis 140 18
+111 84 128 105 tick_label y_axis 140 96
+112 162 128 184 tick_label y_axis 140 175
+112 241 127 263 tick_label y_axis 140 253
+113 319 124 341 tick_label y_axis 140 332
+112 398 128 420 tick_label y_axis 140 411

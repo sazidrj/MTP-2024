@@ -1,0 +1,12 @@
+24 103 45 119 tick_label y_axis 52 111
+25 323 45 340 tick_label y_axis 52 332
+34 544 45 560 tick_label y_axis 52 552
+119 562 124 578 tick_label x_axis 121 553
+186 562 196 578 tick_label x_axis 191 553
+256 562 266 578 tick_label x_axis 261 553
+326 562 336 578 tick_label x_axis 331 553
+395 562 406 578 tick_label x_axis 401 553
+462 562 478 578 tick_label x_axis 470 553
+532 562 549 578 tick_label x_axis 540 553
+599 562 620 578 tick_label x_axis 610 553
+669 562 689 578 tick_label x_axis 680 553

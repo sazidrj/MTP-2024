@@ -1,0 +1,12 @@
+3 479 155 367 tick_label x_axis 141 332
+102 479 255 367 tick_label x_axis 241 332
+221 462 355 368 tick_label x_axis 342 332
+320 462 456 367 tick_label x_axis 442 332
+413 469 556 367 tick_label x_axis 542 332
+513 470 656 367 tick_label x_axis 642 332
+39 0 67 19 tick_label y_axis 78 10
+52 64 67 84 tick_label y_axis 78 74
+52 128 67 148 tick_label y_axis 78 139
+52 192 67 212 tick_label y_axis 78 203
+52 256 67 276 tick_label y_axis 78 267
+52 320 67 341 tick_label y_axis 78 332

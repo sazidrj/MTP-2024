@@ -1,0 +1,11 @@
+5 78 29 308 Mean L2 C_{T}/ACTB C_{T} axis_title 
+250 422 471 444 HPV16 VARIANTS axis_title 
+31 2 54 17 1.2 tick_label 
+42 64 52 78 1 tick_label 
+31 125 54 139 0.8 tick_label 
+30 185 54 200 0.6 tick_label 
+30 246 54 261 0.4 tick_label 
+30 308 54 322 0.2 tick_label 
+42 369 53 382 0 tick_label 
+122 391 305 409 ASIAN AMERICAN tick_label 
+449 390 565 409 EUROPEAN tick_label 

@@ -1,0 +1,17 @@
+4 97 37 306 OD_{450nm} Value axis_title 
+51 4 89 27 0.8 tick_label 
+51 97 89 120 0.6 tick_label 
+51 190 89 213 0.4 tick_label 
+51 283 89 306 0.2 tick_label 
+51 376 89 399 0.0 tick_label 
+68 445 133 406 Control tick_label 
+120 437 191 415 NP_{71-78} tick_label 
+175 432 238 413 NP_{7-14} tick_label 
+219 437 289 415 NP_{25-33} tick_label 
+270 437 339 416 NP_{64-71} tick_label 
+315 442 393 413 NP_{76-83} tick_label 
+370 437 440 416 NP_{89-97} tick_label 
+409 450 493 416 NP_{127-134} tick_label 
+460 449 541 417 NP_{190-197} tick_label 
+510 450 593 416 NP_{198-206} tick_label 
+561 449 643 415 NP_{477-484} tick_label 

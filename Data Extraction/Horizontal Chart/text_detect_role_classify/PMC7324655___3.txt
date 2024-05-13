@@ -1,0 +1,51 @@
+156 572 300 591 Transporter activity tick_label
+93 544 299 563 Structural molecular activity tick_label
+178 516 299 534 Catalytic activity tick_label
+243 487 299 506 Binding tick_label
+192 459 300 478 Organelle part tick_label
+225 431 299 450 Organelle tick_label
+185 403 300 422 Membrane part tick_label
+96 375 299 391 Membrane-enclosed lumen tick_label
+218 347 299 362 Membrane tick_label
+112 319 299 338 Macromolecular complex tick_label
+236 290 299 308 Cell part tick_label
+269 262 299 278 Cell tick_label
+114 234 298 253 Single-organism process tick_label
+229 206 298 225 Signaling tick_label
+138 178 298 197 Response to stimulus tick_label
+62 150 299 168 Regulation of biological process tick_label
+163 122 299 140 Metabolic process tick_label
+210 93 299 109 Localization tick_label
+178 65 299 84 Cellular process tick_label
+42 37 298 56 Cellular organization or biogenesis tick_label
+149 10 299 28 Biological regulation tick_label
+693 442 710 589 Molecular function tick_grouping
+691 244 709 404 Cellular component tick_grouping
+691 36 709 184 Biological process tick_grouping
+430 613 575 630 Number of Genes axis_title
+0 260 16 344 GO Terms axis_title
+497 602 505 611 5 tick_label
+569 602 581 611 10 tick_label
+626 602 638 611 15 tick_label
+672 602 684 611 20 tick_label
+437 576 445 585 2 value_label
+405 547 411 556 1 value_label
+580 519 592 529 10 value_label
+580 491 592 501 10 value_label
+519 463 528 472 6 value_label
+580 435 592 445 10 value_label
+535 406 543 416 7 value_label
+484 379 492 388 4 value_label
+550 351 558 361 8 value_label
+535 322 543 332 7 value_label
+626 294 638 304 14 value_label
+626 266 638 276 14 value_label
+604 238 616 248 12 value_label
+405 210 411 220 1 value_label
+484 183 492 192 4 value_label
+463 154 471 163 3 value_label
+604 126 616 136 12 value_label
+463 98 471 108 3 value_label
+647 69 659 79 16 value_label
+550 42 558 52 8 value_label
+463 13 471 23 3 value_label

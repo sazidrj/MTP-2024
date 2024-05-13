@@ -1,0 +1,11 @@
+208 368 221 387 tick_label y_axis 215 344
+385 368 411 387 tick_label y_axis 398 344
+564 368 599 387 tick_label y_axis 581 344
+747 368 782 387 tick_label y_axis 765 344
+101 308 195 328 tick_label x_axis 215 319
+118 261 196 280 tick_label x_axis 215 271
+77 212 195 236 tick_label x_axis 215 225
+90 163 195 188 tick_label x_axis 215 176
+23 115 196 140 tick_label x_axis 215 128
+88 67 195 92 tick_label x_axis 215 80
+2 18 195 43 tick_label x_axis 215 31

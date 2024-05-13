@@ -1,0 +1,10 @@
+498 427 543 414 tick_label x_axis 535 385
+330 427 374 415 tick_label x_axis 367 385
+162 428 207 415 tick_label x_axis 200 385
+46 461 122 418 tick_label x_axis 116 385
+212 460 288 417 tick_label x_axis 283 385
+377 461 454 418 tick_label x_axis 452 385
+46 375 61 395 tick_label y_axis 74 383
+33 275 61 294 tick_label y_axis 74 282
+32 174 60 193 tick_label y_axis 74 182
+33 73 61 92 tick_label y_axis 74 80

@@ -1,0 +1,9 @@
+47 69 62 90 tick_label y_axis 73 79
+48 134 62 155 tick_label y_axis 73 144
+47 200 63 220 tick_label y_axis 73 209
+47 264 62 285 tick_label y_axis 73 274
+47 329 62 350 tick_label y_axis 73 339
+130 354 144 375 tick_label x_axis 137 340
+259 354 274 375 tick_label x_axis 267 340
+389 354 404 375 tick_label x_axis 397 340
+513 353 542 375 tick_label x_axis 527 340

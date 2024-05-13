@@ -1,0 +1,17 @@
+251 443 374 467 K value (min^{-1}) axis_title
+126 32 201 52 6.0x10^{-4} value_label
+153 115 228 136 9.0x 10^{-4} value_label
+153 196 228 216 9.0x 10^{-4} value_label
+105 279 180 298 3.0x10^{-4} value_label
+256 356 328 377 5.2x10^{-3} value_label
+45 413 92 427 0.000 tick_label
+133 413 177 427 0.001 tick_label
+222 413 267 427 0.002 tick_label
+309 413 355 427 0.003 tick_label
+397 413 443 428 0.004 tick_label
+485 413 531 427 0.005 tick_label
+0 35 51 50 TBBU tick_label
+19 112 51 127 MO tick_label
+19 193 48 208 MB tick_label
+11 275 50 290 RhB tick_label
+26 356 53 371 SO tick_label

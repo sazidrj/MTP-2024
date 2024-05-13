@@ -1,0 +1,36 @@
+2 102 23 344 Percentage of transcripts axis_title 
+163 2 622 24 Biological process level 4 categorized GO terms chart_title 
+59 4 79 19 40 tick_label 
+60 56 79 71 35 tick_label 
+60 109 79 125 30 tick_label 
+59 162 79 178 25 tick_label 
+59 216 79 231 20 tick_label 
+60 268 79 284 15 tick_label 
+60 322 79 337 10 tick_label 
+69 375 79 390 5 tick_label 
+69 428 79 443 0 tick_label 
+30 601 112 443 Macromolecule process tick_label 
+61 601 138 443 Lipid metabolic process tick_label 
+56 692 167 443 Anatomical structure morphogenesis tick_label 
+121 585 193 442 Embryo development tick_label 
+109 687 220 441 Macromolecule biosynthetic process tick_label 
+203 505 247 442 Transport tick_label 
+136 753 271 443 Cellular nitogen compound metabolic process tick_label 
+206 636 297 444 Cellular biosynthetic process tick_label 
+231 641 324 442 Regulation of cellular process tick_label 
+283 562 345 441 Cell differentiation tick_label 
+271 656 370 448 Nucleic acid metabilic process tick_label 
+257 770 397 443 Generation of precursor metabolities and energy tick_label 
+338 633 424 443 Macromolecule modification tick_label 
+364 616 452 443 Protein metabolic process tick_label 
+428 514 472 448 Symbiosis tick_label 
+433 569 496 443 Protein localization tick_label 
+411 707 526 444 Regulation of anatomical structure size tick_label 
+468 617 552 443 Cytoskeleton organization tick_label 
+477 663 577 443 Carbohydrate metabolic process tick_label 
+509 642 604 443 Regulation metabolic process tick_label 
+550 615 634 443 Mitochodrion organization tick_label 
+582 586 655 445 Homeostatic process tick_label 
+619 556 681 444 Gene expression tick_label 
+180 115 277 134 Up-regulated legend_label 
+180 136 298 155 Down-regulated legend_label 

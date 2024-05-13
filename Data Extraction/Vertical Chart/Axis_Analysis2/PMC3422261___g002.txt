@@ -1,0 +1,10 @@
+26 4 73 28 tick_label y_axis 102 17
+40 59 73 83 tick_label y_axis 102 72
+40 114 73 138 tick_label y_axis 102 127
+40 169 73 193 tick_label y_axis 102 182
+41 223 73 248 tick_label y_axis 102 238
+56 278 73 303 tick_label y_axis 102 293
+109 329 212 396 tick_label x_axis 160 293
+235 329 325 396 tick_label x_axis 280 293
+358 329 440 396 tick_label x_axis 399 293
+464 329 573 396 tick_label x_axis 518 293

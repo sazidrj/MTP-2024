@@ -1,0 +1,16 @@
+5 167 25 359 Number of Genes axis_title 
+43 4 93 24 3000 tick_label 
+43 86 93 107 2500 tick_label 
+43 170 93 191 2000 tick_label 
+44 251 93 272 1500 tick_label 
+44 334 93 354 1000 tick_label 
+55 418 93 438 500 tick_label 
+79 499 93 519 0 tick_label 
+215 533 274 553 A-v-C tick_label 
+483 533 541 553 B-v-C tick_label 
+181 35 232 56 2670 value_label 
+256 50 308 70 2578 value_label 
+448 100 499 120 2274 value_label 
+526 250 575 271 1370 value_label 
+210 594 346 620 up-regulated legend_label 
+425 594 591 620 down-regulated legend_label 

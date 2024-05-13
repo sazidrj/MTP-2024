@@ -1,0 +1,18 @@
+19 59 60 71 TT1998 tick_label
+19 189 59 201 TT2007 tick_label
+61 271 79 282 0% tick_label
+121 271 144 282 10% tick_label
+182 271 206 282 20% tick_label
+244 271 269 283 30% tick_label
+307 271 332 282 40% tick_label
+370 271 394 282 50% tick_label
+432 271 456 282 60% tick_label
+494 271 518 282 70% tick_label
+556 271 581 282 80% tick_label
+619 271 643 282 90% tick_label
+679 271 709 283 100% tick_label
+269 291 494 308 Percentage of ROH in size classes axis_title
+0 83 16 179 TT population axis_title
+308 314 352 326 0.3-1.0 legend_label
+371 314 414 326 1.0-2.0 legend_label
+433 314 460 326 >2.0 legend_label

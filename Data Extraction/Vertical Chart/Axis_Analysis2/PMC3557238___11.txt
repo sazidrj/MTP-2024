@@ -1,0 +1,17 @@
+97 18 131 43 tick_label y_axis 156 31
+98 80 131 105 tick_label y_axis 156 93
+98 142 132 167 tick_label y_axis 156 156
+96 204 130 229 tick_label y_axis 156 218
+98 266 131 291 tick_label y_axis 156 281
+97 329 129 353 tick_label y_axis 156 343
+113 392 130 416 tick_label y_axis 156 405
+114 453 130 479 tick_label y_axis 156 468
+182 499 199 504 tick_label x_axis 188 468
+324 499 341 504 tick_label x_axis 329 468
+393 499 409 504 tick_label x_axis 400 468
+531 499 548 504 tick_label x_axis 541 468
+603 500 619 505 tick_label x_axis 612 468
+742 500 759 505 tick_label x_axis 753 468
+250 492 267 509 tick_label x_axis 259 468
+460 490 477 507 tick_label x_axis 470 468
+671 491 688 508 tick_label x_axis 682 468

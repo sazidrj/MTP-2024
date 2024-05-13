@@ -1,0 +1,21 @@
+4 13 29 379 Total belowground biomass (g/plot) axis_title 
+30 3 51 57 4000 tick_label 
+31 86 51 137 3000 tick_label 
+30 169 51 222 2000 tick_label 
+30 252 51 303 1000 tick_label 
+31 354 51 369 0 tick_label 
+72 370 159 395 Spartina tick_label 
+170 370 289 395 Phragmites tick_label 
+304 370 383 394 Scirpus tick_label 
+415 370 497 395 Sp.+Ph. tick_label 
+528 370 610 395 Sp.+Sc. tick_label 
+304 93 544 119 C: F_{1,30}=9.223, P<0.01 other 
+203 49 330 69 Crab absent legend_label 
+379 49 514 74 Crab present legend_label 
+304 119 567 143 SC: F_{4,30}=4.588, P<0.01 other 
+305 143 607 170 CxSC: F_{4,30}=1.395, P=0.259 other 
+93 153 138 173 1.93 other 
+206 128 248 149 3.01 other 
+321 299 365 319 1.07 other 
+434 185 478 205 1.17 other 
+548 196 592 216 1.57 other 

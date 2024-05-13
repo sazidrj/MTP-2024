@@ -1,0 +1,13 @@
+7 37 41 489 % Of non-inhibited migration axis_title 
+53 7 108 34 120 tick_label 
+52 85 107 113 100 tick_label 
+70 166 108 193 80 tick_label 
+70 246 107 274 60 tick_label 
+69 324 107 352 40 tick_label 
+70 405 106 432 20 tick_label 
+87 482 106 510 0 tick_label 
+126 510 264 578 Non- \n inhibited tick_label 
+298 528 394 556 Box A tick_label 
+420 529 586 556 anti-RAGE tick_label 
+492 50 541 77 CB legend_label 
+496 85 541 110 PB legend_label 

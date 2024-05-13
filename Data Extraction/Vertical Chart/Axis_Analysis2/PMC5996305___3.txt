@@ -1,0 +1,11 @@
+127 310 235 328 tick_label x_axis 181 298
+319 310 427 328 tick_label x_axis 374 298
+511 310 618 328 tick_label x_axis 564 298
+30 18 71 33 tick_label y_axis 85 26
+30 57 72 72 tick_label y_axis 85 65
+30 95 71 110 tick_label y_axis 85 104
+30 134 72 149 tick_label y_axis 85 142
+30 173 71 188 tick_label y_axis 85 181
+30 211 71 226 tick_label y_axis 85 220
+30 250 72 265 tick_label y_axis 85 258
+30 289 72 304 tick_label y_axis 85 297

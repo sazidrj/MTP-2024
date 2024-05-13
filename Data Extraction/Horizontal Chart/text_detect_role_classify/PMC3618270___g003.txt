@@ -1,0 +1,24 @@
+232 442 235 456 0 tick_label
+272 452 292 450 20 tick_label
+322 452 342 450 40 tick_label
+373 453 393 451 60 tick_label
+424 453 444 450 80 tick_label
+470 456 494 450 100 tick_label
+521 456 544 450 120 tick_label
+571 456 595 450 140 tick_label
+622 457 645 451 160 tick_label
+672 457 696 451 180 tick_label
+722 456 746 450 200 tick_label
+772 457 797 450 220 tick_label
+160 401 224 416 Original API tick_label
+61 347 223 360 Intermediate or different form tick_label
+35 240 223 254 Delivery mechanism or formulation tick_label
+153 293 224 306 Combination tick_label
+47 186 224 201 Process of making or formulating tick_label
+18 132 224 145 Method of treatment - same ATC class tick_label
+1 78 225 91 Method of treatment - different ATC class tick_label
+191 25 224 37 Other tick_label
+632 54 715 68 API Originator legend_label
+632 95 729 109 Other Originator legend_label
+633 136 719 151 Non-originator legend_label
+420 472 606 487 Number of patents (total n=736) axis_title

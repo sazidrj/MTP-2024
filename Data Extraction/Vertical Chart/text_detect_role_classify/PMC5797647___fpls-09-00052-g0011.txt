@@ -1,0 +1,20 @@
+592 433 618 448 NG tick_label 
+533 433 570 448 Sr57 tick_label 
+483 433 519 448 Sr24 tick_label 
+430 433 466 448 Sr12 tick_label 
+378 433 413 448 Sr11 tick_label 
+323 433 359 448 Sr9b tick_label 
+268 433 304 448 Sr8a tick_label 
+215 433 251 448 Sr7a tick_label 
+166 433 194 448 Sr6 tick_label 
+115 433 142 448 Sr2 tick_label 
+49 411 60 426 0 tick_label 
+41 352 60 367 20 tick_label 
+41 294 60 309 40 tick_label 
+41 235 60 250 60 tick_label 
+41 177 60 192 80 tick_label 
+33 119 60 134 100 tick_label 
+32 61 60 76 120 tick_label 
+33 2 60 17 140 tick_label 
+0 178 15 251 No. lines axis_title 
+300 467 432 488 Postulated genes axis_title 

@@ -1,0 +1,22 @@
+11 0 23 8 50 tick_label 
+11 38 22 47 45 tick_label 
+11 77 23 86 40 tick_label 
+12 116 22 125 35 tick_label 
+12 155 22 164 30 tick_label 
+12 194 22 203 25 tick_label 
+12 233 22 242 20 tick_label 
+123 241 149 250 control tick_label 
+234 241 259 250 ARDS tick_label 
+180 257 203 266 group axis_title 
+0 94 10 147 PAPi (mmHg) axis_title 
+0 257 135 266 \pounds NS, $ p<0.01;\star p <0. 01; \mu p<0.01. other 
+109 159 117 170 \pounds other 
+118 159 124 165 \star other 
+217 156 225 167 \pounds other 
+226 158 234 169 \mu other 
+146 117 155 128 $ other 
+157 117 162 123 \star other 
+259 52 265 63 $ other 
+268 55 275 66 \mu other 
+72 27 93 36 basal legend_label 
+72 37 90 46 PLV legend_label 

@@ -1,0 +1,26 @@
+57 8 243 29 Virburnum cordifolium tick_label
+37 44 243 65 Rhododendron lepidotum tick_label
+65 80 243 100 Gaultheria pyroloides tick_label
+30 115 243 132 Rhododenderon arboreum tick_label
+51 150 243 171 Rhododenderon fulgens tick_label
+136 186 243 203 Pieris villosa tick_label
+22 221 243 242 Rhododendron anthopogon tick_label
+48 257 243 274 Rhododendron setosum tick_label
+51 292 243 313 Gaultheria trichophylla tick_label
+30 327 244 344 Rhododenderon thomsonii tick_label
+95 364 243 384 Juniperus recurva tick_label
+0 399 243 420 Rhododendron campanulatum tick_label
+30 434 244 455 Rhododenderon hodgsonii tick_label
+123 470 238 490 Ribes glaciale tick_label
+94 505 243 522 Prunus ceresoides tick_label
+62 540 244 561 Rhododendron wightii tick_label
+134 576 238 593 Rosa sericea tick_label
+52 612 243 628 Rhododendron lanatum tick_label
+102 647 244 664 Sorbus thomsonii tick_label
+144 682 243 699 Abies densa tick_label
+253 726 266 745 0 tick_label
+368 726 380 745 5 tick_label
+479 726 502 745 10 tick_label
+594 726 615 745 15 tick_label
+706 726 730 745 20 tick_label
+342 760 539 780 Percent IVI weightage axis_title

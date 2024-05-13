@@ -1,0 +1,28 @@
+42 406 276 421 Challenges in participants recruitment tick_label
+93 382 274 398 Patient's co-authorship issues tick_label
+69 358 276 374 Potential breach of confidentiality tick_label
+104 335 275 348 Traditional research culture tick_label
+26 310 275 327 Absence/impact of patient compensation tick_label
+94 288 275 301 Lack of evaluation framework tick_label
+164 264 274 277 Power differential tick_label
+130 241 275 256 Harm to patient partner tick_label
+111 217 275 232 Disagreement on priorities tick_label
+10 193 275 209 Patients/researchers insuficient knowledge tick_label
+48 170 275 186 Patient exclusion from research stage tick_label
+162 146 275 159 Conflict of interest tick_label
+83 122 275 138 Logistical and practical barriers tick_label
+213 99 274 112 Tokenism tick_label
+124 76 275 89 Absence of shared vision tick_label
+40 52 275 67 Lack of support for partnered research tick_label
+0 28 274 44 Challenges in the selection of patient partners tick_label
+28 4 275 20 Lack of resources to support partnership tick_label
+283 436 292 447 0 tick_label
+467 436 476 447 8 tick_label
+421 436 430 447 6 tick_label
+375 436 384 447 4 tick_label
+509 435 525 447 10 tick_label
+555 436 572 447 12 tick_label
+601 435 618 447 14 tick_label
+647 435 663 447 16 tick_label
+693 436 709 447 18 tick_label
+329 436 338 447 2 tick_label

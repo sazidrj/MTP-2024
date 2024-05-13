@@ -1,0 +1,18 @@
+75 210 85 222 0 tick_label 
+137 210 145 222 1 tick_label 
+198 210 206 222 2 tick_label 
+259 210 268 222 3 tick_label 
+320 210 329 222 4 tick_label 
+147 230 256 242 NOPES score results axis_title 
+31 194 40 206 0 tick_label 
+26 174 40 186 10 tick_label 
+25 155 40 167 20 tick_label 
+25 135 40 147 30 tick_label 
+25 116 41 128 40 tick_label 
+25 97 41 109 50 tick_label 
+25 77 40 89 60 tick_label 
+25 58 41 70 70 tick_label 
+25 39 40 50 80 tick_label 
+25 19 41 31 90 tick_label 
+19 0 40 12 100 tick_label 
+0 13 14 180 % Probability of bronchiectasis axis_title 

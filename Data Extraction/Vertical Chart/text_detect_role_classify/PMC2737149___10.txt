@@ -1,0 +1,23 @@
+86 2 102 15 12 tick_label 
+86 27 102 40 10 tick_label 
+93 53 102 65 8 tick_label 
+93 77 102 90 6 tick_label 
+92 102 102 115 4 tick_label 
+93 128 102 139 2 tick_label 
+93 152 102 164 0 tick_label 
+120 172 143 184 290 tick_label 
+162 172 185 184 510 tick_label 
+203 172 227 185 290 tick_label 
+245 173 268 185 510 tick_label 
+287 172 311 185 290 tick_label 
+330 172 353 185 510 tick_label 
+143 197 162 210 1.5 tick_grouping 
+231 198 240 210 3 tick_grouping 
+315 197 324 210 6 tick_grouping 
+51 171 112 187 mOsm/kg: axis_title 
+44 28 75 142 Relative activity\n (ORE-Luc reporter) axis_title 
+2 197 112 213 Plasmid DNA (ug): other 
+386 10 468 25 Wild-type FL5 legend_label 
+385 26 427 40 FL5^{AED} legend_label 
+385 43 425 57 FL5^{DB1} legend_label 
+242 4 264 14 n.s. other 

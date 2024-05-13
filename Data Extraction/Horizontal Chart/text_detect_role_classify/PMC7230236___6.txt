@@ -1,0 +1,20 @@
+65 392 77 408 0 tick_label
+206 392 228 408 20 tick_label
+352 392 374 409 40 tick_label
+497 392 519 408 60 tick_label
+642 392 664 408 80 tick_label
+115 343 137 358 10 value_label
+238 294 260 309 28 value_label
+324 245 346 260 41 value_label
+301 196 323 211 38 value_label
+282 146 304 161 35 value_label
+320 47 343 62 42 value_label
+443 97 465 113 58 value_label
+533 37 634 63 F_{max} (mN) chart_title
+27 341 51 358 PC tick_label
+27 293 51 310 P1 tick_label
+29 243 51 260 F1 tick_label
+28 194 50 211 P2 tick_label
+30 145 52 162 F2 tick_label
+28 96 50 113 P3 tick_label
+29 47 51 64 F3 tick_label

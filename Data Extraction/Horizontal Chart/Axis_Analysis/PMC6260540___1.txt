@@ -1,0 +1,14 @@
+207 104 277 124 tick_label x_axis 289 114
+134 127 277 143 tick_label x_axis 289 135
+36 150 277 169 tick_label x_axis 289 160
+125 172 277 191 tick_label x_axis 289 182
+166 194 277 214 tick_label x_axis 289 204
+180 217 277 236 tick_label x_axis 289 226
+181 240 277 259 tick_label x_axis 289 250
+180 262 278 281 tick_label x_axis 289 272
+142 285 277 303 tick_label x_axis 289 294
+278 314 300 328 tick_label y_axis 289 304
+377 314 407 328 tick_label y_axis 392 304
+480 314 511 328 tick_label y_axis 496 304
+584 314 615 328 tick_label y_axis 599 304
+688 314 718 328 tick_label y_axis 703 304

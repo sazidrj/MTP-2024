@@ -1,0 +1,17 @@
+72 342 119 357 tick_label x_axis 96 339
+132 342 178 357 tick_label x_axis 155 339
+191 342 237 357 tick_label x_axis 214 339
+250 342 296 357 tick_label x_axis 273 339
+309 343 355 357 tick_label x_axis 332 339
+368 342 414 357 tick_label x_axis 391 339
+426 342 472 356 tick_label x_axis 450 339
+486 342 532 356 tick_label x_axis 509 339
+545 342 592 356 tick_label x_axis 568 339
+604 342 650 356 tick_label x_axis 627 339
+659 342 714 357 tick_label x_axis 686 339
+29 22 62 35 tick_label y_axis 66 29
+36 85 62 97 tick_label y_axis 66 91
+37 146 62 159 tick_label y_axis 66 153
+36 208 62 221 tick_label y_axis 66 215
+38 270 63 282 tick_label y_axis 66 277
+53 332 62 345 tick_label y_axis 66 339

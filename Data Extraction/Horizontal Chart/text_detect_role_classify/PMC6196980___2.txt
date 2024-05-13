@@ -1,0 +1,54 @@
+52 37 137 53 Zimbabwe tick_label
+33 62 136 79 United States tick_label
+75 89 137 110 Uganda tick_label
+86 116 136 132 Sudan tick_label
+17 143 137 159 Southwest Asia tick_label
+21 169 137 185 Southeast Asia tick_label
+51 195 137 212 South Asia tick_label
+18 222 136 238 South America tick_label
+36 248 136 264 South Africa tick_label
+76 274 136 295 Senegal tick_label
+99 301 136 317 Peru tick_label
+19 328 136 344 Northeast Asia tick_label
+16 354 136 370 North America tick_label
+34 380 137 397 North Africa tick_label
+86 407 136 428 Kenya tick_label
+79 433 137 454 Europe tick_label
+14 459 136 480 Czech Republic tick_label
+64 486 137 502 East Asia tick_label
+49 512 136 529 East Africa tick_label
+87 539 136 555 China tick_label
+23 565 137 582 Central Africa tick_label
+35 592 136 608 Brazil Mixed tick_label
+46 618 135 634 Australia... tick_label
+124 653 173 668 0.00% tick_label
+211 653 269 668 20.00% tick_label
+301 653 360 668 40.00% tick_label
+392 653 451 668 60.00% tick_label
+483 653 541 668 80.00% tick_label
+572 653 637 668 100.00% tick_label
+662 653 727 668 120.00% tick_label
+608 619 666 634 99.30% value_label
+591 593 649 608 95.77% value_label
+576 566 635 582 92.35% value_label
+581 539 639 555 93.35% value_label
+583 513 641 529 93.75% value_label
+569 487 627 503 90.66% value_label
+603 460 661 476 98.32% value_label
+603 434 661 449 98.36% value_label
+587 408 645 423 94.81% value_label
+587 381 645 397 94.74% value_label
+596 354 654 370 96.49% value_label
+582 328 640 343 93.62% value_label
+570 302 628 317 90.96% value_label
+580 275 638 291 93.09% value_label
+573 223 631 238 91.49% value_label
+574 196 632 211 91.76% value_label
+572 169 631 185 91.49% value_label
+557 143 615 159 87.96% value_label
+597 117 655 132 96.64% value_label
+590 90 648 106 95.24% value_label
+596 63 653 79 96.61% value_label
+594 38 652 53 96.30% value_label
+165 249 212 264 1.53% value_label
+289 11 447 32 Population coverage chart_title

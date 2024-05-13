@@ -1,0 +1,7 @@
+32 2 48 15 tick_label y_axis 58 9
+32 88 48 101 tick_label y_axis 58 95
+31 173 49 186 tick_label y_axis 58 181
+32 258 48 271 tick_label y_axis 58 267
+121 274 174 290 tick_label x_axis 205 267
+216 274 312 287 tick_label x_axis 322 267
+362 276 400 287 tick_label x_axis 440 267

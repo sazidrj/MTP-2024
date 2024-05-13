@@ -1,0 +1,22 @@
+0 172 27 480 Root fresh weight (t.ha^{-1}) axis_title 
+43 91 67 109 50 tick_label 
+42 190 67 207 40 tick_label 
+44 289 66 306 30 tick_label 
+44 386 66 404 20 tick_label 
+44 480 67 496 10 tick_label 
+107 608 137 625 P0 tick_label 
+189 608 248 627 P 50% tick_label 
+279 608 351 627 P 100% tick_label 
+395 608 424 626 P0 tick_label 
+475 608 536 626 P 50% tick_label 
+562 609 634 626 P 100% tick_label 
+146 644 278 665 Inoculated tick_grouping 
+412 643 604 663 Non-inoculated tick_grouping 
+269 0 406 27 Santana chart_title 
+114 169 133 195 b other 
+210 108 228 127 a other 
+295 160 331 185 ab other 
+402 239 420 259 c other 
+498 174 517 199 b other 
+583 150 620 175 ab other 
+57 582 68 599 0 tick_label 

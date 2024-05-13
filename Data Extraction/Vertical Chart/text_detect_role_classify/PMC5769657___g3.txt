@@ -1,0 +1,21 @@
+30 2 77 22 0.40 tick_label 
+30 67 77 88 0.35 tick_label 
+30 134 77 154 0.30 tick_label 
+30 199 77 219 0.25 tick_label 
+30 264 76 285 0.20 tick_label 
+30 331 77 351 0.15 tick_label 
+30 396 76 416 0.10 tick_label 
+30 462 77 483 0.05 tick_label 
+101 478 121 508 FB tick_label 
+163 479 188 575 FB+CytD tick_label 
+225 477 246 563 FB+A23 tick_label 
+286 480 311 630 FB+A23+CytD tick_label 
+348 480 368 579 FB+Noco tick_label 
+594 479 619 629 FS+A23+CytD tick_label 
+471 478 497 574 FS+CytD tick_label 
+532 476 554 562 FS+A23 tick_label 
+409 477 429 507 FS tick_label 
+1 91 29 394 Proportion of mitochondria axis_title 
+132 58 206 79 Fission legend_label 
+132 29 203 50 Fusion legend_label 
+655 479 676 578 FS+Noco tick_label 

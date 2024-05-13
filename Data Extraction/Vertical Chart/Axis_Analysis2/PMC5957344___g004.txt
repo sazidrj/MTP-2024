@@ -1,0 +1,15 @@
+653 427 672 439 tick_label y_axis_2 649 434
+653 319 672 331 tick_label y_axis_2 649 326
+654 212 672 224 tick_label y_axis_2 649 219
+654 105 672 117 tick_label y_axis_2 649 112
+523 441 573 456 tick_label x_axis 549 434
+425 440 472 455 tick_label x_axis 450 434
+313 441 387 453 tick_label x_axis 350 434
+224 441 280 452 tick_label x_axis 251 434
+122 441 181 453 tick_label x_axis 151 434
+38 426 47 438 tick_label y_axis 52 434
+38 340 47 352 tick_label y_axis 52 348
+38 255 46 267 tick_label y_axis 52 262
+38 168 47 182 tick_label y_axis 52 176
+38 84 46 96 tick_label y_axis 52 90
+33 0 47 9 tick_label y_axis 52 4

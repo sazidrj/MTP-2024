@@ -1,0 +1,20 @@
+2 26 16 142 % per chromosome axis_title 
+20 1 35 13 25 tick_label 
+20 31 35 43 20 tick_label 
+22 63 35 75 15 tick_label 
+21 94 35 106 10 tick_label 
+26 126 35 137 5 tick_label 
+26 156 35 168 0 tick_label 
+48 174 55 186 1 tick_label 
+81 174 90 186 3 tick_label 
+114 174 123 186 5 tick_label 
+147 174 156 186 7 tick_label 
+180 174 188 186 9 tick_label 
+211 174 223 186 11 tick_label 
+244 174 258 186 13 tick_label 
+277 174 292 186 15 tick_label 
+311 174 325 186 17 tick_label 
+343 174 358 186 19 tick_label 
+376 174 389 186 21 tick_label 
+412 174 423 186 X tick_label 
+194 195 274 207 Chromosome axis_title 

@@ -1,0 +1,20 @@
+99 10 159 43 100 tick_label 
+116 81 159 114 90 tick_label 
+117 150 159 183 80 tick_label 
+114 221 159 254 70 tick_label 
+116 292 159 325 60 tick_label 
+117 363 159 397 50 tick_label 
+115 435 159 468 40 tick_label 
+116 506 159 539 30 tick_label 
+116 577 159 611 20 tick_label 
+120 646 159 679 10 tick_label 
+137 717 159 751 0 tick_label 
+277 768 299 801 0 tick_label 
+463 768 478 801 1 tick_label 
+645 768 664 801 5 tick_label 
+304 101 435 138 PML^{+/+} legend_label 
+305 158 423 196 PML^{-/-} legend_label 
+394 815 577 856 Serum (%) axis_title 
+11 258 52 588 No. of migrant cells axis_title 
+301 668 318 684 \star other 
+491 464 508 481 \star other 

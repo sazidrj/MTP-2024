@@ -1,0 +1,14 @@
+300 0 338 26 PA chart_title 
+84 359 158 375 A.I. 100% tick_label 
+205 359 269 375 A.I. 50% tick_label 
+320 359 385 375 A.I. 25% tick_label 
+437 360 499 375 INFLAM tick_label 
+560 360 608 375 DICLO tick_label 
+26 49 47 64 60 tick_label 
+26 96 47 112 50 tick_label 
+26 144 47 160 40 tick_label 
+26 192 47 207 30 tick_label 
+26 239 47 255 20 tick_label 
+27 287 47 303 10 tick_label 
+35 335 47 351 0 tick_label 
+0 113 21 287 E. coli/100 leukocytes axis_title 

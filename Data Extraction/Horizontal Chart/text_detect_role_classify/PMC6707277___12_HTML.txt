@@ -1,0 +1,27 @@
+1 100 34 112 svm tick_label
+22 267 35 283 rf tick_label
+23 439 34 454 Ir tick_label
+48 557 60 573 0 tick_label
+104 557 125 573 20 tick_label
+163 557 185 573 40 tick_label
+224 557 245 573 60 tick_label
+284 557 305 573 80 tick_label
+341 557 370 573 100 tick_label
+401 557 430 573 120 tick_label
+461 557 490 573 140 tick_label
+521 557 550 573 160 tick_label
+581 557 610 573 180 tick_label
+63 495 103 512 0.27 value_label
+63 438 102 455 0.16 value_label
+63 381 102 398 0.24 value_label
+579 323 638 341 169.67 value_label
+376 266 435 284 102.16 value_label
+327 209 377 227 87.10 value_label
+260 152 310 170 65.00 value_label
+242 95 292 113 58.76 value_label
+245 38 295 56 59.84 value_label
+137 585 559 608 Time required for Training + Testing (Sec) axis_title
+174 642 314 658 ASTER 30 Meters legend_label
+367 642 488 658 Lidar 30 Meters legend_label
+541 642 652 658 Lidar 5 Meters legend_label
+43 641 123 659 Dataset legend_title

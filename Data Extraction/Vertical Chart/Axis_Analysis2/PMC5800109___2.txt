@@ -1,0 +1,10 @@
+69 467 81 483 tick_label y_axis 89 475
+60 390 81 406 tick_label y_axis 89 398
+60 313 81 329 tick_label y_axis 89 321
+60 235 81 251 tick_label y_axis 89 243
+60 158 81 174 tick_label y_axis 89 166
+52 81 80 97 tick_label y_axis 89 89
+52 4 81 20 tick_label y_axis 89 11
+221 487 276 503 tick_label x_axis 249 477
+388 487 434 507 tick_label x_axis 409 477
+533 487 609 507 tick_label x_axis 568 477

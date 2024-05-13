@@ -1,0 +1,15 @@
+41 31 72 49 120 tick_label 
+41 86 72 103 100 tick_label 
+51 141 73 158 80 tick_label 
+51 194 73 212 60 tick_label 
+51 249 73 267 40 tick_label 
+50 303 72 321 20 tick_label 
+62 359 74 376 0 tick_label 
+159 378 191 396 NT tick_label 
+311 379 333 397 25 tick_label 
+247 378 263 396 T tick_label 
+392 379 415 397 50 tick_label 
+473 379 505 397 100 tick_label 
+563 379 595 397 150 tick_label 
+295 424 537 448 Hydrogen peroxide 10 mM axis_title 
+13 108 37 286 ROS generation (%) axis_title 

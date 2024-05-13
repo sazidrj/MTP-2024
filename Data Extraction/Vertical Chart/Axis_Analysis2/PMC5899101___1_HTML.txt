@@ -1,0 +1,16 @@
+150 447 156 468 tick_label x_axis 156 432
+287 446 299 468 tick_label x_axis 296 432
+424 446 443 468 tick_label x_axis 436 432
+562 446 586 468 tick_label x_axis 576 432
+704 446 723 468 tick_label x_axis 715 432
+60 420 74 442 tick_label y_axis 85 432
+49 379 74 402 tick_label y_axis 85 390
+47 335 74 359 tick_label y_axis 85 347
+47 294 73 317 tick_label y_axis 85 305
+47 253 74 276 tick_label y_axis 85 263
+47 210 74 233 tick_label y_axis 85 220
+47 169 74 192 tick_label y_axis 85 178
+47 128 74 151 tick_label y_axis 85 135
+47 84 74 108 tick_label y_axis 85 93
+47 43 74 66 tick_label y_axis 85 50
+36 2 74 25 tick_label y_axis 85 8

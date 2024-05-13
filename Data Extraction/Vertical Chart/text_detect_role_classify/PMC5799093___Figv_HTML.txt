@@ -1,0 +1,27 @@
+9 183 44 173 Ongoing  \n  sedation tick_label 
+47 189 81 166 drowsiness tick_label 
+79 196 126 174 Hemodynamic  \n  failure tick_label 
+125 182 160 173 Fluid  \n  overload tick_label 
+162 190 197 168 Respiratory tick_label 
+199 185 236 173 Muscular  \n  weakness tick_label 
+242 175 262 167 other tick_label 
+250 216 310 166 Ongoing initial disease tick_label 
+295 213 354 167 Need for ACV settings tick_label 
+30 27 56 35 p=0.008 other 
+68 24 91 32 p=0.92 other 
+104 101 127 110 p=0.88 other 
+138 82 164 89 p=0.002 other 
+179 117 202 126 p=0.80 other 
+213 92 240 101 p=0.002 other 
+251 90 274 99 p=0.12 other 
+289 35 319 44 p=0.0001 other 
+325 68 355 77 p=0.0001 other 
+55 218 98 228 Before day 7 legend_label 
+140 218 177 227 After day 7 legend_label 
+4 154 19 162 0.00 tick_label 
+4 128 19 136 5.00 tick_label 
+1 102 18 110 10.00 tick_label 
+1 75 19 84 15.00 tick_label 
+1 50 19 58 20.00 tick_label 
+1 23 19 32 25.00 tick_label 
+8 0 20 11 % axis_title 

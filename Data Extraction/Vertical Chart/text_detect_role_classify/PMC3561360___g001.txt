@@ -1,0 +1,30 @@
+2 137 25 316 Number of patients axis_title 
+291 480 509 503 Age distribution (years) axis_title 
+28 2 58 19 450 tick_label 
+28 50 58 66 400 tick_label 
+29 97 58 113 350 tick_label 
+29 144 58 160 300 tick_label 
+29 191 58 207 250 tick_label 
+29 237 58 254 200 tick_label 
+29 284 58 301 150 tick_label 
+29 332 58 348 100 tick_label 
+37 379 58 395 50 tick_label 
+47 426 58 442 0 tick_label 
+97 456 129 472 <20 tick_label 
+172 456 221 472 21~30 tick_label 
+255 456 304 472 31~40 tick_label 
+336 456 386 472 41~50 tick_label 
+420 456 469 472 51~60 tick_label 
+502 456 551 472 61~70 tick_label 
+585 456 634 472 71~80 tick_label 
+677 456 709 472 >80 tick_label 
+495 31 601 53 Type 2 DM legend_label 
+496 54 574 73 Non-DM legend_label 
+90 400 113 415 0% other 
+172 388 195 421 0.4 \n % other 
+252 387 276 421 1.4 \n % other 
+335 370 361 405 5.7 \n % other 
+410 353 442 385 14.5 \n % other 
+492 367 527 400 20.1 \n % other 
+575 387 607 421 16.9 \n % other 
+657 393 690 428 16.7 \n % other 

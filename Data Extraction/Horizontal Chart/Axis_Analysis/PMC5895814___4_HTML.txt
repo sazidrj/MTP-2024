@@ -1,0 +1,14 @@
+207 324 218 339 tick_label y_axis 212 312
+276 324 296 339 tick_label y_axis 285 312
+345 324 373 340 tick_label y_axis 359 312
+418 324 446 340 tick_label y_axis 432 312
+490 324 520 339 tick_label y_axis 505 312
+563 324 593 340 tick_label y_axis 578 312
+636 324 665 339 tick_label y_axis 652 312
+80 282 197 298 tick_label x_axis 212 290
+72 238 197 254 tick_label x_axis 212 246
+48 194 197 210 tick_label x_axis 212 202
+0 150 198 167 tick_label x_axis 212 159
+48 106 197 124 tick_label x_axis 212 115
+71 61 199 77 tick_label x_axis 212 69
+80 17 197 36 tick_label x_axis 212 27

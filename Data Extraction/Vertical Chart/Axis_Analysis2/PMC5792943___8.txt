@@ -1,0 +1,12 @@
+712 503 726 524 tick_label x_axis 719 486
+605 504 618 524 tick_label x_axis 612 486
+498 503 512 523 tick_label x_axis 506 486
+392 503 404 524 tick_label x_axis 399 486
+284 503 298 523 tick_label x_axis 292 486
+180 504 188 523 tick_label x_axis 185 486
+70 503 84 524 tick_label x_axis 78 486
+43 475 69 495 tick_label y_axis 78 486
+43 357 68 377 tick_label y_axis 78 368
+42 238 69 259 tick_label y_axis 78 250
+42 120 68 141 tick_label y_axis 78 131
+34 2 71 22 tick_label y_axis 78 13

@@ -1,0 +1,13 @@
+2 44 21 172 Cell Viability (%) axis_title 
+166 254 224 272 Assays axis_title 
+24 2 50 16 120 tick_label 
+25 35 50 49 100 tick_label 
+32 68 49 82 80 tick_label 
+32 101 50 114 60 tick_label 
+32 134 49 148 40 tick_label 
+33 167 50 180 20 tick_label 
+40 201 50 213 0 tick_label 
+104 241 137 228 MTT tick_label 
+254 241 287 228 LDH tick_label 
+408 14 462 30 Control legend_label 
+409 38 441 53 LPS legend_label 

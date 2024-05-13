@@ -1,0 +1,21 @@
+126 5 335 33 Stem cells: adult neuron differentiation in \n subventricular and subgranular zones tick_label
+21 36 336 51 Nicotine signaling in dopaminergic neurons, Pt. 1 - cell body tick_label
+89 61 336 75 Aminoacyl-tRNA biosynthesis in mitochondrion tick_label
+15 86 336 100 Gamma-aminobutyrate (GABA) biosynthesis and metabolism tick_label
+115 111 336 125 Histidine-glutamate-glutamine metabolism tick_label
+110 136 336 150 Aminoacyl-tRNA biosynthesis in cytoplasm tick_label
+25 161 336 175 Neurophysiological process: GABAergic neurotransmission tick_label
+3 186 335 200 Signal transduction: Amino acid-dependent mTORC1 activation tick_label
+138 211 336 225 Metabolism in pancreatic cancer cells tick_label
+135 236 336 250 Aspartate and asparagine metabolism tick_label
+336 263 345 275 0 tick_label
+389 263 396 275 1 tick_label
+440 264 449 275 2 tick_label
+492 263 501 275 3 tick_label
+544 263 553 276 4 tick_label
+597 264 605 275 5 tick_label
+648 263 657 276 6 tick_label
+700 263 709 275 7 tick_label
+753 263 761 275 8 tick_label
+502 284 596 302 -log_{10}(p-value) axis_title
+694 240 752 249 Metabolomics legend_label

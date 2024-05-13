@@ -1,0 +1,14 @@
+661 385 723 400 tick_label x_axis 692 369
+562 385 624 400 tick_label x_axis 593 369
+462 385 524 400 tick_label x_axis 493 369
+357 385 430 400 tick_label x_axis 394 369
+265 385 327 400 tick_label x_axis 296 369
+166 385 228 400 tick_label x_axis 197 369
+67 385 127 400 tick_label x_axis 97 369
+23 362 38 376 tick_label y_axis 49 369
+23 302 36 315 tick_label y_axis 49 309
+28 242 38 255 tick_label y_axis 49 249
+29 182 36 195 tick_label y_axis 49 189
+28 122 38 136 tick_label y_axis 49 129
+28 62 38 76 tick_label y_axis 49 69
+27 2 37 15 tick_label y_axis 49 9

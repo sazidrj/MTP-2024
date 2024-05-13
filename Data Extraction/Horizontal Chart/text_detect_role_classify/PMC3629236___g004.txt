@@ -1,0 +1,19 @@
+208 368 221 387 0 tick_label
+385 368 411 387 50 tick_label
+564 368 599 387 100 tick_label
+747 368 782 387 150 tick_label
+693 310 728 329 122 value_label
+246 261 259 281 6 value_label
+232 213 245 232 4 value_label
+224 162 233 181 1 value_label
+249 116 263 135 7 value_label
+235 68 248 87 3 value_label
+234 20 247 39 4 value_label
+101 308 195 328 Alkaloids tick_label
+118 261 196 280 Phenols tick_label
+77 212 195 236 Phytosterols tick_label
+90 163 195 188 Fatty acids tick_label
+23 115 196 140 Iridoid glucosides tick_label
+88 67 195 92 Glycosides tick_label
+2 18 195 43 Anhydronium bases tick_label
+208 399 780 424 Number of plant-derived molecules of Rauvolfia serpentina axis_title

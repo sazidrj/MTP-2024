@@ -1,0 +1,22 @@
+68 362 93 376 Italy, tick_label 
+130 363 160 376 Spain tick_label 
+185 363 234 376 Germany tick_label 
+250 362 298 374 Australia tick_label 
+322 363 354 376 Japan tick_label 
+387 363 419 374 Korea tick_label 
+448 363 487 374 Taiwan tick_label 
+518 362 547 374 Brazil tick_label 
+524 2 537 14 1L legend_label 
+523 25 537 37 2L legend_label 
+523 48 537 60 3L legend_label 
+523 71 562 83 Overall legend_label 
+16 0 37 11 150 tick_label 
+16 45 37 57 130 tick_label 
+16 91 37 103 110 tick_label 
+22 138 37 150 90 tick_label 
+22 184 37 196 70 tick_label 
+22 230 37 242 50 tick_label 
+22 277 37 288 30 tick_label 
+23 323 37 334 10 tick_label 
+18 369 37 380 -10 tick_label 
+0 84 13 297 Outpatient visits per 100 patient-weeks axis_title 

@@ -1,0 +1,13 @@
+689 81 727 104 RP legend_label 
+689 124 762 148 no RP legend_label 
+124 406 191 427 home tick_label 
+245 406 399 427 medical ward tick_label 
+439 406 540 427 ICU/HDU tick_label 
+57 381 72 402 0 tick_label 
+57 301 72 322 5 tick_label 
+44 141 71 163 15 tick_label 
+44 221 71 243 10 tick_label 
+44 61 72 83 20 tick_label 
+216 443 430 466 Location of death axis_title 
+7 123 31 341 Number of Charts axis_title 
+30 6 617 39 Location of death and Resuscitation plan chart_title 

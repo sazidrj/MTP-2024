@@ -1,0 +1,13 @@
+628 261 715 276 tick_label x_axis 668 252
+545 261 590 276 tick_label x_axis 563 252
+421 261 505 276 tick_label x_axis 459 252
+337 261 380 276 tick_label x_axis 354 252
+236 261 271 276 tick_label x_axis 250 252
+109 261 192 276 tick_label x_axis 145 252
+69 240 81 257 tick_label y_axis 97 252
+58 199 81 217 tick_label y_axis 97 211
+49 159 81 177 tick_label y_axis 97 171
+49 119 81 136 tick_label y_axis 97 131
+47 79 81 96 tick_label y_axis 97 90
+47 38 81 56 tick_label y_axis 97 50
+48 0 81 15 tick_label y_axis 97 10

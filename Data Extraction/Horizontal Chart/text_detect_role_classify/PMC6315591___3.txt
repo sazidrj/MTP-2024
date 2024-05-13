@@ -1,0 +1,23 @@
+12 64 123 90 [S12A] GI tick_label
+8 105 122 130 [Y11LA] GI tick_label
+7 145 122 170 [H10A] GI tick_label
+21 185 122 210 [R9A] GI tick_label
+19 226 122 250 [G8A] GI tick_label
+24 266 122 291 [PSA] GI tick_label
+14 306 116 331 [N4A] GI tick_label
+22 346 123 372 [E1A] GI tick_label
+92 386 122 407 GI tick_label
+114 426 144 448 0.0 tick_label
+198 427 229 448 0.2 tick_label
+283 428 314 447 0.4 tick_label
+367 428 398 446 0.6 tick_label
+452 428 482 447 0.8 tick_label
+537 428 567 447 1.0 tick_label
+623 428 651 447 1.2 tick_label
+178 467 588 502 Relative current amplitude axis_title
+293 2 441 38 M\alpha 1\beta 1\delta \varepsilon chart_title
+567 109 615 122 **** other
+516 190 563 203 **** other
+566 231 614 243 **** other
+496 271 544 284 **** other
+186 352 234 364 **** other

@@ -1,0 +1,8 @@
+124 406 191 427 tick_label x_axis 157 392
+245 406 399 427 tick_label x_axis 323 392
+439 406 540 427 tick_label x_axis 490 392
+57 381 72 402 tick_label y_axis 85 392
+57 301 72 322 tick_label y_axis 85 312
+44 141 71 163 tick_label y_axis 85 152
+44 221 71 243 tick_label y_axis 85 232
+44 61 72 83 tick_label y_axis 85 72

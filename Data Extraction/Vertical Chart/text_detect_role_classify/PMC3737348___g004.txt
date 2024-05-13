@@ -1,0 +1,23 @@
+0 192 26 400 Colonization (%) axis_title 
+307 0 445 27 Santana chart_title 
+44 63 67 82 60 tick_label 
+44 143 67 161 50 tick_label 
+43 223 67 241 40 tick_label 
+42 302 66 320 30 tick_label 
+41 380 66 398 20 tick_label 
+42 460 65 479 10 tick_label 
+54 536 66 554 0 tick_label 
+93 564 124 582 P 0 tick_label 
+178 564 239 582 P 50% tick_label 
+269 564 342 582 P 100% tick_label 
+411 564 442 582 P 0 tick_label 
+495 564 556 582 P 50% tick_label 
+586 564 659 582 P 100% tick_label 
+137 604 269 625 Inoculated tick_grouping 
+404 603 596 624 Non-inoculated tick_grouping 
+100 142 118 161 a other 
+198 224 217 248 b other 
+284 260 320 285 bc other 
+418 299 436 319 c other 
+505 264 541 290 bc other 
+603 245 639 270 bc other 

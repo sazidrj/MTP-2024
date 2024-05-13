@@ -1,0 +1,11 @@
+48 98 66 112 60 tick_label 
+48 219 66 233 40 tick_label 
+48 341 66 354 20 tick_label 
+56 463 66 475 0 tick_label 
+205 480 258 494 Invaded tick_label 
+442 480 530 494 Non-invaded tick_label 
+291 497 426 518 Community type axis_title 
+160 110 233 124 Native Density legend_label 
+160 136 242 150 Invasive Density legend_label 
+160 162 251 176 Average Richness legend_label 
+18 209 44 315 Density (/m^{2}) axis_title 

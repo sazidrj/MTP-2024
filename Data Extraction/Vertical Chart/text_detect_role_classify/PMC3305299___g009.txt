@@ -1,0 +1,12 @@
+3 62 20 180 Number of ratings axis_title 
+22 3 54 16 2000 tick_label 
+23 59 53 71 1500 tick_label 
+22 114 54 127 1000 tick_label 
+28 170 52 182 500 tick_label 
+39 225 49 238 0 tick_label 
+109 240 115 252 1 tick_label 
+193 239 202 252 2 tick_label 
+278 239 287 252 3 tick_label 
+362 239 372 252 4 tick_label 
+447 239 456 252 5 tick_label 
+243 265 327 280 Naturalness axis_title 

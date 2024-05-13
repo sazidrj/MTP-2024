@@ -1,0 +1,11 @@
+21 23 36 34 tick_label y_axis 44 28
+21 56 36 67 tick_label y_axis 44 62
+22 91 36 102 tick_label y_axis 44 96
+23 125 36 136 tick_label y_axis 44 131
+22 159 35 170 tick_label y_axis 44 165
+27 193 36 204 tick_label y_axis 44 199
+27 228 36 239 tick_label y_axis 44 233
+57 242 137 273 tick_label x_axis 150 233
+164 242 241 273 tick_label x_axis 255 233
+270 242 346 273 tick_label x_axis 361 233
+376 242 450 273 tick_label x_axis 466 233

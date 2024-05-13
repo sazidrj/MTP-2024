@@ -1,0 +1,22 @@
+46 268 88 283 Other tick_label
+38 233 88 248 Flower tick_label
+54 196 88 211 Fruit tick_label
+53 160 87 175 Bark tick_label
+47 123 86 138 Stem tick_label
+43 86 87 101 Leave tick_label
+51 51 87 66 Root tick_label
+0 14 86 32 Whole plant tick_label
+100 305 111 320 0 tick_label
+213 305 233 320 35 tick_label
+334 305 353 320 70 tick_label
+449 305 477 320 105 tick_label
+569 305 597 320 140 tick_label
+275 332 411 350 Number of species axis_title
+114 231 136 248 10 value_label
+109 266 120 283 4 value_label
+153 194 175 211 22 value_label
+161 158 183 174 24 value_label
+191 123 214 140 33 value_label
+204 86 227 103 37 value_label
+502 51 535 68 127 value_label
+512 14 545 31 130 value_label

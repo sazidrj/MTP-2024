@@ -1,0 +1,25 @@
+0 63 12 167 Proportion Statin Use axis_title 
+227 232 280 245 Age Group axis_title 
+92 0 372 15 Recent Statin Use According to Age Group chart_title 
+14 17 35 28 0,35 tick_label 
+19 44 35 55 0,3 tick_label 
+15 70 35 81 0,25 tick_label 
+19 97 35 108 0,2 tick_label 
+14 123 35 134 0,15 tick_label 
+19 149 35 161 0,1 tick_label 
+14 176 35 187 0,05 tick_label 
+96 216 123 226 20-64 tick_label 
+240 216 267 226 20-74 tick_label 
+382 216 414 226 20-85+ tick_label 
+188 254 244 266 Study Group legend_label 
+265 254 324 264 V\ddot{a}sterbotten legend_label 
+106 54 149 68 p:0.059^{1} other 
+249 55 292 68 p:0.372^{1} other 
+397 53 440 67 p:0.601^{1} other 
+76 191 102 202 0,178 other 
+117 191 143 202 0,119 other 
+223 191 243 202 0,22 other 
+264 191 284 201 0,21 other 
+364 191 391 202 0,238 other 
+405 191 432 202 0,246 other 
+27 203 36 212 0 tick_label 

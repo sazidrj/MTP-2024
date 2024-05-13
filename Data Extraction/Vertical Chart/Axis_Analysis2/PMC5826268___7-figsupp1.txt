@@ -1,0 +1,15 @@
+35 493 119 447 tick_label x_axis 110 409
+113 494 197 445 tick_label x_axis 187 409
+188 493 274 445 tick_label x_axis 263 409
+265 493 350 446 tick_label x_axis 340 409
+342 494 427 445 tick_label x_axis 417 409
+419 494 504 445 tick_label x_axis 493 409
+495 493 581 445 tick_label x_axis 570 409
+572 494 657 445 tick_label x_axis 647 409
+648 493 733 446 tick_label x_axis 724 409
+44 396 59 419 tick_label y_axis 71 408
+45 315 56 338 tick_label y_axis 71 329
+44 235 59 257 tick_label y_axis 71 249
+44 154 59 177 tick_label y_axis 71 168
+43 74 60 97 tick_label y_axis 71 88
+47 0 61 18 tick_label y_axis 71 10

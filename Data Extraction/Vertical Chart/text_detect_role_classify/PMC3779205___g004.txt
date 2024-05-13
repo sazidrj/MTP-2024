@@ -1,0 +1,27 @@
+0 129 18 317 Proportion of females axis_title 
+273 527 506 546 Compound - concentration axis_title 
+20 0 51 14 100 tick_label 
+29 42 51 58 90 tick_label 
+29 85 51 102 80 tick_label 
+29 129 51 145 70 tick_label 
+29 173 50 189 60 tick_label 
+29 216 51 233 50 tick_label 
+29 260 50 276 40 tick_label 
+29 304 51 320 30 tick_label 
+29 347 51 364 20 tick_label 
+30 391 51 408 10 tick_label 
+39 435 51 451 0 tick_label 
+69 456 157 473 Verbenone tick_label 
+175 456 239 473 Sulcatol tick_label 
+256 456 348 476 Pinene 5ng tick_label 
+368 456 425 496 Pinene\n 50ng tick_label 
+463 456 520 496 Pinene\n 100ng tick_label 
+541 456 631 518 Ethanol +\n Methanol +\n pinene tick_label 
+642 456 719 518 35Scon +\n 50Chal +\n pinene tick_label 
+291 44 317 61 NS other 
+479 37 507 55 NS other 
+575 39 601 55 NS other 
+109 66 119 76 \star other 
+205 51 216 62 \star other 
+389 37 399 47 \star other 
+680 42 689 51 \star other 

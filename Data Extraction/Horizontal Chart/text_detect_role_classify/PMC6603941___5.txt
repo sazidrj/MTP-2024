@@ -1,0 +1,29 @@
+348 7 630 24 Random Forest Variable Importance chart_title
+59 29 244 48 Soil temperature level 3 tick_label
+81 55 244 71 Total Column Ozone tick_label
+59 81 244 100 Soil temperature level 4 tick_label
+109 107 244 126 Skin temperature tick_label
+54 133 239 152 Soil temperature level 2 tick_label
+83 159 244 178 Surface temperature tick_label
+75 185 241 204 Vol. soil water layer 1 tick_label
+56 211 244 230 10 m V wind component tick_label
+27 237 244 256 Volumetric soil water ayer 2 tick_label
+105 263 245 279 Total Cloud cover tick_label
+74 289 244 308 2 meter temeperature tick_label
+55 315 244 334 10 m U wind component tick_label
+122 341 245 357 low cloud cover tick_label
+4 367 244 386 2 meter dew point temperature tick_label
+36 393 245 412 Total column water vapour tick_label
+112 419 245 439 High cloud cover tick_label
+86 445 245 461 Medium cloud cover tick_label
+89 471 245 487 Total column water tick_label
+73 497 244 513 Skin reservior content tick_label
+50 523 244 539 Mean sea level Pressure tick_label
+85 549 244 569 Surface air pressure tick_label
+238 574 264 587 0.00 tick_label
+322 574 347 587 0.05 tick_label
+405 574 431 587 0.10 tick_label
+489 574 514 586 0.15 tick_label
+572 574 598 587 0.20 tick_label
+655 574 681 587 0.25 tick_label
+411 589 567 608 Relative Importance axis_title

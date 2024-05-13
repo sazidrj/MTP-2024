@@ -1,0 +1,16 @@
+31 8 96 28 10000 tick_label 
+44 70 95 90 1000 tick_label 
+56 131 95 151 100 tick_label 
+69 193 95 213 10 tick_label 
+82 255 92 275 1 tick_label 
+155 282 188 303 PA tick_label 
+267 282 299 303 BS tick_label 
+362 282 428 303 CPNP tick_label 
+468 282 545 303 REEFS tick_label 
+299 307 344 329 Site axis_title 
+0 0 26 254 Mean density (fish/ha) axis_title 
+164 69 177 88 B other 
+163 98 178 116 C other 
+275 109 290 127 C other 
+388 63 401 82 B other 
+498 2 514 20 A other 

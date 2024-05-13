@@ -1,0 +1,16 @@
+51 4 89 27 tick_label y_axis 102 17
+51 97 89 120 tick_label y_axis 102 110
+51 190 89 213 tick_label y_axis 102 203
+51 283 89 306 tick_label y_axis 102 296
+51 376 89 399 tick_label y_axis 102 389
+68 445 133 406 tick_label x_axis 128 389
+120 437 191 415 tick_label x_axis 178 389
+175 432 238 413 tick_label x_axis 229 389
+219 437 289 415 tick_label x_axis 280 389
+270 437 339 416 tick_label x_axis 330 389
+315 442 393 413 tick_label x_axis 380 389
+370 437 440 416 tick_label x_axis 431 389
+409 450 493 416 tick_label x_axis 482 389
+460 449 541 417 tick_label x_axis 532 389
+510 450 593 416 tick_label x_axis 582 389
+561 449 643 415 tick_label x_axis 633 389

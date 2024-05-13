@@ -1,0 +1,20 @@
+127 310 235 328 FAW1 (2012) tick_label 
+319 310 427 328 FAW2 (2013) tick_label 
+511 310 618 328 FAW3 (2013) tick_label 
+30 18 71 33 0.140 tick_label 
+30 57 72 72 0.120 tick_label 
+30 95 71 110 0.100 tick_label 
+30 134 72 149 0.080 tick_label 
+30 173 71 188 0.060 tick_label 
+30 211 71 226 0.040 tick_label 
+30 250 72 265 0.020 tick_label 
+30 289 72 304 0.000 tick_label 
+144 0 268 18 NonMycorrhizal legend_label 
+308 0 401 18 Mycorrhizal legend_label 
+148 189 160 206 b other 
+338 98 350 115 b other 
+530 237 542 254 b other 
+203 161 214 174 a other 
+394 37 405 50 a other 
+587 160 598 173 a other 
+0 69 20 255 FAW Weight Gain (g) axis_title 

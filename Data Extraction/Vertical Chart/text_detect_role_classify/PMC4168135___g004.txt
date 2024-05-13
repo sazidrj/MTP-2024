@@ -1,0 +1,15 @@
+171 519 246 538 Total C tick_label 
+275 519 335 538 Soil C tick_label 
+367 519 435 538 Tree C tick_label 
+455 519 539 538 Shrub C tick_label 
+553 519 633 538 Litter C tick_label 
+653 519 726 538 Herb C tick_label 
+60 4 96 23 350 tick_label 
+60 73 96 92 300 tick_label 
+60 143 96 161 250 tick_label 
+60 212 96 231 200 tick_label 
+61 281 96 300 150 tick_label 
+62 350 96 368 100 tick_label 
+71 419 96 438 50 tick_label 
+83 488 96 507 0 tick_label 
+4 174 31 337 C storage (Tg) axis_title 

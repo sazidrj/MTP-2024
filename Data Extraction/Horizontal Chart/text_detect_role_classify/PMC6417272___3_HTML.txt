@@ -1,0 +1,25 @@
+138 8 378 26 Improvement of physical well-being tick_label
+123 42 378 59 Improvement of emotional well-being tick_label
+24 75 378 93 Reduction of side-effects from oncological treatment tick_label
+280 108 378 123 Other effects* tick_label
+80 142 379 159 Body has increased it’s ability to fight cancer tick_label
+90 175 378 193 Reduction of symtoms from cancer disease tick_label
+270 209 378 223 No benefit at all tick_label
+260 242 374 257 Tumor reduction tick_label
+387 281 398 295 0 tick_label
+432 281 451 295 20 tick_label
+480 281 499 295 40 tick_label
+529 281 548 295 60 tick_label
+578 281 596 295 80 tick_label
+623 281 649 295 100 tick_label
+671 281 697 295 120 tick_label
+624 305 695 315 n answers axis_title
+0 4 13 213 Perceived benetits of CAM use axis_title
+684 10 709 24 116 value_label
+635 44 653 57 96 value_label
+482 77 500 91 33 value_label
+477 110 495 124 31 value_label
+460 144 478 157 24 value_label
+436 177 454 191 14 value_label
+416 210 427 224 6 value_label
+416 244 427 258 6 value_label

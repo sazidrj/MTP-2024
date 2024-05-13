@@ -1,0 +1,35 @@
+53 0 72 13 2.2 tick_label 
+53 31 73 44 2.0 tick_label 
+54 63 73 76 1.8 tick_label 
+54 95 73 107 1.6 tick_label 
+54 126 73 138 1.4 tick_label 
+54 158 72 170 1.2 tick_label 
+54 189 73 201 1.0 tick_label 
+53 220 73 233 0.8 tick_label 
+53 346 73 359 0.0 tick_label 
+53 315 72 327 0.2 tick_label 
+53 283 72 296 0.4 tick_label 
+53 252 73 265 0.6 tick_label 
+86 414 151 371 wildtype (N2) tick_label 
+137 423 210 369 daf-7 (CB1372) tick_label 
+207 414 271 370 daf-1 (DR40) tick_label 
+260 421 330 370 daf-5 (PJI185) tick_label 
+323 417 390 370 sta-1 (RB796) tick_label 
+383 417 450 370 sos-1 (UP604) tick_label 
+432 426 510 370 sem-5 (MT4185) tick_label 
+169 457 280 490 TGF-\beta pathway \n mutants tick_grouping 
+358 453 501 489 JAK/STAT pathway \n mutants tick_grouping 
+2 123 42 236 Reproduction \n (Control = 1) axis_title 
+477 15 529 32 TiO_{2}NPs legend_label 
+478 36 497 49 UV legend_label 
+478 54 554 70 UV+TiO_{2}NPs legend_label 
+150 230 161 240 ** other 
+212 244 219 252 * other 
+259 242 266 249 * other 
+272 241 279 248 * other 
+377 247 388 254 ** other 
+367 17 374 24 * other 
+389 63 402 71 ** other 
+424 76 437 84 ** other 
+487 91 494 99 * other 
+498 221 505 228 * other 

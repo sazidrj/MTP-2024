@@ -1,0 +1,23 @@
+183 39 242 58 control legend_label 
+185 64 234 90 1g/m^{2} legend_label 
+184 123 234 152 5g/m^{2} legend_label 
+183 93 232 121 3g/m^{2} legend_label 
+2 133 35 352 Soil shear strength (N/m^{2}) axis_title 
+69 467 81 483 0 tick_label 
+60 390 81 406 20 tick_label 
+60 313 81 329 40 tick_label 
+60 235 81 251 60 tick_label 
+60 158 81 174 80 tick_label 
+52 81 80 97 100 tick_label 
+52 4 81 20 120 tick_label 
+221 487 276 503 control tick_label 
+388 487 434 507 Jag S tick_label 
+533 487 609 507 Jag C162 tick_label 
+200 326 212 338 e other 
+385 255 396 272 d other 
+419 113 430 126 c other 
+453 103 464 119 b other 
+540 169 551 182 c other 
+577 112 588 129 b other 
+611 45 623 58 a other 
+390 519 476 535 treatments axis_title 

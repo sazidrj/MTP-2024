@@ -1,0 +1,17 @@
+1 100 12 126 AUC axis_title 
+185 196 283 210 subject, repetitions axis_title 
+29 48 37 60 1 tick_label 
+19 89 37 101 0.9 tick_label 
+19 130 37 142 0.8 tick_label 
+19 170 37 182 0.7 tick_label 
+67 181 90 194 A, 5 tick_label 
+103 181 132 194 A, 10 tick_label 
+142 181 171 194 A, 15 tick_label 
+184 181 207 194 B, 5 tick_label 
+220 181 249 193 B, 10 tick_label 
+259 181 288 193 B, 15 tick_label 
+300 181 324 194 C, 5 tick_label 
+336 181 366 194 C, 10 tick_label 
+375 181 405 194 C, 15 tick_label 
+235 6 282 18 OFF-US legend_label 
+236 21 279 32 BOUND legend_label 

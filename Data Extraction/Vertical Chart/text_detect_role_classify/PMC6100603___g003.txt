@@ -1,0 +1,15 @@
+627 180 716 196 Fasting BGL legend_label 
+627 213 702 230 Reading 1 legend_label 
+627 246 702 263 Reading 2 legend_label 
+66 85 96 101 200 tick_label 
+67 149 96 164 150 tick_label 
+67 211 96 226 100 tick_label 
+75 274 97 288 50 tick_label 
+84 338 96 352 0 tick_label 
+105 360 163 374 Control tick_label 
+245 360 308 374 Diabetic tick_label 
+379 359 452 374 Acarbose tick_label 
+547 360 569 374 7b tick_label 
+291 388 401 408 Group types axis_title 
+39 79 61 295 Blod glucose level (gm %) axis_title 
+66 22 96 38 250 tick_label 

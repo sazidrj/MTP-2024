@@ -1,0 +1,14 @@
+60 3 89 21 2.0 tick_label 
+61 72 89 91 1.5 tick_label 
+61 141 89 160 1.0 tick_label 
+60 211 89 229 0.5 tick_label 
+60 280 89 298 0.0 tick_label 
+125 301 178 323 Day 0 tick_label 
+230 301 283 323 Day 7 tick_label 
+328 299 392 323 Day 14 tick_label 
+432 301 494 323 Day 21 tick_label 
+181 28 340 48 Recom. P28- 19 legend_label 
+181 60 306 85 P28- 19_{55-75} legend_label 
+3 13 54 283 P28-19 specific antibody \n response (OD 650nm) axis_title 
+443 58 472 69 \star \star \star other 
+341 97 370 108 \star \star \star other 

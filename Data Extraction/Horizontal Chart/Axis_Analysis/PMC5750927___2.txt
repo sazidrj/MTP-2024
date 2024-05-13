@@ -1,0 +1,12 @@
+165 483 176 498 tick_label y_axis 170 478
+314 483 349 498 tick_label y_axis 331 478
+472 483 510 498 tick_label y_axis 492 478
+631 483 669 498 tick_label y_axis 653 478
+118 411 162 426 tick_label x_axis 166 419
+71 355 162 372 tick_label x_axis 166 364
+121 301 162 316 tick_label x_axis 166 309
+123 246 161 261 tick_label x_axis 166 254
+111 191 161 206 tick_label x_axis 166 199
+113 136 161 151 tick_label x_axis 166 144
+126 81 160 97 tick_label x_axis 166 89
+72 26 161 42 tick_label x_axis 166 34

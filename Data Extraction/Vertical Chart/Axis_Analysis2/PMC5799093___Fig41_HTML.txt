@@ -1,0 +1,11 @@
+46 276 99 260 tick_label x_axis 94 248
+79 286 147 259 tick_label x_axis 142 248
+165 264 196 259 tick_label x_axis 191 248
+213 265 243 261 tick_label x_axis 239 248
+235 279 291 260 tick_label x_axis 288 248
+292 274 341 260 tick_label x_axis 336 248
+31 242 39 252 tick_label y_axis 46 248
+21 187 39 198 tick_label y_axis 46 193
+21 133 39 143 tick_label y_axis 46 139
+21 79 39 89 tick_label y_axis 46 85
+21 24 39 35 tick_label y_axis 46 30

@@ -1,0 +1,29 @@
+16 20 34 30 512 tick_label 
+16 50 34 60 256 tick_label 
+17 80 35 91 128 tick_label 
+21 111 34 121 64 tick_label 
+22 141 34 151 32 tick_label 
+22 172 34 182 16 tick_label 
+27 202 34 212 8 tick_label 
+27 232 34 242 4 tick_label 
+28 263 34 273 2 tick_label 
+28 293 34 303 1 tick_label 
+18 323 34 334 0.5 tick_label 
+65 343 91 356 500 tick_label 
+131 343 165 356 1000 tick_label 
+201 343 235 356 1500 tick_label 
+270 343 305 356 2000 tick_label 
+340 343 375 356 2500 tick_label 
+410 343 445 356 3000 tick_label 
+212 364 294 377 No. of Rows axis_title 
+0 121 16 232 Running time(s) axis_title 
+235 0 329 15 Running Time chart_title 
+483 126 523 139 Spectral legend_label 
+482 143 508 154 Plaid legend_label 
+482 161 523 172 Bi-Force legend_label 
+482 179 513 189 FABIA legend_label 
+482 196 515 207 QUBIC legend_label 
+482 214 526 224 xMOTIFs legend_label 
+482 232 514 242 BiMax legend_label 
+482 248 569 261 Cheng and Church legend_label 
+482 266 500 277 ISA legend_label 

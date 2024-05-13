@@ -1,0 +1,31 @@
+434 66 442 74 a other 
+454 220 462 228 a other 
+236 274 244 282 c other 
+255 338 263 346 c other 
+533 218 541 230 b other 
+553 304 561 315 b other 
+332 237 346 250 bc other 
+354 309 368 321 bc other 
+156 291 165 302 b other 
+137 181 145 192 b other 
+570 31 597 43 SOC legend_label 
+570 48 589 60 TN legend_label 
+653 427 672 439 0.0 tick_label 
+653 319 672 331 0.5 tick_label 
+654 212 672 224 1.0 tick_label 
+654 105 672 117 1.5 tick_label 
+653 -1 671 10 2.0 tick_label 
+523 441 573 456 Argosols tick_label 
+425 440 472 455 Gleysols tick_label 
+313 441 387 453 Kastanozems tick_label 
+224 441 280 452 Arenosols tick_label 
+122 441 181 453 Cambisols tick_label 
+324 471 374 487 Soil type axis_title 
+38 426 47 438 0 tick_label 
+38 340 47 352 2 tick_label 
+38 255 46 267 4 tick_label 
+38 168 47 182 6 tick_label 
+38 84 46 96 8 tick_label 
+33 0 47 9 10 tick_label 
+676 183 702 254 TN (kg.m^{-2}) axis_title 
+0 182 24 261 SOC (kg.m^{-2}) axis_title 

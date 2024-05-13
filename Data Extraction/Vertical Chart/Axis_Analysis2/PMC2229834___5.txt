@@ -1,0 +1,11 @@
+61 280 184 314 tick_label x_axis 122 271
+193 280 335 314 tick_label x_axis 264 271
+356 279 470 296 tick_label x_axis 406 271
+19 0 47 13 tick_label y_axis 54 3
+19 36 47 51 tick_label y_axis 54 41
+20 74 47 89 tick_label y_axis 54 80
+19 112 47 127 tick_label y_axis 54 118
+19 151 47 166 tick_label y_axis 54 156
+20 189 47 204 tick_label y_axis 54 194
+20 228 47 242 tick_label y_axis 54 233
+33 267 43 280 tick_label y_axis 54 271

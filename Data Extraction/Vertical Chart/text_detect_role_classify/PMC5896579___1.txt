@@ -1,0 +1,14 @@
+100 424 231 445 personal history tick_label 
+245 424 358 468 family history \n only tick_label 
+379 424 498 468 no personal or \n family history tick_label 
+67 399 79 415 0 tick_label 
+58 332 80 348 10 tick_label 
+58 267 80 282 20 tick_label 
+58 201 80 216 30 tick_label 
+57 134 80 150 40 tick_label 
+58 68 80 83 50 tick_label 
+21 495 239 540 presence of anti-TPO &/or \n anti-Tg legend_label 
+278 496 449 516 presence of anti-TPO legend_label 
+481 495 638 515 presence of anti-Tg legend_label 
+0 46 43 360 % of PV patients with detectable levels \n of anti-TPO and/or Tg axis_title 
+58 2 80 18 60 tick_label 

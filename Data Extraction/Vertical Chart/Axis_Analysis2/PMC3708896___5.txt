@@ -1,0 +1,9 @@
+43 4 93 24 tick_label y_axis 112 14
+43 86 93 107 tick_label y_axis 112 96
+43 170 93 191 tick_label y_axis 112 179
+44 251 93 272 tick_label y_axis 112 262
+44 334 93 354 tick_label y_axis 112 345
+55 418 93 438 tick_label y_axis 112 427
+79 499 93 519 tick_label y_axis 112 510
+215 533 274 553 tick_label x_axis 244 510
+483 533 541 553 tick_label x_axis 512 510

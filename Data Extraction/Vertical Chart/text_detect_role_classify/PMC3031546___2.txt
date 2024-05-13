@@ -1,0 +1,12 @@
+2 64 16 227 Foliar spot growth (cm / 9 days) axis_title 
+144 272 291 286 Light intensity (\mu mol m^{-2} s^{-1}) axis_title 
+19 2 34 14 25 tick_label 
+19 48 33 59 20 tick_label 
+20 93 34 105 15 tick_label 
+20 139 33 150 10 tick_label 
+26 184 34 195 5 tick_label 
+25 230 34 241 0 tick_label 
+21 275 33 287 -5 tick_label 
+93 245 108 256 55 tick_label 
+210 244 230 256 491 tick_label 
+328 244 355 256 1058 tick_label 

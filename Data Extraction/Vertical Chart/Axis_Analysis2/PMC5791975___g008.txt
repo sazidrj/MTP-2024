@@ -1,0 +1,13 @@
+44 19 64 34 tick_label y_axis 77 27
+44 88 63 103 tick_label y_axis 77 96
+44 157 63 172 tick_label y_axis 77 164
+44 225 63 241 tick_label y_axis 77 233
+44 294 63 309 tick_label y_axis 77 302
+46 363 63 378 tick_label y_axis 77 371
+46 432 63 447 tick_label y_axis 77 440
+53 501 63 516 tick_label y_axis 77 508
+53 570 63 584 tick_label y_axis 77 577
+98 590 195 607 tick_label x_axis 146 578
+228 590 341 629 tick_label x_axis 284 578
+361 590 485 607 tick_label x_axis 423 578
+499 590 623 627 tick_label x_axis 561 578

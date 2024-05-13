@@ -1,0 +1,12 @@
+43 91 67 109 tick_label y_axis 76 104
+42 190 67 207 tick_label y_axis 76 202
+44 289 66 306 tick_label y_axis 76 299
+44 386 66 404 tick_label y_axis 76 397
+44 480 67 496 tick_label y_axis 76 494
+107 608 137 625 tick_label x_axis 124 592
+189 608 248 627 tick_label x_axis 220 592
+279 608 351 627 tick_label x_axis 316 592
+395 608 424 626 tick_label x_axis 411 592
+475 608 536 626 tick_label x_axis 507 592
+562 609 634 626 tick_label x_axis 603 592
+57 582 68 599 tick_label y_axis 76 592

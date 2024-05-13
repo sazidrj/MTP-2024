@@ -1,0 +1,9 @@
+85 92 141 119 tick_label y_axis 152 107
+85 150 141 177 tick_label y_axis 152 165
+85 209 141 236 tick_label y_axis 152 224
+87 269 141 297 tick_label y_axis 152 285
+87 328 141 355 tick_label y_axis 152 343
+96 386 133 413 tick_label y_axis 152 401
+111 441 129 468 tick_label y_axis 152 460
+237 492 393 522 tick_label x_axis 305 460
+541 492 681 522 tick_label x_axis 609 460

@@ -1,0 +1,14 @@
+34 4 76 18 tick_label y_axis 89 12
+35 51 76 64 tick_label y_axis 89 59
+35 97 76 111 tick_label y_axis 89 105
+34 144 76 157 tick_label y_axis 89 152
+34 190 76 204 tick_label y_axis 89 198
+42 236 76 250 tick_label y_axis 89 244
+42 283 76 297 tick_label y_axis 89 291
+41 330 76 343 tick_label y_axis 89 337
+42 376 76 389 tick_label y_axis 89 384
+65 423 76 436 tick_label y_axis 89 430
+147 445 208 461 tick_label x_axis 168 432
+268 444 368 465 tick_label x_axis 318 432
+449 444 490 465 tick_label x_axis 466 432
+544 444 688 465 tick_label x_axis 615 432

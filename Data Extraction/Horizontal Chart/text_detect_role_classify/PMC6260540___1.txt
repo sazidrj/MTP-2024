@@ -1,0 +1,17 @@
+10 85 29 254 Type of diagnostic errors axis_title
+207 104 277 124 Follow-up tick_label
+134 127 277 143 Referral/consultation tick_label
+36 150 277 169 Recognizing urgency/complications tick_label
+125 172 277 191 Hypothesis generation tick_label
+166 194 277 214 Performing tests tick_label
+180 217 277 236 Ordering tests tick_label
+181 240 277 259 Physical exam tick_label
+180 262 278 281 History taking tick_label
+142 285 277 303 Access/presentation tick_label
+278 314 300 328 0% tick_label
+377 314 407 328 20% tick_label
+480 314 511 328 40% tick_label
+584 314 615 328 60% tick_label
+688 314 718 328 80% tick_label
+309 347 381 365 Frequency legend_label
+459 8 531 26 Frequency chart_title

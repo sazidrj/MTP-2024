@@ -1,0 +1,35 @@
+15 43 91 63 Volume tick_label
+0 148 91 169 S\o rensen tick_label
+14 251 92 275 Overlap tick_label
+8 356 91 375 Distance tick_label
+106 440 120 458 0 tick_label
+149 440 180 458 0.2 tick_label
+200 440 232 458 0.4 tick_label
+252 440 284 458 0.6 tick_label
+303 440 335 458 0.8 tick_label
+365 440 377 458 1 tick_label
+408 440 437 458 1.2 tick_label
+459 440 490 458 1.4 tick_label
+269 471 324 490 Score axis_title
+433 330 443 341 a other
+434 346 443 356 a other
+434 361 443 371 a other
+434 376 443 387 a other
+433 392 443 402 a other
+384 224 405 237 a b other
+384 242 394 252 a other
+384 257 404 268 a c other
+395 272 404 283 c other
+395 285 405 298 b other
+344 120 365 133 a b other
+344 138 354 148 a other
+355 150 365 164 b other
+344 166 365 179 a b other
+344 184 354 194 a other
+367 34 376 44 a other
+366 19 376 29 a other
+431 12 502 29 Araneae legend_label
+432 31 604 51 Predatory Carabidae legend_label
+432 49 624 65 Omnivorous Carabidae legend_label
+432 66 624 83 Herbivorous Carabidae legend_label
+432 84 484 100 Plants legend_label

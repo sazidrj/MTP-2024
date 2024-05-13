@@ -1,0 +1,51 @@
+97 18 131 43 35 tick_label 
+98 80 131 105 30 tick_label 
+98 142 132 167 25 tick_label 
+96 204 130 229 20 tick_label 
+98 266 131 291 15 tick_label 
+97 329 129 353 10 tick_label 
+113 392 130 416 5 tick_label 
+114 453 130 479 0 tick_label 
+57 129 88 363 Mitotic index (%) axis_title 
+5 489 163 509 Control siRNA axis_title 
+19 518 160 538 MAD2 siRNA other 
+18 549 157 573 Andro 20 \mu M other 
+8 578 171 630 Andro 20 \mu M & \n Taxi 100 \mu M other 
+182 499 199 504 - tick_label 
+182 530 199 534 - other 
+182 560 199 565 - other 
+182 591 199 595 - other 
+250 531 267 536 - other 
+250 562 267 567 - other 
+250 592 267 597 - other 
+324 499 341 504 - tick_label 
+324 560 341 565 - other 
+324 591 341 596 - other 
+393 499 409 504 - tick_label 
+393 530 409 534 - other 
+393 591 409 595 - other 
+461 530 477 534 - other 
+461 591 477 595 - other 
+531 499 548 504 - tick_label 
+531 591 548 595 - other 
+603 500 619 505 - tick_label 
+603 531 619 535 - other 
+603 561 619 566 - other 
+671 530 688 535 - other 
+671 561 687 566 - other 
+742 500 759 505 - tick_label 
+742 561 759 566 - other 
+250 492 267 509 + tick_label 
+324 521 341 538 + other 
+460 490 477 507 + tick_label 
+671 491 688 508 + tick_label 
+742 522 759 539 + other 
+392 551 409 568 + other 
+460 551 478 568 + other 
+531 521 548 538 + other 
+531 552 548 568 + other 
+603 583 620 600 + other 
+671 583 688 600 + other 
+742 583 759 600 + other 
+458 219 473 233 \star other 
+674 5 689 19 \star other 

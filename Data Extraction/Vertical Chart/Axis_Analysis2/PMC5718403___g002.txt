@@ -1,0 +1,9 @@
+145 541 235 565 tick_label x_axis 190 527
+367 542 434 565 tick_label x_axis 401 527
+554 541 669 570 tick_label x_axis 611 527
+53 512 70 536 tick_label y_axis 85 526
+39 409 70 433 tick_label y_axis 85 424
+38 306 70 330 tick_label y_axis 85 321
+38 203 70 227 tick_label y_axis 85 218
+37 100 70 124 tick_label y_axis 85 115
+38 0 70 21 tick_label y_axis 85 12

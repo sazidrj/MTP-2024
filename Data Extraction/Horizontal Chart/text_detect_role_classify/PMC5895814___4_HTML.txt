@@ -1,0 +1,15 @@
+207 324 218 339 0 tick_label
+276 324 296 339 50 tick_label
+345 324 373 340 100 tick_label
+418 324 446 340 150 tick_label
+490 324 520 339 200 tick_label
+563 324 593 340 250 tick_label
+636 324 665 339 300 tick_label
+80 282 197 298 Crambe crambe tick_label
+72 238 197 254 Corallium rubrum tick_label
+48 194 197 210 Paramuricea clavata tick_label
+0 150 198 167 Ophioderma longicauda C5 tick_label
+48 106 197 124 Astroides calycularis tick_label
+71 61 199 77 Eunicella cavolini tick_label
+80 17 197 36 Ophiotrix fragilis tick_label
+281 350 583 371 Estimated dispersal distance (m) axis_title

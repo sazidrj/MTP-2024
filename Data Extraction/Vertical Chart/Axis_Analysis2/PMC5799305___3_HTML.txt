@@ -1,0 +1,13 @@
+56 289 117 303 tick_label x_axis 86 221
+140 289 185 303 tick_label x_axis 162 221
+217 289 264 303 tick_label x_axis 240 221
+298 289 336 303 tick_label x_axis 317 221
+373 289 415 303 tick_label x_axis 394 221
+449 289 491 303 tick_label x_axis 470 221
+534 289 563 303 tick_label x_axis 548 221
+604 288 645 303 tick_label x_axis 624 221
+26 273 40 287 tick_label y_axis 49 281
+30 212 40 226 tick_label y_axis 49 219
+31 151 40 165 tick_label y_axis 49 158
+24 90 40 104 tick_label y_axis 49 98
+24 30 41 43 tick_label y_axis 49 37

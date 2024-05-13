@@ -1,0 +1,24 @@
+2 103 20 300 Proportion of travelers axis_title 
+324 462 449 480 Time category axis_title 
+17 2 44 13 100% tick_label 
+21 35 43 46 90% tick_label 
+21 68 44 80 80% tick_label 
+21 101 44 113 70% tick_label 
+22 135 44 146 60% tick_label 
+22 168 43 180 50% tick_label 
+22 201 44 213 40% tick_label 
+22 235 44 246 30% tick_label 
+22 268 44 280 20% tick_label 
+23 301 44 313 10% tick_label 
+27 335 44 346 0% tick_label 
+82 354 97 460 Less than 5 min tick_label 
+152 354 166 433 5 to 10 min tick_label 
+222 354 237 439 11 to 15 min tick_label 
+292 354 307 439 16 to 20 min tick_label 
+362 354 377 442 21 to 25 min tick_label 
+432 354 447 442 26 to 30 min tick_label 
+502 354 517 442 31 to 35 min tick_label 
+572 354 586 441 36 to 40 min tick_label 
+632 353 667 464 Greater than 40 \n min tick_label 
+118 456 313 470 "Reported time lower than measured time" legend_label 
+118 472 315 485 "Reported time higher than measured time" legend_label 

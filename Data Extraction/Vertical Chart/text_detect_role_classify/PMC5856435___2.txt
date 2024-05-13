@@ -1,0 +1,19 @@
+77 331 158 351 Vasovagal tick_label 
+183 331 257 347 Structural tick_label 
+285 331 358 347 Unknown tick_label 
+376 331 472 370 Postural \n Hypotension tick_label 
+4 142 20 190 Count axis_title 
+236 8 309 24 P<0.0001 other 
+24 5 45 21 90 tick_label 
+24 39 45 55 80 tick_label 
+24 72 45 89 70 tick_label 
+24 107 45 123 60 tick_label 
+24 140 45 156 50 tick_label 
+23 174 45 191 40 tick_label 
+25 209 45 225 30 tick_label 
+24 244 45 260 20 tick_label 
+25 275 45 292 10 tick_label 
+34 310 44 327 0 tick_label 
+319 110 408 122 Hospital admission legend_label 
+319 123 439 134 Reassurance - sent home legend_label 
+301 97 393 107 Treatment received legend_title 

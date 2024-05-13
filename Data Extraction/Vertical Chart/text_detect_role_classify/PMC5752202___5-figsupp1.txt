@@ -1,0 +1,13 @@
+69 0 96 43 1.0 tick_label 
+69 100 96 147 0.8 tick_label 
+69 203 96 249 0.6 tick_label 
+69 304 96 350 0.4 tick_label 
+69 403 96 449 0.2 tick_label 
+69 524 96 542 0 tick_label 
+91 656 217 580 WT rep. 1 tick_label 
+179 656 305 575 WT rep. 2 tick_label 
+272 656 401 577 WT rep. 3 tick_label 
+325 672 488 578 (TTAGGG)_{21} tick_label 
+415 673 580 575 (TTAGGG)_{22} tick_label 
+503 673 668 576 (TTAGGG)_{23} tick_label 
+0 175 30 400 H3K27me2/3 axis_title 

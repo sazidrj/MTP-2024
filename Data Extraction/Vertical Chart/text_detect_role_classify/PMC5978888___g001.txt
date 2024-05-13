@@ -1,0 +1,23 @@
+0 215 22 338 % Mosquitoes axis_title 
+349 585 452 607 Age in days axis_title 
+24 103 45 119 40 tick_label 
+25 323 45 340 20 tick_label 
+34 544 45 560 0 tick_label 
+119 562 124 578 1 tick_label 
+186 562 196 578 3 tick_label 
+256 562 266 578 5 tick_label 
+326 562 336 578 7 tick_label 
+395 562 406 578 9 tick_label 
+462 562 478 578 11 tick_label 
+532 562 549 578 15 tick_label 
+599 562 620 578 20 tick_label 
+669 562 689 578 25 tick_label 
+109 138 139 172 \frac{102}{306} value_label 
+179 248 209 282 \frac{70}{306} value_label 
+241 325 271 360 \frac{48}{306} value_label 
+304 380 334 414 \frac{34}{306} value_label 
+381 424 411 459 \frac{23}{306} value_label 
+451 446 481 481 \frac{16}{306} value_label 
+528 479 557 514 \frac{8}{306} value_label 
+597 496 627 530 \frac{3}{306} value_label 
+674 501 704 536 \frac{2}{306} value_label 

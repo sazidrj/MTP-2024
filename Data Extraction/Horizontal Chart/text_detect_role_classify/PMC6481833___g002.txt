@@ -1,0 +1,16 @@
+145 53 278 67 Province of residence tick_label
+118 135 277 149 Education level of women tick_label
+159 217 277 231 Sector of residence tick_label
+181 298 278 314 Wealth quintile tick_label
+56 380 277 396 Husband's/partner's education level tick_label
+223 462 278 478 Ethnicity tick_label
+139 523 161 536 -20 tick_label
+210 523 231 535 -10 tick_label
+286 523 295 536 0 tick_label
+353 523 369 536 10 tick_label
+423 523 439 536 20 tick_label
+493 523 510 536 30 tick_label
+562 523 579 536 40 tick_label
+633 523 650 536 50 tick_label
+138 547 653 565 Contribution of each determinant to observed socioeconomic inequality axis_title
+21 45 60 478 Determinants of postnatal home visits made by PHMs within \n one month of delivery axis_title

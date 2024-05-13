@@ -1,0 +1,49 @@
+110 764 268 781 c0578395 | chest clear tick_label
+110 726 269 745 -c0000726 | abdomen tick_label
+88 691 270 711 c0278060 | mental status tick_label
+2 654 268 674 c0728985 | cervical and lumbar spine tick_label
+23 619 269 639 c0003864 | inflammatory arthritis tick_label
+99 582 269 602 c0544452 | in remission tick_label
+126 545 268 565 c0033213 | problem tick_label
+137 510 270 530 c0030193 | painful tick_label
+137 473 268 493 c0028259 | nodule tick_label
+95 438 268 458 -c0230134 | precordium tick_label
+57 401 270 421 c0457086| morning stiffness tick_label
+140 365 268 385 8640 | prednisone tick_label
+144 329 269 349 c0018021 | goiter tick_label
+127 294 270 314 c0427008 | stiffness tick_label
+132 257 269 277 c0080331| walking tick_label
+128 222 269 241 c0013687 | effusion tick_label
+27 185 269 205 c0009555 | complete blood count tick_label
+27 113 270 133 -c0019214 | hepatosplenomegaly tick_label
+128 149 269 170 c0817096 |thoracic tick_label
+118 77 269 98 -c0039103| synovitis tick_label
+188 41 269 58 Lab Values tick_label
+279 2 289 17 0 tick_label
+351 2 381 17 100 tick_label
+432 2 462 17 200 tick_label
+514 2 544 17 300 tick_label
+594 2 624 17 400 tick_label
+676 2 706 17 500 tick_label
+758 2 788 17 600 tick_label
+714 44 773 59 515.636 value_label
+502 79 581 95 255.86454 value_label
+471 116 550 131 216.79321 value_label
+432 151 511 167 168.82953 value_label
+416 188 496 203 150.28053 value_label
+404 223 483 239 134.83666 value_label
+401 260 480 276 131.21813 value_label
+397 296 476 312 127.20409 value_label
+394 332 473 348 123.14724 value_label
+388 369 468 384 116.79025 value_label
+386 404 465 420 113.51106 value_label
+380 441 459 457 105.53546 value_label
+377 476 456 492 102.61833 value_label
+373 513 443 528 96.98401 value_label
+370 548 440 564 93.23057 value_label
+368 584 435 600 88. 22903 value_label
+364 620 431 635 84.72449 value_label
+362 657 421 672 81.6987 value_label
+360 692 431 708 81.22275 value_label
+356 729 417 744 76.6534 value_label
+355 764 426 780 75.63913 value_label

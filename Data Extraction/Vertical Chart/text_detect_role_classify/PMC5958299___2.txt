@@ -1,0 +1,17 @@
+149 414 234 430 CD4 recovery tick_label 
+547 175 717 210 CD4>500/25% or Viral load\n <1000/ml legend_label 
+547 222 715 256 CD4<200/15% or viral load\n >1000/ml legend_label 
+547 268 682 284 CD4 200-500/15-25% legend_label 
+336 414 468 430 virologic suppression tick_label 
+168 437 428 453 Immunological and virological outcomes axis_title 
+34 96 49 326 Percent of patients after six months axis_title 
+54 15 71 28 90 tick_label 
+54 57 71 70 80 tick_label 
+54 99 70 113 70 tick_label 
+54 142 71 155 60 tick_label 
+54 183 71 197 50 tick_label 
+54 227 71 239 40 tick_label 
+54 268 71 281 30 tick_label 
+54 310 71 323 20 tick_label 
+54 353 71 365 10 tick_label 
+61 395 71 407 0 tick_label 

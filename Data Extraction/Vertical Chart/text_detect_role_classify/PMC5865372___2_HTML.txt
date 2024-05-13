@@ -1,0 +1,18 @@
+87 243 98 255 H tick_label 
+195 243 206 255 R tick_label 
+304 243 312 255 S tick_label 
+381 243 451 255 Recombinant tick_label 
+224 257 284 271 Genotype axis_title 
+0 73 12 151 ELISA score axis_title 
+132 68 165 78 P=0.71 other 
+230 20 273 30 P<0.0001 other 
+182 0 220 10 P<0.001 other 
+20 228 29 240 0 tick_label 
+21 201 28 213 1 tick_label 
+20 175 29 187 2 tick_label 
+20 148 28 160 3 tick_label 
+20 122 29 133 4 tick_label 
+21 94 29 107 5 tick_label 
+21 68 29 80 6 tick_label 
+21 41 29 54 7 tick_label 
+20 15 29 26 8 tick_label 

@@ -1,0 +1,14 @@
+583 63 794 84 Palliative care referral legend_label 
+583 106 687 126 No referral legend_label 
+120 347 179 366 Home tick_label 
+224 348 359 366 Medical Ward tick_label 
+391 347 479 366 ICU/HDU tick_label 
+64 326 76 345 0 tick_label 
+64 270 76 289 5 tick_label 
+53 216 76 235 10 tick_label 
+53 160 76 179 15 tick_label 
+52 106 76 125 20 tick_label 
+52 52 76 71 25 tick_label 
+21 105 42 292 Number of Charts axis_title 
+200 379 384 399 Location of death axis_title 
+6 5 578 34 Referral to palliative care and location of death chart_title 

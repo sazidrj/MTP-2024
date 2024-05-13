@@ -1,0 +1,14 @@
+85 92 141 119 300 tick_label 
+85 150 141 177 250 tick_label 
+85 209 141 236 200 tick_label 
+87 269 141 297 150 tick_label 
+87 328 141 355 100 tick_label 
+96 386 133 413 50 tick_label 
+111 441 129 468 0 tick_label 
+237 492 393 522 PINK1+/+ tick_label 
+541 492 681 522 PINK1-/- tick_label 
+339 249 361 270 \star other 
+633 142 675 163 \star \star other 
+578 12 704 38 Baseline legend_label 
+578 58 637 84 SIRI legend_label 
+6 153 68 390 DHE fluorescence  \n  (% of control) axis_title 

@@ -1,0 +1,11 @@
+46 98 66 112 tick_label y_axis 83 105
+46 137 66 152 tick_label y_axis 83 146
+42 180 66 194 tick_label y_axis 83 187
+42 220 66 235 tick_label y_axis 83 228
+42 262 66 276 tick_label y_axis 83 269
+42 302 66 317 tick_label y_axis 83 310
+44 342 66 357 tick_label y_axis 83 350
+131 369 197 422 tick_label x_axis 165 350
+221 369 274 422 tick_label x_axis 247 350
+293 369 364 406 tick_label x_axis 329 350
+384 369 437 422 tick_label x_axis 411 350

@@ -1,0 +1,42 @@
+108 46 236 58 amino acid metabolism tick_label
+191 61 235 74 cell wall tick_label
+184 77 236 91 cell cycle tick_label
+145 93 235 107 cell organisation tick_label
+122 108 236 123 cell vesicle transport tick_label
+163 124 235 138 development tick_label
+208 140 236 152 DNA tick_label
+141 155 236 170 gluconeogenesis tick_label
+181 172 236 186 glycolysis tick_label
+119 187 236 199 hormone metabolism tick_label
+145 202 236 216 lipid metabolism tick_label
+107 218 236 232 major CHO metabolism tick_label
+107 234 236 246 minor CHO metabolism tick_label
+62 249 235 264 mitochondrial electron transport tick_label
+111 265 236 277 nucleotide metabolism tick_label
+3 281 235 296 protein activation, degradation, and folding tick_label
+142 297 235 312 protein synthesis tick_label
+145 313 235 327 protein targeting tick_label
+152 329 236 342 PS calvin cycle tick_label
+148 343 235 358 PS lightreaction tick_label
+126 359 235 373 PS photorespiration tick_label
+203 375 235 387 redox tick_label
+64 391 235 406 RNA processing and regulation tick_label
+111 407 236 421 secondary metabolism tick_label
+182 422 235 437 signalling tick_label
+201 438 236 450 stress tick_label
+209 453 236 466 TCA tick_label
+116 469 236 484 tetrapyrrole synthesis tick_label
+184 486 235 499 transport tick_label
+156 501 236 513 miscellaneous tick_label
+229 530 253 541 -0.6 tick_label
+287 529 311 542 -0.4 tick_label
+345 529 369 541 -0.2 tick_label
+409 530 428 542 0.0 tick_label
+460 530 487 542 +0.2 tick_label
+519 530 546 542 +0.4 tick_label
+579 529 606 541 +0.6 tick_label
+637 529 663 541 +0.8 tick_label
+395 548 502 565 (fot_{acidic} /fot_{alkaline} )-1 axis_title
+307 0 366 13 alkaline other
+512 0 556 13 acidic other
+393 0 481 13 enrichment other

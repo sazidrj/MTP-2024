@@ -1,0 +1,77 @@
+80 598 109 613 PBS legend_label 
+80 623 115 638 TDB legend_label 
+372 597 428 612 Curdlan legend_label 
+372 622 447 637 Furfurman legend_label 
+77 526 96 567 IL - 1 \beta tick_label 
+140 527 154 565 IL - 10 tick_label 
+201 527 215 577 IL - 17A tick_label 
+262 527 280 564 IFN \gamma tick_label 
+323 527 338 570 TNF \alpha tick_label 
+385 527 399 575 G-CSF tick_label 
+446 530 461 578 MCP- 1 tick_label 
+508 527 522 582 MIP- 1 \alpha tick_label 
+568 526 587 582 MIP- 1 \beta tick_label 
+630 526 649 583 TGF- 1 \beta tick_label 
+35 510 45 525 0 tick_label 
+37 473 44 486 1 tick_label 
+35 434 45 448 2 tick_label 
+35 396 45 411 3 tick_label 
+35 358 45 372 4 tick_label 
+36 320 45 334 5 tick_label 
+35 282 45 296 6 tick_label 
+35 244 45 258 7 tick_label 
+35 206 45 220 8 tick_label 
+35 168 45 182 9 tick_label 
+28 107 46 121 20 tick_label 
+28 66 46 81 30 tick_label 
+28 26 46 41 40 tick_label 
+11 180 28 371 Concentration, fold increase axis_title 
+92 359 99 368 * other 
+78 402 83 410 # other 
+96 386 104 394 * other 
+86 420 98 429 ## other 
+102 448 109 457 # other 
+138 410 145 418 # other 
+158 408 166 415 * other 
+150 434 158 442 # other 
+163 448 169 455 # other 
+208 9 222 16 ** other 
+210 30 230 38 *** other 
+218 58 235 66 ### other 
+318 135 330 144 ## other 
+324 103 338 111 ** other 
+335 72 342 80 * other 
+382 78 390 86 # other 
+389 42 397 50 * other 
+396 21 404 29 * other 
+403 191 410 198 * other 
+392 228 408 237 ### other 
+405 305 421 313 ### other 
+457 182 465 190 * other 
+451 210 458 217 * other 
+444 245 451 255 # other 
+463 376 470 383 * other 
+454 406 466 415 ## other 
+470 430 477 439 # other 
+344 409 356 417 ## other 
+337 384 351 391 ** other 
+272 386 292 394 *** other 
+275 353 282 361 * other 
+260 379 267 387 # other 
+270 411 286 419 ### other 
+286 448 293 457 # other 
+208 432 222 441 ### other 
+506 336 513 344 # other 
+518 364 538 372 *** other 
+516 399 528 408 ## other 
+531 431 538 439 # other 
+577 421 589 430 ## other 
+590 408 602 417 ## other 
+566 192 573 200 # other 
+572 160 579 168 * other 
+578 137 586 145 * other 
+636 298 651 306 ** other 
+640 331 660 339 *** other 
+636 355 653 364 ### other 
+625 367 637 375 ## other 
+331 435 345 443 ### other 

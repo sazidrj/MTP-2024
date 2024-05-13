@@ -1,0 +1,16 @@
+1 82 14 146 IL6/TSP [%] axis_title 
+76 252 164 263 N. benthamiana tick_label 
+235 252 338 284 N. tabacum \n cv. Geudertheimer tick_label 
+421 252 485 286 N. tabacum \n cv. Virginia tick_label 
+17 1 27 15 9 tick_label 
+17 26 27 40 8 tick_label 
+17 51 27 64 7 tick_label 
+17 76 27 90 6 tick_label 
+18 101 27 115 5 tick_label 
+17 126 27 140 4 tick_label 
+18 151 28 165 3 tick_label 
+17 176 27 190 2 tick_label 
+19 201 25 214 1 tick_label 
+17 226 28 240 0 tick_label 
+572 106 667 120 pICH29912-IL6ER legend_label 
+572 128 667 141 pICH31160-IL6ER legend_label 

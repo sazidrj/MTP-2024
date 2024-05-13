@@ -1,0 +1,24 @@
+56 289 117 303 18SrRNA tick_label 
+140 289 185 303 MCP-1 tick_label 
+217 289 264 303 MCP-3 tick_label 
+298 289 336 303 TNFA tick_label 
+373 289 415 303 HIF1A tick_label 
+449 289 491 303 HIF2A tick_label 
+534 289 563 303 TPI1 tick_label 
+604 288 645 303 SDHA tick_label 
+620 96 645 109 ** other 
+540 135 564 148 ** other 
+465 56 489 69 ** other 
+236 43 261 56 ** other 
+393 81 410 92 ns other 
+318 47 335 58 ns other 
+161 125 178 137 ns other 
+84 242 96 255 * other 
+452 0 542 18 5,000 Cells legend_label 
+195 0 299 14 2 million Cells legend_label 
+26 273 40 287 -5 tick_label 
+30 212 40 226 0 tick_label 
+31 151 40 165 5 tick_label 
+24 90 40 104 10 tick_label 
+24 30 41 43 15 tick_label 
+0 107 15 210 \Delta Ctwrt ACTB axis_title 

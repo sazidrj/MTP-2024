@@ -1,0 +1,15 @@
+280 122 347 134 TT < 300 ng/dL legend_label 
+280 142 346 154 TT \geq 300 ng/dL legend_label 
+170 219 226 230 HbA1C > 7% tick_label 
+58 219 113 230 HbA1C \leq 7% tick_label 
+8 45 20 55 90 tick_label 
+7 63 20 72 80 tick_label 
+7 81 20 90 70 tick_label 
+7 99 20 108 60 tick_label 
+7 116 20 126 50 tick_label 
+7 134 20 144 40 tick_label 
+8 152 20 162 30 tick_label 
+7 170 20 179 20 tick_label 
+8 188 20 197 10 tick_label 
+12 205 20 215 0 tick_label 
+42 10 316 35 Gr\acute{a}fico 8: Preval\hat{e}nica de baixos n\acute{i}veis de testosterona de \n acordo com a HbA1C chart_title 

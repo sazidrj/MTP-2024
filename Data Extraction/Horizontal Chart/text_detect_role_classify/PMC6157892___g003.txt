@@ -1,0 +1,18 @@
+192 82 298 96 No cause found tick_label
+131 120 299 138 Hematologic malignancy tick_label
+108 159 298 177 latrogenic reaction & DRESS tick_label
+231 198 298 212 Infections tick_label
+177 236 299 254 Allergies & atopia tick_label
+233 275 299 290 Vasculitis tick_label
+100 314 299 328 Other autoimmune disorders tick_label
+0 352 299 370 Inappropriate IL-5 production by tumor cells tick_label
+104 391 299 409 Hypereosinophilic syndrome tick_label
+494 312 577 327 No skin rash legend_label
+607 312 669 326 Skin rash legend_label
+308 42 318 56 0 tick_label
+385 42 404 56 10 tick_label
+465 42 484 56 20 tick_label
+545 42 565 56 30 tick_label
+626 42 645 55 40 tick_label
+707 42 725 56 50 tick_label
+670 0 688 17 % axis_title

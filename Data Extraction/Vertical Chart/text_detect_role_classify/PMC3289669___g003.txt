@@ -1,0 +1,41 @@
+46 98 66 112 1.2 tick_label 
+46 137 66 152 1.0 tick_label 
+42 180 66 194 0.8 tick_label 
+42 220 66 235 0.6 tick_label 
+42 262 66 276 0.4 tick_label 
+42 302 66 317 0.2 tick_label 
+44 342 66 357 0.0 tick_label 
+131 369 197 422 Common  \n  spiny  \n  mouse tick_label 
+221 369 274 422 Golden  \n  spiny  \n mouse tick_label 
+293 369 364 406 Tristram’s  \n  grackle tick_label 
+384 369 437 422 Yellow-  \n vented  \n bulbul tick_label 
+243 438 349 468 Species axis_title 
+2 51 30 305 Fractional absorption axis_title 
+117 7 252 24 Probe molecule legend_title 
+132 35 262 56 3OMD-glucose legend_label 
+133 63 235 80 L-arabinose legend_label 
+133 92 216 109 Lactulose legend_label 
+138 138 147 149 a other 
+160 244 169 257 \mu other 
+242 237 251 249 \mu other 
+324 121 333 133 \beta other 
+406 79 415 92 \beta other 
+221 135 230 145 a other 
+303 131 312 141 a other 
+385 135 394 145 a other 
+181 321 192 334 C other 
+263 298 274 311 C other 
+345 317 356 329 C other 
+427 252 438 264 D other 
+136 334 145 346 4 other 
+158 334 168 346 6 other 
+180 341 193 352 6 other 
+219 334 228 346 3 other 
+241 334 250 346 4 other 
+262 334 271 346 4 other 
+299 334 308 346 5 other 
+324 334 333 346 5 other 
+345 339 354 350 4 other 
+383 334 392 346 4 other 
+407 334 416 346 7 other 
+428 334 437 346 3 other 

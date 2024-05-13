@@ -1,0 +1,9 @@
+119 262 173 279 tick_label x_axis 146 243
+209 262 263 279 tick_label x_axis 236 243
+300 262 354 279 tick_label x_axis 327 243
+391 262 444 279 tick_label x_axis 418 243
+41 235 81 252 tick_label y_axis 100 243
+41 191 81 208 tick_label y_axis 100 199
+41 148 81 165 tick_label y_axis 100 154
+41 103 81 120 tick_label y_axis 100 110
+41 59 81 76 tick_label y_axis 100 66

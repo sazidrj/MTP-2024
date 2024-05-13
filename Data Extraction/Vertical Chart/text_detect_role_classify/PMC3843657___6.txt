@@ -1,0 +1,10 @@
+51 161 76 387 Survival Fraction axis_title 
+134 71 148 93 1 tick_label 
+111 157 151 179 0.8 tick_label 
+111 241 151 263 0.6 tick_label 
+111 326 151 348 0.4 tick_label 
+111 412 150 434 0.2 tick_label 
+133 498 149 520 0 tick_label 
+228 533 319 557 Control tick_label 
+446 535 500 561 2 Gy tick_label 
+611 535 732 561 1Gy+1Gy tick_label 

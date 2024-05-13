@@ -1,0 +1,11 @@
+6 5 24 34 1.0 tick_label 
+6 114 24 144 0.8 tick_label 
+6 222 24 253 0.6 tick_label 
+6 331 24 361 0.4 tick_label 
+6 440 24 470 0.2 tick_label 
+6 548 24 579 0.0 tick_label 
+185 592 234 610 Used tick_label 
+514 592 599 610 Available tick_label 
+345 36 470 55 earthen bund legend_label 
+346 61 455 84 boulder pile legend_label 
+345 87 395 105 other legend_label 

@@ -1,0 +1,13 @@
+46 268 88 283 tick_label x_axis 105 276
+38 233 88 248 tick_label x_axis 105 240
+54 196 88 211 tick_label x_axis 105 204
+53 160 87 175 tick_label x_axis 105 168
+47 123 86 138 tick_label x_axis 105 130
+43 86 87 101 tick_label x_axis 105 94
+51 51 87 66 tick_label x_axis 105 58
+0 14 86 32 tick_label x_axis 105 23
+100 305 111 320 tick_label y_axis 105 296
+213 305 233 320 tick_label y_axis 225 296
+334 305 353 320 tick_label y_axis 344 296
+449 305 477 320 tick_label y_axis 464 296
+569 305 597 320 tick_label y_axis 584 296

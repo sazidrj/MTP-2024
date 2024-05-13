@@ -1,0 +1,23 @@
+73 5 288 32 Feature Coverage chart_title 
+29 48 67 65 57.4 tick_label 
+29 80 67 96 56.9 tick_label 
+29 111 67 127 54.2 tick_label 
+29 142 67 158 53.7 tick_label 
+29 173 67 190 49.2 tick_label 
+29 204 66 221 47.3 tick_label 
+29 236 67 253 45.7 tick_label 
+29 267 67 284 42.8 tick_label 
+29 298 67 315 39.4 tick_label 
+29 330 67 346 38.5 tick_label 
+29 361 67 378 34.4 tick_label 
+29 392 67 409 28.9 tick_label 
+5 224 24 245 % axis_title 
+114 437 133 453 IP tick_label 
+172 437 241 454 GO-CC tick_label 
+256 436 325 454 GO-MF tick_label 
+340 436 408 454 GO-BP tick_label 
+442 436 473 454 GO tick_label 
+497 437 586 454 GO-or-IP tick_label 
+614 200 660 218 Sets legend_title 
+640 225 656 243 A legend_label 
+640 247 655 266 B legend_label 

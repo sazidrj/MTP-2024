@@ -1,0 +1,24 @@
+0 197 12 314 % of Total SCFA axis_title 
+16 0 36 12 45 tick_label 
+17 54 35 68 40 tick_label 
+17 110 36 124 35 tick_label 
+17 166 35 180 30 tick_label 
+17 222 36 236 25 tick_label 
+17 278 35 292 20 tick_label 
+18 334 36 348 15 tick_label 
+18 390 35 404 10 tick_label 
+25 446 36 460 5 tick_label 
+25 502 35 516 0 tick_label 
+62 520 135 534 acetic acid tick_label 
+155 520 249 536 propionic acid tick_label 
+266 520 343 534 valeric acid tick_label 
+368 520 446 536 butyric acid tick_label 
+462 520 558 536 isobutyric acid tick_label 
+563 520 658 534 isovaleric acid tick_label 
+698 247 750 264 Healthy legend_label 
+698 274 732 287 CRC legend_label 
+110 129 122 142 * other 
+383 18 395 31 * other 
+315 383 327 395 * other 
+523 455 534 467 * other 
+626 402 638 415 * other 

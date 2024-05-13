@@ -1,0 +1,12 @@
+526 330 558 348 tick_label x_axis 542 315
+422 330 451 348 tick_label x_axis 436 315
+307 330 354 348 tick_label x_axis 330 315
+211 331 239 348 tick_label x_axis 225 315
+104 330 135 348 tick_label x_axis 120 315
+38 305 50 323 tick_label y_axis 66 315
+30 254 50 272 tick_label y_axis 66 264
+28 203 50 221 tick_label y_axis 66 213
+28 151 50 169 tick_label y_axis 66 161
+28 100 50 118 tick_label y_axis 66 110
+28 49 50 67 tick_label y_axis 66 58
+28 0 50 16 tick_label y_axis 66 7

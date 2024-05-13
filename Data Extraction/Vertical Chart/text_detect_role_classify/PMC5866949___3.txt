@@ -1,0 +1,16 @@
+147 541 189 563 WT tick_label 
+292 541 349 563 B401 tick_label 
+451 541 502 563 CB5 tick_label 
+605 541 655 563 CB6 tick_label 
+46 2 75 24 70 tick_label 
+46 76 75 98 60 tick_label 
+46 150 75 172 50 tick_label 
+45 225 75 247 40 tick_label 
+46 298 75 321 30 tick_label 
+45 373 75 395 20 tick_label 
+47 447 75 469 10 tick_label 
+60 521 75 543 0 tick_label 
+-2 84 32 471 Saccharification efficiency (%) axis_title 
+310 104 332 126 \star other 
+466 58 488 79 \star other 
+621 96 643 118 \star other 

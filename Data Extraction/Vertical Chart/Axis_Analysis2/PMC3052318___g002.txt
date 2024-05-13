@@ -1,0 +1,11 @@
+42 2 65 20 tick_label y_axis 81 12
+42 47 64 64 tick_label y_axis 81 55
+41 91 64 109 tick_label y_axis 81 102
+42 136 65 154 tick_label y_axis 81 145
+41 181 64 198 tick_label y_axis 81 191
+41 225 65 243 tick_label y_axis 81 235
+41 270 65 288 tick_label y_axis 81 281
+41 315 65 332 tick_label y_axis 81 324
+52 360 64 377 tick_label y_axis 81 370
+124 393 194 405 tick_label x_axis 150 371
+217 389 407 405 tick_label x_axis 298 371

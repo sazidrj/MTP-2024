@@ -1,0 +1,24 @@
+250 473 258 483 0 tick_label
+274 473 297 483 1000 tick_label
+306 473 329 483 2000 tick_label
+338 473 361 483 3000 tick_label
+370 473 393 482 4000 tick_label
+402 473 426 483 5000 tick_label
+434 473 458 483 6000 tick_label
+466 473 490 483 7000 tick_label
+498 473 522 483 8000 tick_label
+530 473 554 483 9000 tick_label
+577 224 654 237 Chip probesets legend_label
+577 244 686 258 Modulated probesets legend_label
+163 439 243 453 Cellular process tick_label
+174 401 243 415 Development tick_label
+155 362 243 374 Diverse functions tick_label
+141 324 244 336 Cellular metabolism tick_label
+140 285 243 298 Primary metabolism tick_label
+127 247 243 260 Secondary metabolism tick_label
+139 208 244 222 Regulation overview tick_label
+52 169 243 184 Response to stimulus. Stress response tick_label
+196 131 244 144 Signaling tick_label
+143 92 244 106 Transport overview tick_label
+193 54 243 66 Unknown tick_label
+1 15 243 28 Xenoprotein,Protein from transposable element tick_label

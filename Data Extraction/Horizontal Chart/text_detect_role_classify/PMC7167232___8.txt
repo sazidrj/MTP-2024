@@ -1,0 +1,19 @@
+122 255 224 274 Reproductive tick_label
+160 232 224 246 Nervous tick_label
+154 205 224 224 Digestive tick_label
+163 180 224 196 Skeletal tick_label
+111 157 225 174 Integumentary tick_label
+167 131 225 149 Urinary tick_label
+148 106 224 122 Endocrine tick_label
+42 82 225 100 Immune and lymphatics tick_label
+153 58 225 72 Muscular tick_label
+136 31 225 50 Respiratory tick_label
+112 7 224 23 Cardiovascular tick_label
+402 316 537 333 No. of publications axis_title
+0 62 17 255 Anatomical organ-systems axis_title
+234 292 246 306 0 tick_label
+326 292 338 306 5 tick_label
+414 292 434 306 10 tick_label
+505 292 525 306 15 tick_label
+596 292 616 306 20 tick_label
+688 292 708 306 25 tick_label

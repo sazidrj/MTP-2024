@@ -1,0 +1,13 @@
+2 106 21 339 Nuclear to Cytoplasmic Ratio axis_title 
+25 2 59 17 0.25 tick_label 
+34 87 59 102 0.2 tick_label 
+25 172 59 187 0.15 tick_label 
+34 257 57 272 0.1 tick_label 
+25 342 59 357 0.05 tick_label 
+48 427 59 442 0 tick_label 
+111 446 230 465 Normal/Benign tick_label 
+283 446 452 465 Low Grade Dysplasia tick_label 
+478 446 651 465 High Grade Dysplasia tick_label 
+187 216 227 231 n=12 other 
+378 204 417 219 n=18 other 
+578 36 618 51 n=14 other 

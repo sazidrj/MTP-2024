@@ -1,0 +1,17 @@
+147 571 219 590 Control tick_label 
+285 570 387 595 100 mg/kg tick_label 
+435 570 538 595 200 mg/kg tick_label 
+586 570 689 595 400 mg/kg tick_label 
+20 241 45 399 Body weight (g) axis_title 
+60 73 91 89 120 tick_label 
+60 152 91 168 100 tick_label 
+69 231 91 247 80 tick_label 
+69 308 91 324 60 tick_label 
+69 386 91 403 40 tick_label 
+69 464 91 480 20 tick_label 
+78 542 91 559 0 tick_label 
+560 52 714 70 Primitive body weight legend_label 
+559 82 684 100 Final body weight legend_label 
+352 182 361 191 * other 
+503 113 513 122 * other 
+657 151 667 160 * other 

@@ -1,0 +1,14 @@
+46 276 99 260 NO DEVICE tick_label 
+79 286 147 259 OXYGEN MASK tick_label 
+165 264 196 259 HFNC tick_label 
+213 265 243 261 CPAP tick_label 
+235 279 291 260 HELMET NIV tick_label 
+292 274 341 260 MASK NIV tick_label 
+284 0 292 7 \star other 
+332 0 339 7 \star other 
+31 242 39 252 0 tick_label 
+21 187 39 198 200 tick_label 
+21 133 39 143 400 tick_label 
+21 79 39 89 600 tick_label 
+21 24 39 35 800 tick_label 
+0 106 14 145 Vt (mL) axis_title 

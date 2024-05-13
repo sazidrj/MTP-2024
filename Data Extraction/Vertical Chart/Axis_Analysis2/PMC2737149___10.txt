@@ -1,0 +1,13 @@
+86 2 102 15 tick_label y_axis 111 11
+86 27 102 40 tick_label y_axis 111 35
+93 53 102 65 tick_label y_axis 111 60
+93 77 102 90 tick_label y_axis 111 85
+92 102 102 115 tick_label y_axis 111 110
+93 128 102 139 tick_label y_axis 111 135
+93 152 102 164 tick_label y_axis 111 159
+120 172 143 184 tick_label x_axis 132 159
+162 172 185 184 tick_label x_axis 174 159
+203 172 227 185 tick_label x_axis 216 159
+245 173 268 185 tick_label x_axis 258 159
+287 172 311 185 tick_label x_axis 299 159
+330 172 353 185 tick_label x_axis 341 159

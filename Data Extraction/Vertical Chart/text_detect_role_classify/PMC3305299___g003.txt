@@ -1,0 +1,18 @@
+442 221 458 234 10 tick_label 
+407 221 417 234 9 tick_label 
+370 221 380 234 8 tick_label 
+333 222 342 234 7 tick_label 
+296 221 305 234 6 tick_label 
+259 222 268 234 5 tick_label 
+221 221 230 234 4 tick_label 
+183 221 193 234 3 tick_label 
+146 222 156 234 2 tick_label 
+110 222 116 234 1 tick_label 
+72 221 81 234 0 tick_label 
+39 208 48 221 0 tick_label 
+39 157 48 169 5 tick_label 
+33 105 49 118 10 tick_label 
+32 53 49 66 15 tick_label 
+32 2 49 14 20 tick_label 
+182 246 344 260 Number of valid answers axis_title 
+1 35 18 186 Number of expressions axis_title 

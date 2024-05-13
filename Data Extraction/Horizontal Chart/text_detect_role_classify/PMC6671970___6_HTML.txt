@@ -1,0 +1,24 @@
+29 280 95 297 EUGtop4d tick_label
+23 244 95 258 EUGbttm4d tick_label
+28 209 95 226 CEOtop4d tick_label
+22 172 95 186 CEObttm4d tick_label
+29 137 95 154 EUGtop7d tick_label
+23 101 95 115 EUGbttm7d tick_label
+28 65 95 83 CEOtop7d tick_label
+22 29 95 43 CEObttm7d tick_label
+0 132 12 199 Treatments axis_title
+102 336 110 347 0 tick_label
+190 336 203 347 10 tick_label
+278 336 293 347 20 tick_label
+368 336 382 347 30 tick_label
+457 336 472 347 40 tick_label
+547 336 561 347 50 tick_label
+290 361 370 378 Mortality (%) axis_title
+144 284 152 293 c other
+130 248 138 257 c other
+145 212 153 221 c other
+115 175 122 184 c other
+460 138 469 150 b other
+488 100 497 113 b other
+305 68 313 77 a other
+217 31 231 41 ac other

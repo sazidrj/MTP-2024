@@ -1,0 +1,15 @@
+550 353 597 369 DICLO tick_label 
+430 353 490 368 INFLAM tick_label 
+315 353 378 369 A.l. 25% tick_label 
+201 352 264 369 A.l. 50% tick_label 
+83 353 156 369 A.l. 100% tick_label 
+26 48 46 63 70 tick_label 
+26 88 46 103 60 tick_label 
+26 128 46 144 50 tick_label 
+25 168 46 184 40 tick_label 
+26 208 46 224 30 tick_label 
+26 248 46 264 20 tick_label 
+26 289 46 304 10 tick_label 
+35 329 46 344 0 tick_label 
+291 0 335 25 NO chart_title 
+0 148 20 244 micromol /L axis_title 

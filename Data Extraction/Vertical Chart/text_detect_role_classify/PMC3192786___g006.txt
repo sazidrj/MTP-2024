@@ -1,0 +1,10 @@
+2 81 18 192 % of right-eye use axis_title 
+32 2 48 15 60 tick_label 
+32 88 48 101 50 tick_label 
+31 173 49 186 40 tick_label 
+32 258 48 271 30 tick_label 
+121 274 174 290 predator tick_label 
+216 274 312 287 neutral stimulus tick_label 
+362 276 400 287 mirror tick_label 
+414 17 456 30 L-PPO legend_label 
+414 36 458 49 R-PPO legend_label 

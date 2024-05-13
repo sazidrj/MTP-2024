@@ -1,0 +1,64 @@
+559 56 668 72 Organismal systems tick_grouping
+560 239 625 252 Metabolism tick_grouping
+560 396 648 409 Human diseases tick_grouping
+560 413 768 428 Environmental information processing tick_grouping
+559 429 657 443 Cellular processes tick_grouping
+236 473 244 485 0 tick_label
+305 473 313 485 2 tick_label
+374 473 382 485 4 tick_label
+443 473 451 485 6 tick_label
+512 473 520 485 8 tick_label
+333 6 442 19 KEGG classification chart_title
+334 492 422 508 Percent of genes axis_title
+346 33 354 45 9 value_label
+358 49 372 61 10 value_label
+516 65 531 77 24 value_label
+494 81 509 93 22 value_label
+301 96 309 108 5 value_label
+301 113 309 124 5 value_label
+380 129 394 141 12 value_label
+335 144 344 156 8 value_label
+426 161 440 172 16 value_label
+380 176 394 187 12 value_label
+335 208 344 219 8 value_label
+279 192 287 204 3 value_label
+335 224 343 236 8 value_label
+301 239 309 251 5 value_label
+358 255 372 267 10 value_label
+437 271 450 283 17 value_label
+437 287 450 299 17 value_label
+313 303 322 315 6 value_label
+301 318 309 330 5 value_label
+380 335 394 346 12 value_label
+392 350 405 362 13 value_label
+414 366 428 378 15 value_label
+483 382 496 394 21 value_label
+414 398 428 409 15 value_label
+414 414 427 426 15 value_label
+392 429 405 441 13 value_label
+42 32 235 48 Regulation of lipolysis in adipocytes tick_label
+55 48 235 64 Adipocytokine signaling pathway tick_label
+152 65 235 80 Thermogenesis tick_label
+103 81 235 95 PPAR signaling pathway tick_label
+31 96 234 111 Biosynthesis of unsaturated fatty acids tick_label
+56 112 235 127 Terpenoid backbone biosynthesis tick_label
+107 128 235 143 Propanoate metabolism tick_label
+13 143 235 158 Glyoxylate and dicarboxylate metabolism tick_label
+120 160 235 174 Pyruvate metabolism tick_label
+101 175 235 190 Glycerolipid metabolism tick_label
+8 191 235 206 Phosphonate and phosphinate metabolism tick_label
+98 207 235 220 beta-Alanine metabolism tick_label
+103 222 235 238 Tryptophan metabolism tick_label
+118 239 235 251 Histidine metabolism tick_label
+132 254 235 269 Lysine degradation tick_label
+9 270 235 285 Valine, leucine and isoleucine degradation tick_label
+115 286 235 301 Fatty acid degradation tick_label
+122 302 235 317 Fatty acid elongation tick_label
+114 318 235 333 Fatty acid biosynthesis tick_label
+99 334 234 349 Citrate cycle (TCA cycle) tick_label
+85 350 235 365 Glycolysis/Gluconeogenesis tick_label
+116 366 235 380 Fatty acid metabolism tick_label
+127 381 235 394 Carbon metabolism tick_label
+8 397 235 412 Non-alcoholic fatty liver disease (NAFLD) tick_label
+97 413 235 429 AMPK signaling pathway tick_label
+171 430 235 441 Peroxisome tick_label

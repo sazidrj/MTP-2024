@@ -1,0 +1,10 @@
+30 3 51 57 tick_label y_axis 56 29
+31 86 51 137 tick_label y_axis 56 112
+30 169 51 222 tick_label y_axis 56 196
+30 252 51 303 tick_label y_axis 56 279
+31 354 51 369 tick_label y_axis 56 362
+72 370 159 395 tick_label x_axis 116 362
+170 370 289 395 tick_label x_axis 229 362
+304 370 383 394 tick_label x_axis 343 362
+415 370 497 395 tick_label x_axis 456 362
+528 370 610 395 tick_label x_axis 570 362

@@ -1,0 +1,30 @@
+312 156 355 165 Ceftazidime tick_label 
+264 156 305 166 Imipeneme tick_label 
+217 156 255 165 Cefazoline tick_label 
+162 156 211 166 Meropeneme tick_label 
+126 156 149 165 Amox tick_label 
+69 156 110 166 Pipera-tazo tick_label 
+19 156 61 165 Cefotaxime tick_label 
+68 174 178 184 Insufficient drug concentrations legend_label 
+199 175 304 184 Sufficient drug concentrations legend_label 
+331 142 337 150 1 value_label 
+281 137 288 146 2 value_label 
+232 123 239 132 3 value_label 
+232 141 239 149 1 value_label 
+183 132 190 141 3 value_label 
+183 104 190 113 3 value_label 
+135 87 141 94 1 value_label 
+134 119 141 127 6 value_label 
+86 41 92 49 3 value_label 
+84 100 94 109 10 value_label 
+37 114 43 122 7 value_label 
+37 49 43 58 7 value_label 
+2 146 9 155 0 tick_label 
+3 127 9 135 2 tick_label 
+3 109 9 117 4 tick_label 
+2 90 9 99 6 tick_label 
+2 72 9 81 8 tick_label 
+0 54 10 63 10 tick_label 
+0 35 9 44 12 tick_label 
+0 17 9 26 14 tick_label 
+0 0 9 7 16 tick_label 

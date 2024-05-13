@@ -1,0 +1,28 @@
+145 315 153 324 0 tick_label
+177 315 182 324 1 tick_label
+206 315 214 324 2 tick_label
+237 315 244 324 3 tick_label
+267 315 275 324 4 tick_label
+298 315 306 324 5 tick_label
+329 315 337 324 6 tick_label
+360 315 366 324 7 tick_label
+390 315 398 324 8 tick_label
+420 314 428 324 9 tick_label
+71 294 143 305 Defense response tick_label
+66 260 143 272 Sensory perception tick_label
+115 277 142 288 Sperm tick_label
+102 243 143 254 Apoptosis tick_label
+100 226 143 237 Oogenesis tick_label
+111 209 143 219 Meiosis tick_label
+113 192 142 203 Mitosis tick_label
+49 175 144 186 Mesoderm development tick_label
+0 158 143 170 Embryonic Dorsal/Ventral Patterning tick_label
+87 142 141 153 Phagocytosis tick_label
+99 124 143 136 Oviposition tick_label
+23 107 143 119 Detection of hormone stimulus tick_label
+34 91 143 102 Interspecific Larval Lethality tick_label
+71 73 143 84 Puparial adhesion tick_label
+71 57 143 68 Female receptivity tick_label
+77 40 144 50 RNA interference tick_label
+77 23 141 34 Stress response tick_label
+41 6 143 17 Plasmocyte differentiation tick_label

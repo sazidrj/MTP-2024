@@ -1,0 +1,8 @@
+56 5 92 25 tick_label y_axis 112 16
+59 160 92 181 tick_label y_axis 112 172
+59 316 92 337 tick_label y_axis 112 327
+57 471 92 492 tick_label y_axis 112 483
+57 627 92 648 tick_label y_axis 112 638
+152 666 313 696 tick_label x_axis 232 638
+376 666 458 690 tick_label x_axis 416 638
+521 666 681 730 tick_label x_axis 601 638

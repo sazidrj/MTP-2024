@@ -1,0 +1,25 @@
+295 379 488 395 Number of SNPs annotated axis_title
+78 312 121 325 5'-UTR tick_label
+65 270 121 286 splice site tick_label
+27 231 121 243 non synonymous tick_label
+51 189 122 201 synonymous tick_label
+78 144 121 157 3'-UTR tick_label
+69 104 121 118 upstream tick_label
+52 60 121 73 downstream tick_label
+87 18 121 31 intron tick_label
+1 76 16 229 Functional annotation axis_title
+127 349 136 361 0 tick_label
+203 348 233 361 2000 tick_label
+288 349 318 361 4000 tick_label
+374 349 404 361 6000 tick_label
+460 349 490 361 8000 tick_label
+544 349 579 361 10000 tick_label
+630 348 664 361 12000 tick_label
+548 18 593 31 65.10% other
+238 60 281 73 15.98% other
+232 102 274 115 14.95% other
+149 144 185 157 1.55% other
+148 186 184 199 1.45% other
+140 228 178 241 0.51% other
+139 270 177 283 0.26% other
+138 312 176 325 0.21% other

@@ -1,0 +1,7 @@
+100 477 143 502 tick_label y_axis 171 489
+100 357 144 382 tick_label y_axis 171 370
+101 238 143 263 tick_label y_axis 171 251
+100 119 144 144 tick_label y_axis 171 132
+86 0 143 25 tick_label y_axis 171 13
+258 515 397 542 tick_label x_axis 328 489
+528 515 649 542 tick_label x_axis 589 489

@@ -1,0 +1,22 @@
+5 149 30 256 Lipid class axis_title
+55 12 82 29 DG tick_label
+51 47 83 65 Cer tick_label
+61 82 82 99 PS tick_label
+51 117 82 134 LPE tick_label
+65 152 81 169 Pl tick_label
+60 187 82 204 PE tick_label
+50 221 83 239 LPC tick_label
+53 257 82 274 SM tick_label
+59 291 83 308 PC tick_label
+56 326 82 344 TG tick_label
+60 372 144 389 0.00E+00 tick_label
+154 372 236 389 1.00E+09 tick_label
+246 372 329 389 2.00E+09 tick_label
+339 372 422 389 3.00E+09 tick_label
+431 372 515 389 4.00E+09 tick_label
+524 372 607 389 5.00E+09 tick_label
+617 372 700 389 6.00E+09 tick_label
+709 372 793 389 7.00E+09 tick_label
+352 402 500 422 Summed area axis_title
+684 8 744 28 MSC0 legend_label
+684 43 757 62 MSC21 legend_label

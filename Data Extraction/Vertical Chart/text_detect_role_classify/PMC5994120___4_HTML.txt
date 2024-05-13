@@ -1,0 +1,16 @@
+242 111 255 124 \star other 
+47 69 62 90 8 tick_label 
+48 134 62 155 6 tick_label 
+47 200 63 220 4 tick_label 
+47 264 62 285 2 tick_label 
+47 329 62 350 0 tick_label 
+130 354 144 375 0 tick_label 
+259 354 274 375 4 tick_label 
+389 354 404 375 7 tick_label 
+513 353 542 375 14 tick_label 
+235 0 426 71 Ly6C^{+}Ly6G^{+} \n granulocytes chart_title 
+249 385 416 412 Postnatal day axis_title 
+0 100 32 311 Cell Count (x10^{4}) axis_title 
+143 424 220 448 21% O_{2} legend_label 
+284 423 365 448 90% O_{2} legend_label 
+419 423 570 448 90% O_{2}+MSCs legend_label 

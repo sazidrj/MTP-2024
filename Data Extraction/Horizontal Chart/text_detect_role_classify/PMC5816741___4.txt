@@ -1,0 +1,17 @@
+216 276 331 295 DNA integration tick_label
+162 233 331 252 DNA metabolic process tick_label
+191 191 331 207 DNA recombination tick_label
+87 149 331 166 macromolecule metabolic process tick_label
+112 106 332 124 nucleic acid metabolic process tick_label
+229 63 332 81 protein folding tick_label
+238 21 331 39 transposition tick_label
+1 130 25 225 GO_desc axis_title
+31 319 332 337 cellular macromolecule metabolic process tick_label
+345 360 356 375 0 tick_label
+417 360 437 375 20 tick_label
+492 360 513 375 40 tick_label
+569 360 589 375 60 tick_label
+335 383 613 405 Fraction of total expressed genes axis_title
+621 134 701 152 condition legend_title
+654 166 711 183 control legend_label
+655 198 683 213 test legend_label

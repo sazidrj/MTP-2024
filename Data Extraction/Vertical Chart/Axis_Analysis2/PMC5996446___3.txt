@@ -1,0 +1,13 @@
+41 31 72 49 tick_label y_axis 99 40
+41 86 72 103 tick_label y_axis 99 95
+51 141 73 158 tick_label y_axis 99 150
+51 194 73 212 tick_label y_axis 99 204
+51 249 73 267 tick_label y_axis 99 259
+50 303 72 321 tick_label y_axis 99 313
+62 359 74 376 tick_label y_axis 99 368
+159 378 191 396 tick_label x_axis 144 368
+311 379 333 397 tick_label x_axis 322 368
+247 378 263 396 tick_label x_axis 233 368
+392 379 415 397 tick_label x_axis 411 368
+473 379 505 397 tick_label x_axis 500 368
+563 379 595 397 tick_label x_axis 589 368

@@ -1,0 +1,30 @@
+83 228 99 300 Mozambique tick_label 
+107 228 120 263 Sudan tick_label 
+131 227 146 275 Ethiopia tick_label 
+155 228 167 298 Sierra Leone tick_label 
+178 228 191 269 Liberia tick_label 
+202 228 215 257 DRC tick_label 
+226 227 238 279 Tanzania tick_label 
+250 227 262 265 Ghana tick_label 
+273 228 286 278 Morocco tick_label 
+297 228 312 294 Madagascar tick_label 
+321 227 336 270 Nigeria tick_label 
+345 227 357 265 Gabon tick_label 
+391 217 400 229 0 tick_label 
+391 183 400 195 2 tick_label 
+391 150 400 162 4 tick_label 
+391 116 400 128 6 tick_label 
+391 83 400 95 8 tick_label 
+393 49 406 62 10 tick_label 
+393 16 406 28 12 tick_label 
+266 23 351 38 affected people legend_label 
+266 47 280 60 % legend_label 
+42 217 51 229 0 tick_label 
+29 180 51 192 500 tick_label 
+23 144 50 156 1000 tick_label 
+23 108 50 120 1500 tick_label 
+22 72 50 84 2000 tick_label 
+22 36 50 48 2500 tick_label 
+22 0 50 11 3000 tick_label 
+0 26 16 192 affected people (thousands) axis_title 
+408 48 425 177 % of total population axis_title 

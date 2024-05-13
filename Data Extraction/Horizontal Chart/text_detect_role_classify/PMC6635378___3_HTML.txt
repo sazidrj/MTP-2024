@@ -1,0 +1,80 @@
+343 2 470 17 KEGG Clasification chart_title
+160 37 214 49 Cell motility tick_label
+126 53 213 64 Cell communication tick_label
+99 69 211 81 Transport and Catabolism tick_label
+117 85 213 97 Cell growth and death tick_label
+121 101 213 113 Membrane transport tick_label
+60 117 214 129 Signaling molecules and interaction tick_label
+130 133 214 144 Signal transduction tick_label
+155 149 214 161 Transcription tick_label
+118 165 213 177 Replication and repar tick_label
+74 180 214 193 Folding, sorting and degradation tick_label
+163 197 214 207 Translation tick_label
+32 213 215 224 Metaboksm of terpenoids and potyketides tick_label
+23 228 215 240 Biosynthesis of other secondary metabolites tick_label
+23 245 213 257 Xenobiotics biodegradation and metabolism tick_label
+71 260 215 271 Metabolism of other amino acids tick_label
+51 276 214 286 Metabolism of cofactors and vitamins tick_label
+129 292 213 305 Energy metabolism tick_label
+57 308 214 320 Glycan biosynthesis and metabolism tick_label
+113 324 214 334 Nuclectide metabolism tick_label
+139 340 214 352 Lipid metabolism tick_label
+110 356 213 366 Amino acid metabolism tick_label
+100 372 214 384 Carbohydrate metabolism tick_label
+146 388 214 400 Sensory system tick_label
+139 404 214 416 Excretory system tick_label
+187 420 214 432 Aging tick_label
+154 436 212 448 Development tick_label
+132 452 214 463 Circulatory system tick_label
+101 467 214 479 Environmental adaptation tick_label
+140 484 213 496 Digestive system tick_label
+143 499 213 511 Nervous system tick_label
+144 515 213 527 immune system tick_label
+136 532 214 543 Endocrine system tick_label
+2 461 12 471 A tick_grouping
+2 294 12 302 B tick_grouping
+2 174 12 182 C tick_grouping
+2 119 12 127 D tick_grouping
+2 64 12 71 E tick_grouping
+217 552 226 563 0 tick_label
+260 552 279 563 200 tick_label
+307 552 325 563 400 tick_label
+354 552 372 563 600 tick_label
+402 552 420 563 800 tick_label
+446 552 471 564 1,000 tick_label
+493 552 518 564 1,200 tick_label
+540 552 566 564 1,400 tick_label
+587 552 613 564 1,600 tick_label
+361 570 461 582 Number of unigenes axis_title
+411 532 429 542 777 value_label
+358 516 376 526 555 value_label
+328 500 347 511 430 value_label
+283 484 301 494 235 value_label
+279 468 297 479 221 value_label
+258 452 276 463 128 value_label
+257 436 274 446 124 value_label
+256 420 274 431 123 value_label
+247 405 260 415 85 value_label
+247 388 260 399 84 value_label
+306 372 325 383 334 value_label
+297 357 315 367 296 value_label
+286 340 304 351 252 value_label
+274 325 292 335 196 value_label
+273 309 290 319 191 value_label
+267 293 285 303 164 value_label
+260 277 277 287 135 value_label
+246 261 259 272 82 value_label
+244 245 257 255 69 value_label
+236 229 249 239 39 value_label
+235 213 247 224 35 value_label
+319 197 336 207 387 value_label
+312 181 330 192 356 value_label
+277 166 295 176 209 value_label
+268 149 285 159 170 value_label
+259 118 277 128 132 value_label
+233 101 246 112 25 value_label
+354 86 372 96 538 value_label
+350 70 368 80 520 value_label
+280 53 297 64 222 value_label
+246 38 259 48 82 value_label
+597 133 622 145 1,583 value_label

@@ -1,0 +1,22 @@
+28 29 79 47 16000 tick_label 
+28 75 79 92 14000 tick_label 
+28 121 78 138 12000 tick_label 
+28 167 78 184 10000 tick_label 
+37 213 79 230 8000 tick_label 
+36 258 78 275 6000 tick_label 
+36 304 78 321 4000 tick_label 
+36 350 79 367 2000 tick_label 
+67 395 79 413 0 tick_label 
+116 413 156 430 1976 tick_label 
+214 413 255 430 1990 tick_label 
+310 413 353 430 2000 tick_label 
+408 413 451 430 2010 tick_label 
+506 413 548 429 2015 tick_label 
+557 414 600 430 Year axis_title 
+0 198 21 277 Area/km^{2} axis_title 
+143 3 237 21 Forest land legend_label 
+143 29 234 46 Water area legend_label 
+291 3 419 21 Cultivated land legend_label 
+289 29 437 46 Construction land legend_label 
+494 4 579 21 Grassland legend_label 
+492 29 597 46 Unused land legend_label 

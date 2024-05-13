@@ -1,0 +1,13 @@
+30 174 92 184 CrCl < 100 (N= 53) tick_label 
+106 174 186 184 100 \leq CrCl < 150 (N = 62) tick_label 
+190 174 271 184 150 \leq CrCl < 200 (N= 75) tick_label 
+284 174 347 184 (CrCl \geq 200(N = 96) tick_label 
+6 165 13 173 0 tick_label 
+3 131 13 140 20 tick_label 
+2 98 13 107 40 tick_label 
+2 65 13 74 60 tick_label 
+2 32 13 41 80 tick_label 
+0 0 18 7 100% tick_label 
+239 40 246 46 * other 
+325 55 331 61 * other 
+300 2 306 8 * other 

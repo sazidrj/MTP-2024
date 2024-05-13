@@ -1,0 +1,13 @@
+5 76 35 234 Sex ratio (%) axis_title 
+26 4 73 28 100 tick_label 
+40 59 73 83 80 tick_label 
+40 114 73 138 60 tick_label 
+40 169 73 193 40 tick_label 
+41 223 73 248 20 tick_label 
+56 278 73 303 0 tick_label 
+109 329 212 396 Autumn \n (n=16) tick_label 
+235 329 325 396 Winter \n (n=36) tick_label 
+358 329 440 396 Spring \n (n=23) tick_label 
+464 329 573 396 Summer \n (n=20) tick_label 
+592 158 656 183 Male legend_label 
+592 208 684 233 Female legend_label 

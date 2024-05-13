@@ -1,0 +1,28 @@
+2 136 16 265 Number of strains axis_title 
+20 2 38 16 12 tick_label 
+20 60 38 74 10 tick_label 
+28 118 38 132 8 tick_label 
+28 176 38 190 6 tick_label 
+27 234 38 247 4 tick_label 
+28 291 38 305 2 tick_label 
+28 349 38 363 0 tick_label 
+29 407 83 378 January tick_label 
+76 411 135 378 February tick_label 
+143 398 185 376 March tick_label 
+202 392 239 378 April tick_label 
+257 385 292 380 May tick_label 
+305 392 342 376 June tick_label 
+360 385 396 379 July tick_label 
+398 403 449 377 August tick_label 
+432 421 501 377 September tick_label 
+498 407 553 376 October tick_label 
+540 418 604 375 November tick_label 
+593 418 656 375 December tick_label 
+79 9 202 23 NSF O157:H7/NM legend_label 
+78 30 145 44 O111:NM legend_label 
+232 9 321 23 SF O157:NM legend_label 
+232 30 302 44 O145:H28 legend_label 
+385 9 443 23 O55:NM legend_label 
+385 30 451 44 O172:NM legend_label 
+538 9 627 23 O26:H11/NM legend_label 
+538 30 621 47 Orough:NM legend_label 

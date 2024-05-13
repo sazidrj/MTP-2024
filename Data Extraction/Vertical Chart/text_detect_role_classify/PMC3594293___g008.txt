@@ -1,0 +1,16 @@
+59 5 80 20 15 tick_label 
+59 85 80 100 10 tick_label 
+70 165 81 179 5 tick_label 
+69 245 81 259 0 tick_label 
+63 324 81 338 -5 tick_label 
+52 403 80 418 -10 tick_label 
+111 413 161 407 Ing1 tick_label 
+181 420 259 391 Coro1A tick_label 
+271 418 341 384 VASH1 tick_label 
+364 416 428 399 Sparc tick_label 
+444 419 530 380 Kremen1 tick_label 
+532 415 580 407 CK1 tick_label 
+11 158 43 314 Fold change axis_title 
+480 12 523 30 qPCR legend_label 
+480 45 569 63 Microarray legend_label 
+624 397 658 396 Fn tick_label 

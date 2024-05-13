@@ -1,0 +1,27 @@
+153 537 165 560 1 tick_label 
+247 536 264 560 2 tick_label 
+342 536 359 560 3 tick_label 
+437 536 455 560 4 tick_label 
+532 536 549 560 5 tick_label 
+627 536 644 560 6 tick_label 
+321 577 478 605 Litter size axis_title 
+737 200 796 220 WAD legend_label 
+738 241 789 261 HUS legend_label 
+738 282 779 302 ICE legend_label 
+738 322 776 343 FIN legend_label 
+738 363 794 384 ROM legend_label 
+737 405 786 425 TEX legend_label 
+72 501 88 525 0 tick_label 
+56 460 89 484 20 tick_label 
+55 418 89 442 40 tick_label 
+56 377 89 400 60 tick_label 
+56 335 89 359 80 tick_label 
+41 294 88 317 100 tick_label 
+41 252 88 275 120 tick_label 
+41 210 88 234 140 tick_label 
+41 169 88 193 160 tick_label 
+41 127 88 151 180 tick_label 
+40 85 88 109 200 tick_label 
+40 44 88 68 220 tick_label 
+40 3 88 26 240 tick_label 
+0 133 28 399 Number of litters axis_title 

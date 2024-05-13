@@ -1,0 +1,9 @@
+5 218 35 435 Time (seconds) axis_title 
+56 5 92 25 2.0 tick_label 
+59 160 92 181 1.5 tick_label 
+59 316 92 337 1.0 tick_label 
+57 471 92 492 0.5 tick_label 
+57 627 92 648 0.0 tick_label 
+152 666 313 696 Preparation tick_label 
+376 666 458 690 Strike tick_label 
+521 666 681 730 Wind Down \n Recovery tick_label 

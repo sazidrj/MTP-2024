@@ -1,0 +1,15 @@
+2 49 31 64 500 tick_label 
+2 107 31 122 400 tick_label 
+2 165 31 179 300 tick_label 
+2 222 31 237 200 tick_label 
+3 279 31 294 100 tick_label 
+20 337 31 352 0 tick_label 
+41 351 106 367 HOTEPk tick_label 
+117 351 178 367 HOTECI tick_label 
+201 352 242 366 TEPk tick_label 
+277 351 315 367 TECI tick_label 
+343 351 398 367 NCCPk tick_label 
+419 351 471 367 NCCCI tick_label 
+95 5 166 23 Excitatory legend_label 
+242 5 307 23 Inhibitory legend_label 
+384 5 484 20 False Positive legend_label 

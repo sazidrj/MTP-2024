@@ -1,0 +1,16 @@
+591 471 613 494 I9 tick_label 
+507 471 529 494 I6 tick_label 
+423 471 444 494 I5 tick_label 
+338 471 360 493 I2 tick_label 
+237 471 292 494 SNT tick_label 
+158 471 201 493 WT tick_label 
+70 440 82 456 0 tick_label 
+44 369 82 384 1000 tick_label 
+43 298 82 314 2000 tick_label 
+43 227 81 243 3000 tick_label 
+42 156 82 172 4000 tick_label 
+43 85 82 101 5000 tick_label 
+43 14 81 30 6000 tick_label 
+3 99 31 371 Estimated yield (kg/ha) axis_title 
+184 29 256 51 Drought legend_label 
+184 4 299 26 Full irrigation legend_label 

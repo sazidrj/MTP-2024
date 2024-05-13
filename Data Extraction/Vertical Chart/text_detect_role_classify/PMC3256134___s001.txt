@@ -1,0 +1,29 @@
+62 431 70 443 0 tick_label 
+86 431 101 443 20 tick_label 
+114 431 129 443 40 tick_label 
+141 431 156 443 60 tick_label 
+169 431 184 443 80 tick_label 
+193 431 215 443 100 tick_label 
+220 431 242 443 120 tick_label 
+248 431 270 443 140 tick_label 
+275 431 297 443 160 tick_label 
+302 431 324 443 180 tick_label 
+330 431 352 443 200 tick_label 
+357 431 379 443 220 tick_label 
+385 431 407 443 240 tick_label 
+412 431 434 443 260 tick_label 
+440 431 462 443 280 tick_label 
+467 431 489 443 300 tick_label 
+495 431 517 443 320 tick_label 
+522 431 544 443 340 tick_label 
+550 431 572 443 360 tick_label 
+577 431 599 443 380 tick_label 
+605 431 627 443 400 tick_label 
+40 84 48 96 8 tick_label 
+40 167 48 179 6 tick_label 
+40 249 48 261 4 tick_label 
+40 331 48 343 2 tick_label 
+40 414 48 426 0 tick_label 
+245 452 439 468 Average Ventricular Cycle Length axis_title 
+11 213 24 259 Percent axis_title 
+43 13 592 48 Histogram of Average Ventricular Cycle Length for Subjects Whose Qualifying  \n  Episode on CRF was Adjudicated (N= 102) chart_title 

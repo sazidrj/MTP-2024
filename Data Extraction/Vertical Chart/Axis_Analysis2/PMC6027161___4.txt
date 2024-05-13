@@ -1,0 +1,12 @@
+540 484 602 533 tick_label x_axis 577 469
+633 478 695 553 tick_label x_axis 662 469
+467 479 518 504 tick_label x_axis 491 469
+383 479 438 505 tick_label x_axis 406 469
+215 479 261 504 tick_label x_axis 235 469
+292 478 346 529 tick_label x_axis 321 469
+118 478 183 503 tick_label x_axis 150 469
+46 39 83 59 tick_label y_axis 111 48
+46 143 83 163 tick_label y_axis 111 153
+45 248 82 269 tick_label y_axis 111 258
+46 353 83 374 tick_label y_axis 111 363
+69 459 83 478 tick_label y_axis 111 468

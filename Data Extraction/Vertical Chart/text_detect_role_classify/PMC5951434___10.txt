@@ -1,0 +1,17 @@
+661 385 723 400 cra1705 tick_label 
+562 385 624 400 cra2174 tick_label 
+462 385 524 400 cra1750 tick_label 
+357 385 430 400 cra2501/1 tick_label 
+265 385 327 400 cra2363 tick_label 
+166 385 228 400 cra1363 tick_label 
+67 385 127 400 cra1871 tick_label 
+210 429 378 447 S. lugdunensis strains tick_grouping 
+567 429 704 444 E. faecalis strains tick_grouping 
+23 362 38 376 -2 tick_label 
+23 302 36 315 -1 tick_label 
+28 242 38 255 0 tick_label 
+29 182 36 195 1 tick_label 
+28 122 38 136 2 tick_label 
+28 62 38 76 3 tick_label 
+27 2 37 15 4 tick_label 
+4 170 19 208 LI1M axis_title 

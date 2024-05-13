@@ -1,0 +1,29 @@
+8 12 370 28 Vasopressin-regulated water reabsorption_Homo sapiens_hsa04962 tick_label
+122 32 370 49 Viral carcinogenesis_Homo sapiens_hsa05203 tick_label
+170 53 369 68 Hepatitis B_Homo sapiens_hsa05161 tick_label
+137 74 369 90 Insulin resistance_Homo sapiens_hsa04931 tick_label
+79 95 369 111 PI3K-Akt signaling pathway_Homo sapiens_hsa04151 tick_label
+137 115 370 132 HTLV-1 infection_Homo sapiens_hsa05166 tick_label
+64 136 370 152 Ubiquitin mediated proteolysis_Homo sapiens_hsa04120 tick_label
+122 157 370 173 Viral carcinogenesis_Homo sapiens_hsa05203 tick_label
+128 178 370 194 Pathways in cancer_Homo sapiens_hsa05200 tick_label
+113 199 370 215 MicroRNAs in cancer_Homo sapiens_hsa05206 tick_label
+88 220 370 236 Chronic myeloid leakemia_Homo sapiens_hsa05220 tick_label
+173 240 370 256 Melanoma_Homo sapiens_hsa05218 tick_label
+136 261 370 277 Pancreatic cancer_Homo sapiens_hsa05212 tick_label
+189 282 370 298 Glioma_Homo sapiens_hsa05214 tick_label
+150 303 370 319 Bladder cancer_Homo sapiens_hsa05219 tick_label
+87 324 370 340 Non-small cell lung cancer_Homo sapiens_hsa05223 tick_label
+170 344 369 360 Hepatitis B_Homo sapiens_hsa05161 tick_label
+114 365 370 381 Small cell lung cancer_Homo sapiens_hsa05222 tick_label
+148 386 370 402 Prostate cancer_Homo sapiens_hsa05215 tick_label
+178 407 370 422 Cell cycle_Homo sapiens_hsa04110 tick_label
+376 434 385 446 0 tick_label
+418 434 426 446 5 tick_label
+457 434 470 446 10 tick_label
+498 434 511 446 15 tick_label
+538 434 553 446 20 tick_label
+579 434 593 446 25 tick_label
+620 434 635 446 30 tick_label
+661 434 676 446 35 tick_label
+479 453 574 465 Combined Score axis_title

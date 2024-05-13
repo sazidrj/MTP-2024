@@ -1,0 +1,20 @@
+261 281 270 293 0 tick_label
+594 281 610 293 60 tick_label
+650 281 666 293 70 tick_label
+707 281 723 293 80 tick_label
+314 281 330 293 10 tick_label
+370 281 385 293 20 tick_label
+538 281 554 293 50 tick_label
+482 281 498 293 40 tick_label
+426 281 442 293 30 tick_label
+442 313 462 324 0-8 legend_label
+394 313 422 324 8-12 legend_label
+339 313 372 324 12-18 legend_label
+164 242 252 257 Physical health tick_label
+140 204 252 219 Psychological state tick_label
+119 167 252 181 Level of independence tick_label
+138 128 253 143 Social relationships tick_label
+159 90 253 103 Personal beliefs tick_label
+0 52 253 65 Relation to salient features of environment tick_label
+352 0 433 16 Domains chart_title
+762 281 778 293 90 tick_label

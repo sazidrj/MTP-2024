@@ -1,0 +1,7 @@
+216 460 373 490 tick_label x_axis 267 418
+506 460 646 490 tick_label x_axis 550 418
+80 325 100 354 tick_label y_axis 126 339
+68 246 107 276 tick_label y_axis 126 260
+68 168 107 197 tick_label y_axis 126 182
+66 89 107 119 tick_label y_axis 126 104
+66 11 107 40 tick_label y_axis 126 26

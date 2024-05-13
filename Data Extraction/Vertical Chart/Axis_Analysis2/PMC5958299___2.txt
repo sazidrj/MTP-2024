@@ -1,0 +1,12 @@
+149 414 234 430 tick_label x_axis 192 402
+336 414 468 430 tick_label x_axis 402 402
+54 15 71 28 tick_label y_axis 85 23
+54 57 71 70 tick_label y_axis 85 65
+54 99 70 113 tick_label y_axis 85 107
+54 142 71 155 tick_label y_axis 85 149
+54 183 71 197 tick_label y_axis 85 191
+54 227 71 239 tick_label y_axis 85 234
+54 268 71 281 tick_label y_axis 85 276
+54 310 71 323 tick_label y_axis 85 318
+54 353 71 365 tick_label y_axis 85 360
+61 395 71 407 tick_label y_axis 85 402

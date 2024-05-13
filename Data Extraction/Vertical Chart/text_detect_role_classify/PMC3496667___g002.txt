@@ -1,0 +1,24 @@
+71 263 162 274 Infected index cases tick_label 
+228 263 326 274 Colonized index cases tick_label 
+362 263 511 287 Case households with a colonized \n non-index household member tick_label 
+518 263 678 287 Environmentally contaminated case \n households tick_label 
+703 46 750 58 singletons legend_label 
+704 66 727 76 1814 legend_label 
+704 85 728 95 1784 legend_label 
+703 105 722 115 692 legend_label 
+703 124 722 135 665 legend_label 
+703 144 722 154 216 legend_label 
+704 163 721 174 211 legend_label 
+704 183 722 193 128 legend_label 
+703 202 717 213 24 legend_label 
+703 222 711 232 2 legend_label 
+703 242 740 252 USA300 legend_label 
+9 10 28 20 160 tick_label 
+9 40 28 50 140 tick_label 
+9 70 28 80 120 tick_label 
+9 99 27 110 100 tick_label 
+14 130 28 140 80 tick_label 
+15 160 28 170 60 tick_label 
+14 190 28 200 40 tick_label 
+15 219 28 230 20 tick_label 
+19 250 28 260 0 tick_label 

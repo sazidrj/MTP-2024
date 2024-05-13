@@ -1,0 +1,14 @@
+77 331 158 351 tick_label x_axis 117 320
+183 331 257 347 tick_label x_axis 220 320
+285 331 358 347 tick_label x_axis 322 320
+376 331 472 370 tick_label x_axis 424 320
+24 5 45 21 tick_label y_axis 49 14
+24 39 45 55 tick_label y_axis 49 47
+24 72 45 89 tick_label y_axis 49 81
+24 107 45 123 tick_label y_axis 49 115
+24 140 45 156 tick_label y_axis 49 149
+23 174 45 191 tick_label y_axis 49 183
+25 209 45 225 tick_label y_axis 49 217
+24 244 45 260 tick_label y_axis 49 251
+25 275 45 292 tick_label y_axis 49 285
+34 310 44 327 tick_label y_axis 49 319

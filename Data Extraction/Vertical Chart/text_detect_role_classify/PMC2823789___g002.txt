@@ -1,0 +1,31 @@
+55 191 61 202 1 tick_label 
+73 191 81 202 2 tick_label 
+90 191 99 202 3 tick_label 
+109 192 117 202 4 tick_label 
+127 191 135 202 5 tick_label 
+145 191 154 202 6 tick_label 
+163 191 171 201 7 tick_label 
+182 191 190 202 8 tick_label 
+200 192 208 202 9 tick_label 
+216 192 229 202 10 tick_label 
+234 191 245 202 11 tick_label 
+251 191 264 202 12 tick_label 
+270 191 282 202 13 tick_label 
+287 191 299 202 14 tick_label 
+307 191 319 202 15 tick_label 
+324 191 336 202 16 tick_label 
+342 190 355 202 17 tick_label 
+360 190 373 202 18 tick_label 
+379 191 391 202 19 tick_label 
+17 35 42 47 3000 tick_label 
+17 59 42 70 2500 tick_label 
+17 82 42 94 2000 tick_label 
+18 106 42 117 1500 tick_label 
+18 128 42 140 1000 tick_label 
+23 152 42 163 500 tick_label 
+34 175 42 187 0 tick_label 
+2 78 14 145 VO2 (ml/ min) axis_title 
+201 209 242 222 Subject axis_title 
+415 98 455 109 Cosmed legend_label 
+415 115 476 129 Medgraphics legend_label 
+116 1 354 16 Cosmed vs. Medgraphics VO2 (ml/min) chart_title 

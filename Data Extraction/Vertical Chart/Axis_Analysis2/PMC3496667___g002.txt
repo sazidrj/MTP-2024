@@ -1,0 +1,13 @@
+71 263 162 274 tick_label x_axis 116 255
+228 263 326 274 tick_label x_axis 277 255
+362 263 511 287 tick_label x_axis 436 255
+518 263 678 287 tick_label x_axis 598 255
+9 10 28 20 tick_label y_axis 37 15
+9 40 28 50 tick_label y_axis 37 45
+9 70 28 80 tick_label y_axis 37 75
+9 99 27 110 tick_label y_axis 37 105
+14 130 28 140 tick_label y_axis 37 135
+15 160 28 170 tick_label y_axis 37 165
+14 190 28 200 tick_label y_axis 37 195
+15 219 28 230 tick_label y_axis 37 225
+19 250 28 260 tick_label y_axis 37 255

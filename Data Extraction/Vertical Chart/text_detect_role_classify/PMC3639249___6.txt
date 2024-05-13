@@ -1,0 +1,9 @@
+216 460 373 490 PINK1+/+ tick_label 
+506 460 646 490 PINK1-/- tick_label 
+80 325 100 354 5 tick_label 
+68 246 107 276 10 tick_label 
+68 168 107 197 15 tick_label 
+66 89 107 119 20 tick_label 
+66 11 107 40 25 tick_label 
+7 7 41 410 TMRM fluorescence (A.U) axis_title 
+542 154 562 172 \star other 

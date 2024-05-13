@@ -1,0 +1,11 @@
+64 92 110 112 0.60 tick_label 
+64 215 110 235 0.40 tick_label 
+66 338 110 357 0.20 tick_label 
+64 460 110 480 0.00 tick_label 
+168 491 285 511 Wealthiest tick_label 
+348 491 361 511 2 tick_label 
+476 491 490 511 3 tick_label 
+603 492 618 511 4 tick_label 
+698 491 781 511 Poorest tick_label 
+313 527 609 554 Wealth Index Quintiles axis_title 
+23 68 56 423 Mean Predicted Probability axis_title 

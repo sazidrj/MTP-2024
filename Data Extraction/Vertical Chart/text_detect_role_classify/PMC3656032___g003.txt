@@ -1,0 +1,13 @@
+3 188 26 384 Radiation dose(mSv) axis_title 
+285 606 381 625 Heart rate axis_title 
+28 84 64 99 12.50 tick_label 
+28 180 65 194 10.00 tick_label 
+36 275 64 290 7.50 tick_label 
+36 368 65 384 5.00 tick_label 
+36 464 65 479 2.50 tick_label 
+36 560 64 574 0.00 tick_label 
+165 576 231 592 65-80bpm tick_label 
+439 576 492 592 >80bpm tick_label 
+660 15 716 35 Groups legend_title 
+663 46 729 61 Traditional legend_label 
+662 65 713 82 Doppler legend_label 

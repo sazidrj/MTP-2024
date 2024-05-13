@@ -1,0 +1,15 @@
+4 100 25 339 AUC [RLU x OD_{405^{-1}} x 12 h] axis_title 
+34 4 76 18 18000 tick_label 
+35 51 76 64 16000 tick_label 
+35 97 76 111 14000 tick_label 
+34 144 76 157 12000 tick_label 
+34 190 76 204 10000 tick_label 
+42 236 76 250 8000 tick_label 
+42 283 76 297 6000 tick_label 
+41 330 76 343 4000 tick_label 
+42 376 76 389 2000 tick_label 
+65 423 76 436 0 tick_label 
+147 445 208 461 Parent tick_label 
+268 444 368 465 yenR/ycoR tick_label 
+449 444 490 465 yenl tick_label 
+544 444 688 465 yenl/yenR/ycoR tick_label 

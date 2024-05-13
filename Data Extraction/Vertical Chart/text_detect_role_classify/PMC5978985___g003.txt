@@ -1,0 +1,18 @@
+0 18 24 270 CH_{4} emissions (mg m^{-2} h^{-1}) axis_title 
+372 338 435 356 Month axis_title 
+85 307 127 330 May tick_label 
+177 307 209 326 Jun tick_label 
+264 307 289 326 Jul tick_label 
+342 307 382 330 Aug tick_label 
+426 307 467 330 Sept tick_label 
+513 307 547 326 Oct tick_label 
+592 307 634 326 Nov tick_label 
+677 307 715 326 Dec tick_label 
+26 0 49 17 35 tick_label 
+27 38 50 57 30 tick_label 
+26 78 49 97 25 tick_label 
+26 118 50 138 20 tick_label 
+28 160 49 179 15 tick_label 
+28 200 50 220 10 tick_label 
+38 241 49 260 5 tick_label 
+38 281 49 300 0 tick_label 

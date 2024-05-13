@@ -1,0 +1,15 @@
+36 57 85 75 tick_label y_axis 106 67
+35 103 85 122 tick_label y_axis 106 114
+35 150 85 169 tick_label y_axis 106 161
+36 197 85 216 tick_label y_axis 106 208
+36 244 85 262 tick_label y_axis 106 254
+36 291 85 309 tick_label y_axis 106 301
+36 338 85 356 tick_label y_axis 106 348
+37 385 84 403 tick_label y_axis 106 395
+37 431 85 450 tick_label y_axis 106 442
+48 478 85 497 tick_label y_axis 106 489
+71 525 85 543 tick_label y_axis 106 535
+137 555 197 574 tick_label x_axis 167 535
+267 556 312 574 tick_label x_axis 290 535
+390 556 433 574 tick_label x_axis 412 535
+485 556 583 574 tick_label x_axis 534 535

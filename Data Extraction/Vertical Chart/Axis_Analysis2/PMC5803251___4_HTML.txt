@@ -1,0 +1,13 @@
+591 471 613 494 tick_label x_axis 602 449
+507 471 529 494 tick_label x_axis 517 449
+423 471 444 494 tick_label x_axis 433 449
+338 471 360 493 tick_label x_axis 348 449
+237 471 292 494 tick_label x_axis 264 449
+158 471 201 493 tick_label x_axis 179 449
+70 440 82 456 tick_label y_axis 96 449
+44 369 82 384 tick_label y_axis 96 378
+43 298 82 314 tick_label y_axis 96 307
+43 227 81 243 tick_label y_axis 96 236
+42 156 82 172 tick_label y_axis 96 164
+43 85 82 101 tick_label y_axis 96 93
+43 14 81 30 tick_label y_axis 96 22

@@ -1,0 +1,12 @@
+69 0 96 43 tick_label y_axis 128 21
+69 100 96 147 tick_label y_axis 128 124
+69 203 96 249 tick_label y_axis 128 226
+69 304 96 350 tick_label y_axis 128 327
+69 403 96 449 tick_label y_axis 128 430
+69 524 96 542 tick_label y_axis 128 534
+91 656 217 580 tick_label x_axis 195 534
+179 656 305 575 tick_label x_axis 282 534
+272 656 401 577 tick_label x_axis 374 534
+325 672 488 578 tick_label x_axis 459 534
+415 673 580 575 tick_label x_axis 547 534
+503 673 668 576 tick_label x_axis 635 534

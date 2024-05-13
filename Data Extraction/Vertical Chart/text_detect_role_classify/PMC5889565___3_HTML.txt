@@ -1,0 +1,32 @@
+84 26 97 34 1.0 tick_label 
+108 26 120 34 1.0 tick_label 
+130 26 143 34 4.3 tick_label 
+153 26 166 34 6.6 tick_label 
+176 26 189 34 2.8 tick_label 
+200 26 212 34 1.0 tick_label 
+223 26 235 34 4.7 tick_label 
+245 26 258 34 0.2 tick_label 
+269 26 281 34 8.1 tick_label 
+292 26 304 34 2.7 tick_label 
+314 26 329 34 11.5 tick_label 
+338 26 351 34 5.6 tick_label 
+361 26 374 34 9.3 tick_label 
+385 26 397 34 6.0 tick_label 
+407 26 420 34 8.5 tick_label 
+431 26 443 34 8.1 tick_label 
+454 26 466 34 3.2 tick_label 
+477 26 489 34 7.4 tick_label 
+500 26 512 34 4.7 tick_label 
+523 27 535 34 5.2 tick_label 
+546 26 559 34 8.8 tick_label 
+63 36 73 44 60 tick_label 
+63 68 74 75 40 tick_label 
+63 98 74 106 20 tick_label 
+67 129 73 137 0 tick_label 
+61 160 73 168 -20 tick_label 
+61 191 73 199 -40 tick_label 
+61 221 73 229 -60 tick_label 
+61 252 73 261 -80 tick_label 
+56 283 73 292 -100 tick_label 
+10 110 54 172 % \n change \n by \n RECIST axis_title 
+0 0 70 28 Duration of \n response (m) axis_title 

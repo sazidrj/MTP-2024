@@ -1,0 +1,12 @@
+22 1 44 14 tick_label y_axis 50 8
+28 157 38 170 tick_label y_axis 50 164
+23 313 43 326 tick_label y_axis 50 320
+29 469 35 481 tick_label y_axis 50 476
+22 625 43 638 tick_label y_axis 50 631
+28 781 38 794 tick_label y_axis 50 787
+725 1 746 14 tick_label y_axis_2 722 8
+730 158 740 170 tick_label y_axis_2 722 164
+726 313 745 326 tick_label y_axis_2 722 320
+731 469 738 481 tick_label y_axis_2 722 476
+725 625 746 638 tick_label y_axis_2 722 631
+730 781 740 794 tick_label y_axis_2 722 787

@@ -1,0 +1,15 @@
+161 37 267 52 tick_label x_axis 276 44
+138 74 267 88 tick_label x_axis 276 81
+161 110 267 125 tick_label x_axis 276 118
+174 147 267 162 tick_label x_axis 276 155
+225 184 267 197 tick_label x_axis 276 192
+173 221 267 236 tick_label x_axis 276 228
+220 258 267 272 tick_label x_axis 276 265
+145 295 267 309 tick_label x_axis 276 302
+191 331 267 345 tick_label x_axis 276 338
+272 367 281 379 tick_label y_axis 276 358
+363 367 371 379 tick_label y_axis 367 358
+451 367 465 379 tick_label y_axis 458 358
+541 367 555 378 tick_label y_axis 548 358
+631 367 645 379 tick_label y_axis 638 358
+722 367 736 379 tick_label y_axis 729 358

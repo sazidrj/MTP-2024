@@ -1,0 +1,10 @@
+45 5 79 22 tick_label y_axis 94 13
+45 86 79 103 tick_label y_axis 94 95
+45 167 79 185 tick_label y_axis 94 176
+47 249 79 266 tick_label y_axis 94 258
+47 330 79 348 tick_label y_axis 94 340
+56 412 79 429 tick_label y_axis 94 421
+67 493 79 511 tick_label y_axis 94 503
+166 525 294 549 tick_label x_axis 228 503
+404 524 468 545 tick_label x_axis 434 503
+585 525 710 577 tick_label x_axis 640 503

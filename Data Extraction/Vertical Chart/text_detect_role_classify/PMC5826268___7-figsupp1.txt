@@ -1,0 +1,19 @@
+35 493 119 447 PHT1;1 tick_label 
+113 494 197 445 PHT1;2 tick_label 
+188 493 274 445 PHT1;3 tick_label 
+265 493 350 446 PHT1;4 tick_label 
+342 494 427 445 PHT1;5 tick_label 
+419 494 504 445 PHT1;6 tick_label 
+495 493 581 445 PHT1;7 tick_label 
+572 494 657 445 PHT1;8 tick_label 
+648 493 733 446 PHT1;9 tick_label 
+44 396 59 419 0 tick_label 
+45 315 56 338 1 tick_label 
+44 235 59 257 2 tick_label 
+44 154 59 177 3 tick_label 
+43 74 60 97 4 tick_label 
+47 0 61 18 5 tick_label 
+0 43 25 363 Relative PHT1 genes expression axis_title 
+626 39 678 57 Col-0 legend_label 
+631 66 710 87 Ipcat1-1 legend_label 
+631 94 712 117 Ipact1-2 legend_label 

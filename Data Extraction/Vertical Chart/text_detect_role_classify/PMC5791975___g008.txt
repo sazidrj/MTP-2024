@@ -1,0 +1,15 @@
+44 19 64 34 40 tick_label 
+44 88 63 103 35 tick_label 
+44 157 63 172 30 tick_label 
+44 225 63 241 25 tick_label 
+44 294 63 309 20 tick_label 
+46 363 63 378 15 tick_label 
+46 432 63 447 10 tick_label 
+53 501 63 516 5 tick_label 
+53 570 63 584 0 tick_label 
+98 590 195 607 Acacia (n=8) tick_label 
+228 590 341 629 Barbed wire &  \n  posts (n=47) tick_label 
+361 590 485 607 Iron Sheet (n=8) tick_label 
+499 590 623 627 Wooden posts &  \n chainlink(n=55) tick_label 
+254 650 388 669 Fencing materials axis_title 
+5 174 24 431 Proportion of attacked bomas (%) axis_title 

@@ -1,0 +1,13 @@
+201 328 264 339 tick_label x_axis 232 319
+553 328 636 339 tick_label x_axis 594 319
+26 313 45 325 tick_label y_axis 54 319
+26 282 45 293 tick_label y_axis 54 288
+21 250 45 262 tick_label y_axis 54 256
+21 219 45 230 tick_label y_axis 54 224
+20 187 45 198 tick_label y_axis 54 193
+20 156 45 167 tick_label y_axis 54 161
+20 124 45 135 tick_label y_axis 54 130
+20 0 44 9 tick_label y_axis 54 3
+20 29 45 41 tick_label y_axis 54 35
+19 61 45 72 tick_label y_axis 54 66
+20 92 45 104 tick_label y_axis 54 98

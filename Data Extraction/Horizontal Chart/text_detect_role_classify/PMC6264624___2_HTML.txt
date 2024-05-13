@@ -1,0 +1,78 @@
+172 0 274 15 Sensory system tick_label
+172 14 273 28 Nervous system tick_label
+173 29 274 42 Immune system tick_label
+165 42 274 56 Excretory system tick_label
+115 56 274 70 Environmental adaptation tick_label
+161 70 274 84 Endocrine system tick_label
+167 84 275 99 Digestive system tick_label
+191 99 275 113 Development tick_label
+157 113 274 126 Circulatory system tick_label
+115 126 274 141 Transport and catabolism tick_label
+200 141 274 154 Cell motility tick_label
+136 154 274 168 Cell growth and death tick_label
+150 168 274 180 Cell communication tick_label
+52 182 274 197 Signaling molecules and interaction tick_label
+153 197 274 210 Signal transduction tick_label
+146 210 275 224 Membrane transport tick_label
+206 225 275 236 Translation tick_label
+193 238 274 253 Transcription tick_label
+136 253 274 267 Replication and repair tick_label
+72 267 274 281 Folding, sorting and degradation tick_label
+0 281 274 295 Xenobiotics biodegradation and metabolism tick_label
+131 295 274 308 Nucleotide metabolism tick_label
+15 308 274 323 Metabolism of terpenoids and polyketides tick_label
+70 323 274 335 Metabolism of other amino acids tick_label
+42 337 274 350 Metabolism of cofactors and vitamins tick_label
+168 351 274 365 Lipid metabolism tick_label
+45 365 273 379 Glycan biosynthesis and metabolism tick_label
+107 379 274 393 Global and overview maps tick_label
+153 393 274 408 Energy metabolism tick_label
+24 408 274 421 Chemical structure transformation maps tick_label
+112 421 275 435 Carbohydrate metabolism tick_label
+0 436 274 450 Biosynthesis of other secondary metabolites tick_label
+127 450 274 462 Amino acid metabolism tick_label
+334 0 357 12 334 value_label
+366 14 389 26 537 value_label
+451 28 480 40 1076 value_label
+314 42 337 54 205 value_label
+337 56 358 68 351 value_label
+448 70 476 82 1061 value_label
+382 84 403 96 641 value_label
+344 98 367 110 399 value_label
+325 112 348 124 279 value_label
+449 126 478 139 1063 value_label
+286 140 302 152 26 value_label
+409 154 432 167 814 value_label
+420 168 443 181 887 value_label
+398 182 421 194 745 value_label
+624 196 652 209 2191 value_label
+305 210 327 223 142 value_label
+394 224 417 237 720 value_label
+296 238 313 251 94 value_label
+320 252 343 265 245 value_label
+381 266 404 279 636 value_label
+293 281 309 293 74 value_label
+322 294 345 307 258 value_label
+290 309 306 321 53 value_label
+297 323 313 335 97 value_label
+313 337 336 349 200 value_label
+347 351 370 363 420 value_label
+337 365 360 377 352 value_label
+339 393 361 405 362 value_label
+286 407 303 419 29 value_label
+336 421 359 433 348 value_label
+289 435 305 447 46 value_label
+361 449 383 462 511 value_label
+271 483 281 496 0 tick_label
+339 483 348 496 5 tick_label
+403 483 419 496 10 tick_label
+470 483 486 496 15 tick_label
+536 483 553 496 20 tick_label
+603 483 620 496 25 tick_label
+412 510 550 526 Percent of lsoform(%) axis_title
+528 379 555 391 1571 value_label
+697 53 708 67 E tick_grouping
+697 144 709 158 D tick_grouping
+697 193 708 207 C tick_grouping
+697 243 708 256 B tick_grouping
+696 362 708 376 A tick_grouping

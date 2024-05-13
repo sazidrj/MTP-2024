@@ -1,0 +1,38 @@
+33 514 115 533 Any Opioid legend_label 
+33 541 120 559 Meperidine legend_label 
+184 541 272 556 Methadone legend_label 
+184 514 259 532 Morphine legend_label 
+335 541 397 556 Codeine legend_label 
+335 515 399 533 Fentanyl legend_label 
+485 514 570 533 Oxycodone legend_label 
+485 541 558 556 Alfentanil legend_label 
+637 514 762 533 Hydromorphone legend_label 
+637 541 733 556 Remifentanil legend_label 
+321 489 513 510 Chemotherapy Course axis_title 
+66 463 194 481 Course 1 (n=1600) tick_label 
+209 463 338 481 Course 2 (n=1249) tick_label 
+358 463 477 481 Course 3 (n=990) tick_label 
+501 463 621 481 Course 4 (n=671) tick_label 
+645 463 765 481 Course 5 (n=392) tick_label 
+33 442 43 456 0 tick_label 
+33 421 43 436 5 tick_label 
+25 400 43 415 10 tick_label 
+25 380 43 394 15 tick_label 
+25 359 42 372 20 tick_label 
+25 338 43 352 25 tick_label 
+16 26 43 40 100 tick_label 
+24 47 43 61 95 tick_label 
+24 68 43 82 90 tick_label 
+25 89 43 103 85 tick_label 
+26 109 43 123 80 tick_label 
+26 130 43 144 75 tick_label 
+26 151 43 165 70 tick_label 
+26 172 43 186 65 tick_label 
+26 192 42 207 60 tick_label 
+26 317 42 331 30 tick_label 
+26 297 43 311 35 tick_label 
+25 275 43 290 40 tick_label 
+25 255 42 269 45 tick_label 
+25 234 43 248 50 tick_label 
+26 214 43 227 55 tick_label 
+6 96 26 387 Proportion of patients exposed, % axis_title 

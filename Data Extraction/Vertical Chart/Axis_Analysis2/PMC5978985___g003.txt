@@ -1,0 +1,16 @@
+85 307 127 330 tick_label x_axis 112 292
+177 307 209 326 tick_label x_axis 195 292
+264 307 289 326 tick_label x_axis 279 292
+342 307 382 330 tick_label x_axis 363 292
+426 307 467 330 tick_label x_axis 447 292
+513 307 547 326 tick_label x_axis 530 292
+592 307 634 326 tick_label x_axis 614 292
+677 307 715 326 tick_label x_axis 698 292
+26 0 49 17 tick_label y_axis 67 10
+27 38 50 57 tick_label y_axis 67 50
+26 78 49 97 tick_label y_axis 67 91
+26 118 50 138 tick_label y_axis 67 131
+28 160 49 179 tick_label y_axis 67 171
+28 200 50 220 tick_label y_axis 67 212
+38 241 49 260 tick_label y_axis 67 252
+38 281 49 300 tick_label y_axis 67 292

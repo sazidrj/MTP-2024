@@ -1,0 +1,16 @@
+5 61 89 499 Rate of Oxygen consumption, \n ng/O/10^{6}cells axis_title 
+199 460 277 487 basal tick_label 
+353 460 510 494 oligomycin tick_label 
+581 459 671 487 FCCP tick_label 
+263 350 298 366 \star \star other 
+458 358 493 374 \star \star other 
+645 97 680 114 \star \star other 
+271 174 325 201 WT legend_label 
+273 214 425 242 PINK1 KO legend_label 
+112 5 127 27 5 tick_label 
+111 84 128 105 4 tick_label 
+112 162 128 184 3 tick_label 
+112 241 127 263 2 tick_label 
+113 319 124 341 1 tick_label 
+112 398 128 420 0 tick_label 
+180 19 533 53 isolated cardiomyocytes chart_title 

@@ -1,0 +1,17 @@
+16 0 40 11 100% tick_label 
+20 30 40 40 80% tick_label 
+20 59 40 69 60% tick_label 
+20 88 40 98 40% tick_label 
+20 118 40 128 20% tick_label 
+25 147 40 157 0% tick_label 
+55 154 81 164 LT-lF tick_label 
+110 154 136 164 LT-IP tick_label 
+164 154 191 164 LT-IV tick_label 
+220 154 245 164 ST-IF tick_label 
+274 154 300 164 ST-IP tick_label 
+328 154 355 165 ST-IV tick_label 
+398 56 421 66 B220 legend_label 
+398 68 417 78 GR1 legend_label 
+398 80 428 90 CD11b legend_label 
+398 91 418 101 CD3 legend_label 
+1 21 15 136 Percent Donor Lineage axis_title 

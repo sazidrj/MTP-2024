@@ -1,0 +1,13 @@
+3 479 155 367 3DCRT (conv.) tick_label 
+102 479 255 367 3DCRT (hypo.) tick_label 
+221 462 355 368 IMRT (conv.) tick_label 
+320 462 456 367 IMRT (hypo.) tick_label 
+413 469 556 367 VMAT (conv.) tick_label 
+513 470 656 367 VMAT (hypo.) tick_label 
+0 36 26 300 Modulation factor axis_title 
+39 0 67 19 10 tick_label 
+52 64 67 84 8 tick_label 
+52 128 67 148 6 tick_label 
+52 192 67 212 4 tick_label 
+52 256 67 276 2 tick_label 
+52 320 67 341 0 tick_label 

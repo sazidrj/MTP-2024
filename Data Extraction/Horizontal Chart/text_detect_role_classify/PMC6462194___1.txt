@@ -1,0 +1,49 @@
+40 53 107 68 West Bengal tick_label
+71 71 106 83 Kerala tick_label
+53 88 106 100 Karnataka tick_label
+52 105 106 120 Telangana tick_label
+68 123 106 135 Odisha tick_label
+48 141 106 153 Maharastra tick_label
+13 158 107 170 Himachal Pradesh tick_label
+55 176 107 191 Rajasthan tick_label
+42 194 107 205 Uttarakhand tick_label
+44 211 107 223 Tamil Nadu tick_label
+24 229 107 240 Andhra Pradesh tick_label
+72 246 106 261 Gujrat tick_label
+36 264 107 276 Uttar Pradesh tick_label
+70 281 107 296 Punjab tick_label
+76 299 107 311 Bihar tick_label
+62 317 106 331 Haryana tick_label
+21 334 107 349 Madhya Pradesh tick_label
+46 351 107 366 Chattisgarh tick_label
+52 369 106 381 Jharkhand tick_label
+112 393 121 404 0 tick_label
+158 393 184 405 1000 tick_label
+211 393 239 405 2000 tick_label
+266 393 293 405 3000 tick_label
+320 393 347 405 4000 tick_label
+375 393 402 405 5000 tick_label
+429 393 456 405 6000 tick_label
+483 393 511 404 7000 tick_label
+537 393 565 405 8000 tick_label
+592 393 619 404 9000 tick_label
+167 18 471 35 OOPE for child delivery in major Indian states chart_title
+554 54 581 66 7919 value_label
+498 72 524 83 6901 value_label
+385 89 413 101 4824 value_label
+353 107 380 118 4229 value_label
+358 124 379 135 4225 value_label
+318 142 345 154 3578 value_label
+305 159 331 171 3329 value_label
+289 177 316 188 3052 value_label
+266 194 293 206 2618 value_label
+265 212 292 223 2609 value_label
+240 229 267 241 2138 value_label
+239 247 266 259 2136 value_label
+231 264 257 276 1956 value_label
+227 282 254 294 1890 value_label
+222 300 247 311 1784 value_label
+210 317 235 329 1569 value_label
+205 335 230 346 1481 value_label
+205 353 231 364 1480 value_label
+205 370 231 381 1476 value_label

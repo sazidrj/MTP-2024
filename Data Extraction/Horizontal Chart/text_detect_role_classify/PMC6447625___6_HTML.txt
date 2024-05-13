@@ -1,0 +1,27 @@
+49 79 71 92 0-3 tick_label
+49 106 71 119 3-6 tick_label
+49 132 71 145 6-9 tick_label
+42 159 71 172 9-12 tick_label
+34 185 71 198 12-15 tick_label
+34 211 71 225 15-18 tick_label
+34 238 71 251 18-21 tick_label
+34 265 72 278 21-24 tick_label
+34 291 71 304 24-27 tick_label
+34 318 71 331 27-30 tick_label
+34 344 71 357 30-33 tick_label
+80 46 90 59 0 tick_label
+137 46 146 59 1 tick_label
+0 168 19 243 Prof (km) axis_title
+194 46 203 59 2 tick_label
+251 46 260 59 3 tick_label
+307 46 317 59 4 tick_label
+365 46 374 59 5 tick_label
+422 46 432 59 6 tick_label
+479 46 488 59 7 tick_label
+536 46 545 59 8 tick_label
+593 46 602 59 9 tick_label
+647 46 663 59 10 tick_label
+282 0 398 36 N^{\barbelow{O}} Eventos/year \n 20x20 km^{2} area axis_title
+450 330 503 347 Before legend_label
+533 331 586 350 During legend_label
+615 330 657 347 After legend_label

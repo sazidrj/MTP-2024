@@ -1,0 +1,21 @@
+203 72 298 93 Nasal spine tick_label
+189 135 297 152 Incisive canal tick_label
+9 197 298 218 Buccal plate thickness #21 crestally tick_label
+2 258 298 279 Buccal plate thickness #22 midpoint tick_label
+15 320 297 341 Buccal plate thickness #23 apically tick_label
+15 382 298 403 interproximal bone height #13, 14 tick_label
+1 445 298 462 Antroalveolar anastomosis Left side tick_label
+15 507 297 528 Antroalveolar anastomosis (Right) tick_label
+186 570 298 590 Sinus Septum tick_label
+309 623 323 642 0 tick_label
+387 623 399 642 1 tick_label
+464 623 476 642 2 tick_label
+540 623 552 642 3 tick_label
+616 624 629 641 4 tick_label
+694 624 706 642 5 tick_label
+127 2 186 23 70 kVp legend_label
+230 2 289 23 75 kVp legend_label
+332 2 391 22 80 kVp legend_label
+435 2 494 22 85 kVp legend_label
+537 2 597 22 90 kVp legend_label
+404 658 616 676 Clinical Assessment Score axis_title

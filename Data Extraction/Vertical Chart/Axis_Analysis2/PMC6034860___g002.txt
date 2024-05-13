@@ -1,0 +1,13 @@
+105 66 144 90 tick_label y_axis 157 76
+104 187 143 210 tick_label y_axis 157 197
+105 307 144 331 tick_label y_axis 157 317
+124 428 144 451 tick_label y_axis 157 438
+180 458 196 481 tick_label x_axis 188 439
+239 458 258 481 tick_label x_axis 248 439
+299 458 318 482 tick_label x_axis 308 439
+479 458 499 481 tick_label x_axis 489 439
+540 458 559 482 tick_label x_axis 550 439
+600 458 620 482 tick_label x_axis 610 439
+661 458 680 481 tick_label x_axis 670 439
+349 458 387 482 tick_label x_axis 369 439
+409 457 448 481 tick_label x_axis 429 439

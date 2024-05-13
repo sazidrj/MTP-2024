@@ -1,0 +1,23 @@
+552 36 687 64 Lan 0.3 \mu M legend_label 
+551 74 704 102 GSH 100 \mu M legend_label 
+552 109 663 131 Lan-GSH legend_label 
+28 270 57 312 RQ axis_title 
+140 500 274 527 miR-125b tick_label 
+340 500 473 526 miR-200b tick_label 
+557 500 673 526 miR-223 tick_label 
+71 86 111 112 2.5 tick_label 
+71 163 111 188 2.0 tick_label 
+74 240 111 264 1.5 tick_label 
+74 316 110 340 1.0 tick_label 
+71 393 111 416 0.5 tick_label 
+71 469 111 493 0.0 tick_label 
+148 159 162 172 \star other 
+333 90 373 104 \star \star \star other 
+396 181 425 196 \star \star other 
+540 188 567 203 \star \star other 
+660 223 674 237 \star other 
+459 213 473 228 \star other 
+193 296 227 313 ++ other 
+261 254 277 271 + other 
+457 185 475 202 + other 
+594 294 628 312 ++ other 

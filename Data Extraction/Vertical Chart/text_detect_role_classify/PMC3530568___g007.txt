@@ -1,0 +1,21 @@
+2 70 35 489 Level of HIV p24 and RNA (%) axis_title 
+30 21 71 43 100 tick_label 
+41 115 70 136 80 tick_label 
+41 213 70 235 60 tick_label 
+40 305 70 326 40 tick_label 
+41 404 70 425 20 tick_label 
+54 490 69 511 0 tick_label 
+168 520 241 547 P (H9) tick_label 
+307 520 388 542 C-TAT tick_label 
+454 520 554 542 M1-TAT tick_label 
+599 520 708 542 V38-TAT tick_label 
+158 3 195 23 100 value_label 
+205 3 241 23 100 value_label 
+313 20 339 41 93 value_label 
+360 24 386 45 92 value_label 
+464 257 489 278 43 value_label 
+512 245 538 265 45 value_label 
+627 428 641 448 9 value_label 
+671 430 684 450 8 value_label 
+531 80 627 108 HIV p24 legend_label 
+531 122 643 143 HIV RNA legend_label 

@@ -1,0 +1,6 @@
+398 399 411 407 tick_label y_axis 405 390
+525 398 531 406 tick_label y_axis 528 390
+645 399 658 406 tick_label y_axis 652 390
+277 399 283 406 tick_label y_axis 281 390
+150 398 164 406 tick_label y_axis 157 390
+30 399 36 406 tick_label y_axis 33 390

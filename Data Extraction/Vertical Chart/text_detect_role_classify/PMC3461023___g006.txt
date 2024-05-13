@@ -1,0 +1,23 @@
+3 214 28 383 Total IgE(ng/ml) axis_title 
+36 57 85 75 5000 tick_label 
+35 103 85 122 4500 tick_label 
+35 150 85 169 4000 tick_label 
+36 197 85 216 3500 tick_label 
+36 244 85 262 3000 tick_label 
+36 291 85 309 2500 tick_label 
+36 338 85 356 2000 tick_label 
+37 385 84 403 1500 tick_label 
+37 431 85 450 1000 tick_label 
+48 478 85 497 500 tick_label 
+71 525 85 543 0 tick_label 
+137 555 197 574 Saline tick_label 
+267 556 312 574 OVA tick_label 
+390 556 433 574 CNP tick_label 
+485 556 583 574 OVA+CNP tick_label 
+650 285 681 304 Air legend_label 
+651 329 695 347 NO2 legend_label 
+174 3 517 32 Total IgE levels in serum chart_title 
+258 249 284 271 *# other 
+294 97 333 119 *# \textsterling other 
+502 313 529 334 *# other 
+544 217 571 238 *# other 

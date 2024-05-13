@@ -1,0 +1,22 @@
+418 437 455 453 50% tick_label
+480 437 517 453 60% tick_label
+542 437 579 453 70% tick_label
+605 437 642 453 80% tick_label
+668 437 704 453 90% tick_label
+726 437 772 453 100% tick_label
+354 437 392 453 40% tick_label
+292 437 329 453 30% tick_label
+230 437 267 453 20% tick_label
+168 437 204 453 10% tick_label
+110 437 136 453 0% tick_label
+18 383 93 403 90:10 Ag tick_label
+18 329 93 349 70:30 Ag tick_label
+19 274 92 294 50:50 Ag tick_label
+18 222 93 240 30:70 Ag tick_label
+20 167 105 186 70:30 2Ag tick_label
+20 112 106 132 70:30 5Ag tick_label
+10 59 105 78 70:30 10 Ag tick_label
+175 13 202 29 AA legend_label
+251 13 293 29 MCA legend_label
+343 13 380 29 DCA legend_label
+411 467 460 489 yield axis_title

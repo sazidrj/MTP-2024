@@ -1,0 +1,13 @@
+19 59 60 71 tick_label x_axis 70 66
+19 189 59 201 tick_label x_axis 70 197
+61 271 79 282 tick_label y_axis 71 263
+121 271 144 282 tick_label y_axis 133 263
+182 271 206 282 tick_label y_axis 195 263
+244 271 269 283 tick_label y_axis 258 263
+307 271 332 282 tick_label y_axis 320 263
+370 271 394 282 tick_label y_axis 382 263
+432 271 456 282 tick_label y_axis 445 263
+494 271 518 282 tick_label y_axis 507 263
+556 271 581 282 tick_label y_axis 570 263
+619 271 643 282 tick_label y_axis 632 263
+679 271 709 283 tick_label y_axis 694 263

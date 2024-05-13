@@ -1,0 +1,12 @@
+70 340 137 355 tick_label x_axis 104 338
+180 340 262 355 tick_label x_axis 222 338
+289 340 388 357 tick_label x_axis 340 338
+400 340 511 359 tick_label x_axis 457 338
+522 340 624 359 tick_label x_axis 575 338
+632 340 748 359 tick_label x_axis 693 338
+0 0 32 14 tick_label y_axis 45 6
+0 64 32 80 tick_label y_axis 45 72
+0 129 32 145 tick_label y_axis 45 139
+0 195 32 211 tick_label y_axis 45 205
+7 261 32 277 tick_label y_axis 45 271
+7 326 32 342 tick_label y_axis 45 338

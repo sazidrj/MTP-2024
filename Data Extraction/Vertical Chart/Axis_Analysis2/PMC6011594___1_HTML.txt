@@ -1,0 +1,17 @@
+82 331 127 348 tick_label x_axis 103 313
+186 331 231 348 tick_label x_axis 208 313
+290 330 336 348 tick_label x_axis 313 313
+394 331 440 348 tick_label x_axis 418 313
+500 331 546 348 tick_label x_axis 523 313
+605 331 651 348 tick_label x_axis 628 313
+21 305 33 322 tick_label y_axis 52 313
+0 270 34 287 tick_label y_axis 52 279
+1 236 35 253 tick_label y_axis 52 245
+0 202 34 220 tick_label y_axis 52 211
+0 168 33 186 tick_label y_axis 52 176
+0 134 33 152 tick_label y_axis 52 142
+0 100 33 118 tick_label y_axis 52 108
+0 66 33 84 tick_label y_axis 52 74
+0 33 33 50 tick_label y_axis 52 40
+0 -1 33 16 tick_label y_axis 52 5
+711 331 755 347 tick_label x_axis 733 313

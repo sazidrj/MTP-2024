@@ -1,0 +1,8 @@
+140 519 255 558 tick_label x_axis 201 514
+284 518 395 556 tick_label x_axis 340 514
+415 518 530 557 tick_label x_axis 479 514
+546 518 697 549 tick_label x_axis 617 514
+71 109 111 140 tick_label y_axis 117 113
+71 235 111 266 tick_label y_axis 117 247
+89 361 110 392 tick_label y_axis 117 381
+89 487 110 518 tick_label y_axis 117 514

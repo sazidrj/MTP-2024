@@ -1,0 +1,32 @@
+72 393 83 408 5 tick_label 
+100 393 111 408 6 tick_label 
+128 393 139 409 7 tick_label 
+156 393 168 409 8 tick_label 
+185 393 197 408 9 tick_label 
+211 393 230 408 10 tick_label 
+239 393 255 408 11 tick_label 
+267 393 287 408 12 tick_label 
+295 392 316 408 13 tick_label 
+324 393 343 408 14 tick_label 
+352 393 372 408 15 tick_label 
+381 393 401 408 16 tick_label 
+409 393 429 408 17 tick_label 
+437 393 457 409 18 tick_label 
+465 393 485 409 19 tick_label 
+493 393 513 409 20 tick_label 
+521 393 540 409 21 tick_label 
+550 393 570 410 22 tick_label 
+577 392 598 410 23 tick_label 
+605 392 626 409 24 tick_label 
+630 392 659 409 \geq 25 tick_label 
+176 432 545 461 Lenght (number of amino acids) axis_title 
+1 106 29 286 Peptide Counts axis_title 
+50 378 58 390 0 tick_label 
+43 315 58 327 20 tick_label 
+43 252 58 265 40 tick_label 
+43 189 58 201 60 tick_label 
+43 126 58 139 80 tick_label 
+37 63 58 76 100 tick_label 
+37 1 58 14 120 tick_label 
+488 39 570 59 Modified legend_label 
+489 9 598 29 Unmodified legend_label 

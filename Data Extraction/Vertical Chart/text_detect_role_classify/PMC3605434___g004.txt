@@ -1,0 +1,13 @@
+38 3 65 20 0.3 tick_label 
+28 53 66 70 0.25 tick_label 
+38 104 65 121 0.2 tick_label 
+28 153 66 170 0.15 tick_label 
+38 204 65 220 0.1 tick_label 
+28 254 66 271 0.05 tick_label 
+54 305 66 321 0 tick_label 
+88 331 234 348 Rainbow Lorikeet tick_label 
+244 331 377 373 Sulphur-crested \n Cockatoo tick_label 
+405 331 519 348 Other Parrots tick_label 
+562 331 667 348 Other Fauna tick_label 
+363 388 415 404 Fauna axis_title 
+2 85 20 239 Index of Visitation axis_title 

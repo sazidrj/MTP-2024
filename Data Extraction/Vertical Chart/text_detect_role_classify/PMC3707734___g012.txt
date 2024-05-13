@@ -1,0 +1,11 @@
+5 173 29 343 Amplitude (cm) axis_title 
+45 5 79 22 300 tick_label 
+45 86 79 103 250 tick_label 
+45 167 79 185 200 tick_label 
+47 249 79 266 150 tick_label 
+47 330 79 348 100 tick_label 
+56 412 79 429 50 tick_label 
+67 493 79 511 0 tick_label 
+166 525 294 549 Preparation tick_label 
+404 524 468 545 Strike tick_label 
+585 525 710 577 Wind Down \n Recovery tick_label 

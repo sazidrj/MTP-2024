@@ -1,0 +1,25 @@
+21 1 33 14 15 tick_label 
+21 87 33 102 10 tick_label 
+21 178 33 187 5 tick_label 
+21 266 33 275 0 tick_label 
+67 283 72 292 1 tick_label 
+84 282 91 292 2 tick_label 
+101 282 109 292 3 tick_label 
+118 282 126 292 4 tick_label 
+136 282 144 292 5 tick_label 
+153 282 161 292 6 tick_label 
+172 282 179 291 7 tick_label 
+188 283 196 292 8 tick_label 
+206 282 213 292 9 tick_label 
+222 282 234 292 10 tick_label 
+257 282 269 292 12 tick_label 
+292 282 303 292 14 tick_label 
+327 282 339 292 16 tick_label 
+362 282 374 292 18 tick_label 
+397 282 409 292 20 tick_label 
+432 282 444 292 22 tick_label 
+466 282 479 292 24 tick_label 
+502 282 514 292 26 tick_label 
+537 282 549 292 28 tick_label 
+278 302 352 314 Chromosome axis_title 
+0 91 14 169 Coverage (%) axis_title 

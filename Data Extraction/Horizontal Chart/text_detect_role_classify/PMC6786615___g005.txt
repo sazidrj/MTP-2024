@@ -1,0 +1,22 @@
+0 23 224 69 U. m. of Ruminococcacea \n family tick_label
+11 116 225 162 U. m. of Lachnospiraceae \n family tick_label
+165 221 224 238 Blautia tick_label
+115 314 225 332 Lactobacillus tick_label
+48 407 226 428 U. m. of 24-7 family tick_label
+138 500 224 518 Prevotella tick_label
+237 574 250 591 0 tick_label
+380 574 403 591 20 tick_label
+527 574 551 591 40 tick_label
+675 574 699 591 60 tick_label
+355 597 564 620 Percentage of taxa (%) axis_title
+631 402 642 413 * other
+633 433 644 444 * other
+356 245 378 256 ** other
+354 214 376 225 ** other
+414 155 425 166 * other
+412 123 423 134 * other
+355 62 366 73 * other
+353 30 364 41 * other
+617 77 681 94 Control legend_label
+618 44 719 60 PERM+ERW legend_label
+618 9 668 25 PERM legend_label

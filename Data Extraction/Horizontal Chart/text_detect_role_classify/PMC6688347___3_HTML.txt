@@ -1,0 +1,37 @@
+422 0 632 18 Lipid Metabolism Pathway chart_title
+440 541 603 559 Number of unigenes axis_title
+112 468 252 483 Glycerolipid metabolism tick_label
+63 435 252 451 Glycerophospholipid metabolism tick_label
+125 404 252 418 Fatty acid metabolism tick_label
+62 372 252 387 alpha-Linolenic acid metabolism tick_label
+79 341 252 355 Steroid hormone biosynthesis tick_label
+30 309 252 323 Biosynthesis of unsaturated fatty acids tick_label
+109 277 252 292 Sphingolipid metabolism tick_label
+85 246 252 258 Arachidonic acid metabolism tick_label
+132 214 252 229 Fatty acid elongation tick_label
+123 182 252 196 Ether lipid metabolism tick_label
+109 150 252 162 Linoleic acid metabolism tick_label
+134 118 252 133 Steroid biosynthesis tick_label
+0 87 252 101 Synthesis and degradation of ketone bodies tick_label
+120 55 252 70 Fatty acid biosynthesis tick_label
+79 23 252 38 Primary bile acid biosynthesis tick_label
+255 517 266 531 0 tick_label
+378 517 405 531 100 tick_label
+508 517 536 531 200 tick_label
+639 517 667 531 300 tick_label
+770 517 797 531 400 tick_label
+742 468 762 478 362 value_label
+728 435 746 447 351 value_label
+529 404 548 414 198 value_label
+455 372 474 382 142 value_label
+428 341 445 351 121 value_label
+420 309 439 319 115 value_label
+377 277 391 288 83 value_label
+364 246 378 256 73 value_label
+363 214 377 224 72 value_label
+356 182 370 192 67 value_label
+345 150 359 160 58 value_label
+342 118 356 129 56 value_label
+325 87 339 97 43 value_label
+323 55 338 66 42 value_label
+304 23 318 34 27 value_label

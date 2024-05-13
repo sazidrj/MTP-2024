@@ -1,0 +1,17 @@
+0 77 18 175 counts(\mu I*h) axis_title 
+61 280 184 314 non-recombinant \n E. coli lysate tick_label 
+193 280 335 314 recombinant Pfptps \n E.coli lysate tick_label 
+356 279 470 296 purified PfPTPS tick_label 
+19 0 47 13 700 tick_label 
+19 36 47 51 600 tick_label 
+20 74 47 89 500 tick_label 
+19 112 47 127 400 tick_label 
+19 151 47 166 300 tick_label 
+20 189 47 204 200 tick_label 
+20 228 47 242 100 tick_label 
+33 267 43 280 0 tick_label 
+207 328 259 342 DHNTP legend_label 
+278 328 311 342 DHN legend_label 
+96 89 120 109 (a) other 
+238 89 262 109 (b) other 
+380 89 404 110 (c) other 

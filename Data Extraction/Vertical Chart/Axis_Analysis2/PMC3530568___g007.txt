@@ -1,0 +1,10 @@
+30 21 71 43 tick_label y_axis 75 29
+41 115 70 136 tick_label y_axis 75 126
+41 213 70 235 tick_label y_axis 75 223
+40 305 70 326 tick_label y_axis 75 320
+41 404 70 425 tick_label y_axis 75 417
+54 490 69 511 tick_label y_axis 75 514
+168 520 241 547 tick_label x_axis 198 514
+307 520 388 542 tick_label x_axis 350 514
+454 520 554 542 tick_label x_axis 502 514
+599 520 708 542 tick_label x_axis 654 514

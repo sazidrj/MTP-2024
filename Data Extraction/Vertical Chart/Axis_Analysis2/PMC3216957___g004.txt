@@ -1,0 +1,12 @@
+2 49 31 64 tick_label y_axis 36 58
+2 107 31 122 tick_label y_axis 36 116
+2 165 31 179 tick_label y_axis 36 174
+2 222 31 237 tick_label y_axis 36 224
+3 279 31 294 tick_label y_axis 36 285
+20 337 31 352 tick_label y_axis 36 345
+41 351 106 367 tick_label x_axis 73 345
+117 351 178 367 tick_label x_axis 148 345
+201 352 242 366 tick_label x_axis 222 345
+277 351 315 367 tick_label x_axis 296 345
+343 351 398 367 tick_label x_axis 371 345
+419 351 471 367 tick_label x_axis 446 345

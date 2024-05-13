@@ -1,0 +1,17 @@
+581 25 677 54 p= 10^{-13} other 
+441 293 529 322 p=10^{-5} other 
+297 268 385 297 p=10^{-7} other 
+158 308 251 334 p=0.04 other 
+172 102 274 122 experimental legend_label 
+172 125 249 141 simulated legend_label 
+171 147 255 164 theoretical legend_label 
+140 519 255 558 Type 0 tick_label 
+284 518 395 556 Type 1 tick_label 
+415 518 530 557 Type 2 tick_label 
+546 518 697 549 All nuclei tick_label 
+71 109 111 140 15 tick_label 
+71 235 111 266 10 tick_label 
+89 361 110 392 5 tick_label 
+89 487 110 518 0 tick_label 
+37 476 109 466 1.91 value_label 
+4 282 34 317 RI axis_title 

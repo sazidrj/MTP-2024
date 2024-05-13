@@ -1,0 +1,16 @@
+100 477 143 502 0.0 tick_label 
+100 357 144 382 2.5 tick_label 
+101 238 143 263 5.0 tick_label 
+100 119 144 144 7.5 tick_label 
+86 0 143 25 10.0 tick_label 
+196 14 312 41 Genotype other 
+196 48 310 71 Condition other 
+196 84 258 105 GxC other 
+239 149 274 170 HN legend_label 
+238 188 267 209 LN legend_label 
+258 515 397 542 CS/1103P tick_label 
+528 515 649 542 CS/RGM tick_label 
+0 106 64 391 Nitrate concentration \n (\mu mol/g fresh weight) axis_title 
+337 90 350 103 * other 
+337 20 364 34 ** other 
+337 55 378 68 *** other 

@@ -1,0 +1,28 @@
+161 37 267 52 Specialists - Surgeons tick_label
+138 74 267 88 Specialists - Non-surgeons tick_label
+161 110 267 125 Multi-type Physicians tick_label
+174 147 267 162 General Physicians tick_label
+225 184 267 197 Dentists tick_label
+173 221 267 236 Physical Therapists tick_label
+220 258 267 272 Hospitals tick_label
+145 295 267 309 Emergency Departments tick_label
+191 331 267 345 Nursing Homes tick_label
+272 367 281 379 0 tick_label
+363 367 371 379 5 tick_label
+451 367 465 379 10 tick_label
+541 367 555 378 15 tick_label
+631 367 645 379 20 tick_label
+722 367 736 379 25 tick_label
+346 395 468 412 Number of providers axis_title
+115 89 128 184 Clinicians (87.3%) tick_grouping
+101 247 128 356 Health Care \n Organizations (27%) tick_grouping
+82 101 96 283 Types of providers reviewed axis_title
+460 38 473 50 21 value_label
+406 75 419 87 15 value_label
+397 112 410 124 14 value_label
+291 149 299 160 2 value_label
+291 186 299 197 2 value_label
+282 222 290 233 1 value_label
+397 259 411 270 14 value_label
+291 296 299 307 2 value_label
+282 333 290 344 1 value_label

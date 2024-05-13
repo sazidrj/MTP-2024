@@ -1,0 +1,19 @@
+712 503 726 524 6 tick_label 
+605 504 618 524 5 tick_label 
+498 503 512 523 4 tick_label 
+392 503 404 524 3 tick_label 
+284 503 298 523 2 tick_label 
+180 504 188 523 1 tick_label 
+70 503 84 524 0 tick_label 
+43 475 69 495 80 tick_label 
+43 357 68 377 85 tick_label 
+42 238 69 259 90 tick_label 
+42 120 68 141 95 tick_label 
+34 2 71 22 100 tick_label 
+152 160 209 180 92.45 value_label 
+260 272 317 292 87.68 value_label 
+371 330 428 350 85.32 value_label 
+471 306 528 327 86.17 value_label 
+577 391 634 412 82.69 value_label 
+319 527 478 552 cycling number axis_title 
+2 133 27 366 removal efficiency (%) axis_title 

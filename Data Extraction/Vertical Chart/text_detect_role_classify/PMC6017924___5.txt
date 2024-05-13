@@ -1,0 +1,24 @@
+75 362 103 372 16660 tick_label 
+131 363 158 373 16661 tick_label 
+187 363 214 373 16662 tick_label 
+242 363 269 373 16663 tick_label 
+297 363 324 373 16664 tick_label 
+352 363 379 373 16665 tick_label 
+408 363 435 373 16666 tick_label 
+463 362 490 372 16667 tick_label 
+518 363 545 372 16668 tick_label 
+573 363 600 373 16669 tick_label 
+629 363 656 373 16670 tick_label 
+671 363 722 375 Mtb lysate tick_label 
+723 362 780 389 Mtb \n supernatant tick_label 
+33 4 49 15 2.4 tick_label 
+33 62 49 72 2.0 tick_label 
+33 119 49 129 1.6 tick_label 
+33 178 49 188 1.2 tick_label 
+33 234 49 244 0.8 tick_label 
+33 291 49 301 0.4 tick_label 
+33 346 49 356 0.0 tick_label 
+3 161 15 230 Absorbance axis_title 
+358 403 382 414 ATB legend_label 
+400 403 422 414 LTB legend_label 
+441 403 460 414 HC legend_label 

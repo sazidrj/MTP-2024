@@ -1,0 +1,12 @@
+1 28 17 258 Response Magnitude (% of baseline) axis_title 
+22 8 47 22 250 tick_label 
+22 60 47 73 200 tick_label 
+24 111 48 124 150 tick_label 
+24 162 48 175 100 tick_label 
+30 214 48 227 50 tick_label 
+38 266 48 278 0 tick_label 
+95 278 116 296 A_{IS} tick_label 
+194 276 234 297 A_{IS}V_{IS} tick_label 
+312 276 333 297 V_{IS} tick_label 
+345 2 405 18 Imprinted legend_label 
+344 24 382 38 Naive legend_label 

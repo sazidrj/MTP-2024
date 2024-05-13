@@ -1,0 +1,8 @@
+28 84 64 99 tick_label y_axis 74 90
+28 180 65 194 tick_label y_axis 74 185
+36 275 64 290 tick_label y_axis 74 280
+36 368 65 384 tick_label y_axis 74 376
+36 464 65 479 tick_label y_axis 74 471
+36 560 64 574 tick_label y_axis 74 566
+165 576 231 592 tick_label x_axis 199 566
+439 576 492 592 tick_label x_axis 467 566

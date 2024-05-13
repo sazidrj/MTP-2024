@@ -1,0 +1,14 @@
+607 356 765 374 tick_label x_axis 687 338
+433 354 589 373 tick_label x_axis 512 338
+258 355 414 374 tick_label x_axis 336 338
+84 354 238 373 tick_label x_axis 161 338
+45 328 57 344 tick_label y_axis 74 338
+46 292 57 308 tick_label y_axis 74 302
+36 256 56 273 tick_label y_axis 74 266
+36 221 56 238 tick_label y_axis 74 230
+35 185 57 202 tick_label y_axis 74 194
+35 149 56 166 tick_label y_axis 74 158
+35 113 56 130 tick_label y_axis 74 122
+35 77 56 94 tick_label y_axis 74 86
+35 42 56 58 tick_label y_axis 74 50
+35 5 56 22 tick_label y_axis 74 14

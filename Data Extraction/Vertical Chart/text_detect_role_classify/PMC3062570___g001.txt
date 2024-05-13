@@ -1,0 +1,15 @@
+1 44 16 215 Median length of stay (days) axis_title 
+21 23 36 34 30 tick_label 
+21 56 36 67 25 tick_label 
+22 91 36 102 20 tick_label 
+23 125 36 136 15 tick_label 
+22 159 35 170 10 tick_label 
+27 193 36 204 5 tick_label 
+27 228 36 239 0 tick_label 
+57 242 137 273 VAC+/ VAP+ \n N=31 tick_label 
+164 242 241 273 VAC+/ VAP- \n N=104 tick_label 
+270 242 346 273 VAC- / VAP+ \n N=24 tick_label 
+376 242 450 273 VAC- | VAP- \n N=438 tick_label 
+101 2 163 14 Ventilator legend_label 
+196 1 314 14 Intensive Care Unit legend_label 
+347 1 399 15 Hospital legend_label 

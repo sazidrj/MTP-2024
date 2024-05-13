@@ -1,0 +1,12 @@
+216 276 331 295 tick_label x_axis 350 286
+162 233 331 252 tick_label x_axis 350 243
+191 191 331 207 tick_label x_axis 350 199
+87 149 331 166 tick_label x_axis 350 158
+112 106 332 124 tick_label x_axis 350 115
+229 63 332 81 tick_label x_axis 350 72
+238 21 331 39 tick_label x_axis 350 30
+31 319 332 337 tick_label x_axis 350 329
+345 360 356 375 tick_label y_axis 350 352
+417 360 437 375 tick_label y_axis 427 352
+492 360 513 375 tick_label y_axis 503 352
+569 360 589 375 tick_label y_axis 579 352

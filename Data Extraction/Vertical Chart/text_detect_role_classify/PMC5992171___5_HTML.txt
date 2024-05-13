@@ -1,0 +1,18 @@
+152 1 533 29 Mean Cross-section Area chart_title 
+144 465 243 491 Control tick_label 
+426 467 483 490 MIC tick_label 
+26 22 51 38 5.0 tick_label 
+26 63 51 78 4.5 tick_label 
+26 104 51 119 4.0 tick_label 
+27 145 51 160 3.5 tick_label 
+26 185 51 200 3.0 tick_label 
+26 226 51 241 2.5 tick_label 
+26 267 50 282 2.0 tick_label 
+26 308 50 323 1.5 tick_label 
+27 349 51 363 1.0 tick_label 
+26 390 50 404 0.5 tick_label 
+26 430 50 444 0.0 tick_label 
+0 87 22 381 Mean Cross Sectional Area (mm^{2}) axis_title 
+562 67 616 88 Auto legend_label 
+564 105 665 127 Manual 1 legend_label 
+564 144 665 165 Manual 2 legend_label 

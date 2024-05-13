@@ -1,0 +1,9 @@
+31 8 96 28 tick_label y_axis 115 19
+44 70 95 90 tick_label y_axis 115 81
+56 131 95 151 tick_label y_axis 115 143
+69 193 95 213 tick_label y_axis 115 205
+82 255 92 275 tick_label y_axis 115 267
+155 282 188 303 tick_label x_axis 172 267
+267 282 299 303 tick_label x_axis 283 267
+362 282 428 303 tick_label x_axis 395 267
+468 282 545 303 tick_label x_axis 506 267

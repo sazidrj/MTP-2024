@@ -1,0 +1,13 @@
+173 422 223 438 tick_label x_axis 199 410
+437 421 487 437 tick_label x_axis 462 410
+33 0 56 12 tick_label y_axis 67 5
+39 40 56 51 tick_label y_axis 67 46
+39 81 56 92 tick_label y_axis 67 86
+39 121 56 132 tick_label y_axis 67 126
+39 161 56 172 tick_label y_axis 67 167
+39 203 56 214 tick_label y_axis 67 207
+40 243 57 254 tick_label y_axis 67 248
+39 282 56 293 tick_label y_axis 67 288
+39 324 56 335 tick_label y_axis 67 328
+40 364 57 375 tick_label y_axis 67 369
+46 404 56 415 tick_label y_axis 67 409

@@ -1,0 +1,12 @@
+147 541 189 563 tick_label x_axis 167 533
+292 541 349 563 tick_label x_axis 321 533
+451 541 502 563 tick_label x_axis 476 533
+605 541 655 563 tick_label x_axis 630 533
+46 2 75 24 tick_label y_axis 92 12
+46 76 75 98 tick_label y_axis 92 87
+46 150 75 172 tick_label y_axis 92 161
+45 225 75 247 tick_label y_axis 92 235
+46 298 75 321 tick_label y_axis 92 310
+45 373 75 395 tick_label y_axis 92 384
+47 447 75 469 tick_label y_axis 92 458
+60 521 75 543 tick_label y_axis 92 533

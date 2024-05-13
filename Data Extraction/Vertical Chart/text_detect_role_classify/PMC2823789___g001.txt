@@ -1,0 +1,32 @@
+44 191 49 202 1 tick_label 
+61 191 69 202 2 tick_label 
+80 191 88 202 3 tick_label 
+99 191 106 202 4 tick_label 
+117 191 125 202 5 tick_label 
+135 191 144 202 6 tick_label 
+153 191 161 202 7 tick_label 
+172 192 180 202 8 tick_label 
+190 191 198 202 9 tick_label 
+207 191 220 202 10 tick_label 
+225 191 236 202 11 tick_label 
+244 191 257 202 12 tick_label 
+262 191 274 202 13 tick_label 
+279 191 292 202 14 tick_label 
+298 191 311 202 15 tick_label 
+316 191 329 202 16 tick_label 
+335 192 348 202 17 tick_label 
+354 191 366 202 18 tick_label 
+372 191 385 202 19 tick_label 
+17 35 31 46 35 tick_label 
+17 55 30 66 30 tick_label 
+17 75 31 87 25 tick_label 
+17 96 30 107 20 tick_label 
+18 116 31 127 15 tick_label 
+18 135 31 146 10 tick_label 
+22 155 31 166 5 tick_label 
+22 176 31 187 0 tick_label 
+193 209 234 223 Subject axis_title 
+1 70 15 153 VO2 (mkg/min) axis_title 
+408 97 451 109 Cosmed legend_label 
+408 114 476 128 Medgraphics legend_label 
+106 1 362 16 Cosmed vs. Medgraphics VO2 (ml/kg/min) chart_title 

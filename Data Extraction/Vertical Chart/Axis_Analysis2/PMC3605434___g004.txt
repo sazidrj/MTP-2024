@@ -1,0 +1,11 @@
+38 3 65 20 tick_label y_axis 85 11
+28 53 66 70 tick_label y_axis 85 62
+38 104 65 121 tick_label y_axis 85 112
+28 153 66 170 tick_label y_axis 85 163
+38 204 65 220 tick_label y_axis 85 213
+28 254 66 271 tick_label y_axis 85 263
+54 305 66 321 tick_label y_axis 85 313
+88 331 234 348 tick_label x_axis 161 313
+244 331 377 373 tick_label x_axis 312 313
+405 331 519 348 tick_label x_axis 464 313
+562 331 667 348 tick_label x_axis 615 313

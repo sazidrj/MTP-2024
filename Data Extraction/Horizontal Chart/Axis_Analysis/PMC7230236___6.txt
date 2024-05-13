@@ -1,0 +1,12 @@
+65 392 77 408 tick_label y_axis 71 375
+206 392 228 408 tick_label y_axis 217 375
+352 392 374 409 tick_label y_axis 362 375
+497 392 519 408 tick_label y_axis 508 375
+642 392 664 408 tick_label y_axis 654 375
+27 341 51 358 tick_label x_axis 71 326
+27 293 51 310 tick_label x_axis 71 277
+29 243 51 260 tick_label x_axis 71 228
+28 194 50 211 tick_label x_axis 71 179
+30 145 52 162 tick_label x_axis 71 129
+28 96 50 113 tick_label x_axis 71 80
+29 47 51 64 tick_label x_axis 71 31

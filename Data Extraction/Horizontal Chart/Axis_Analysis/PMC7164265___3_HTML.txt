@@ -1,0 +1,15 @@
+190 454 344 471 tick_label x_axis 359 462
+217 409 344 427 tick_label x_axis 359 418
+155 365 343 384 tick_label x_axis 359 374
+155 322 343 340 tick_label x_axis 359 330
+190 277 344 295 tick_label x_axis 359 286
+163 233 344 252 tick_label x_axis 359 242
+199 189 344 207 tick_label x_axis 359 198
+15 145 343 164 tick_label x_axis 359 154
+61 101 344 120 tick_label x_axis 359 110
+0 57 343 75 tick_label x_axis 359 66
+101 14 343 31 tick_label x_axis 359 22
+354 499 365 514 tick_label y_axis 359 484
+464 499 483 514 tick_label y_axis 473 484
+577 499 596 514 tick_label y_axis 587 484
+691 499 709 514 tick_label y_axis 701 484

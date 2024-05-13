@@ -1,0 +1,15 @@
+333 17 376 30 P<0.05 other 
+180 32 223 45 P<0.05 other 
+4 139 23 380 Colony forming units/100 cells axis_title 
+540 484 602 533 yenR/ \n ycoR tick_label 
+633 478 695 553 yenR/ \n ycoR \n comp tick_label 
+467 479 518 504 ycoR tick_label 
+383 479 438 505 yenR tick_label 
+215 479 261 504 yenl tick_label 
+292 478 346 529 yenl \n comp tick_label 
+118 478 183 503 Parent tick_label 
+46 39 83 59 400 tick_label 
+46 143 83 163 300 tick_label 
+45 248 82 269 200 tick_label 
+46 353 83 374 100 tick_label 
+69 459 83 478 0 tick_label 

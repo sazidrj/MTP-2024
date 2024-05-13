@@ -1,0 +1,17 @@
+173 422 223 438 Vision tick_label 
+437 421 487 437 Touch tick_label 
+249 447 418 470 Training modality axis_title 
+0 134 22 243 % accuracy axis_title 
+431 0 503 16 Pre-training legend_label 
+431 25 508 41 Post-training legend_label 
+33 0 56 12 100 tick_label 
+39 40 56 51 90 tick_label 
+39 81 56 92 80 tick_label 
+39 121 56 132 70 tick_label 
+39 161 56 172 60 tick_label 
+39 203 56 214 50 tick_label 
+40 243 57 254 40 tick_label 
+39 282 56 293 30 tick_label 
+39 324 56 335 20 tick_label 
+40 364 57 375 10 tick_label 
+46 404 56 415 0 tick_label 

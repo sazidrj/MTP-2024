@@ -1,0 +1,11 @@
+147 571 219 590 tick_label x_axis 183 552
+285 570 387 595 tick_label x_axis 336 552
+435 570 538 595 tick_label x_axis 486 552
+586 570 689 595 tick_label x_axis 638 552
+60 73 91 89 tick_label y_axis 108 83
+60 152 91 168 tick_label y_axis 108 161
+69 231 91 247 tick_label y_axis 108 239
+69 308 91 324 tick_label y_axis 108 317
+69 386 91 403 tick_label y_axis 108 395
+69 464 91 480 tick_label y_axis 108 473
+78 542 91 559 tick_label y_axis 108 551

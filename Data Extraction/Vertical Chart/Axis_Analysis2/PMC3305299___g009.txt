@@ -1,0 +1,10 @@
+22 3 54 16 tick_label y_axis 61 10
+23 59 53 71 tick_label y_axis 61 66
+22 114 54 127 tick_label y_axis 61 122
+28 170 52 182 tick_label y_axis 61 178
+39 225 49 238 tick_label y_axis 61 233
+109 240 115 252 tick_label x_axis 112 233
+193 239 202 252 tick_label x_axis 197 233
+278 239 287 252 tick_label x_axis 282 233
+362 239 372 252 tick_label x_axis 367 233
+447 239 456 252 tick_label x_axis 452 233

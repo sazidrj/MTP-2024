@@ -1,0 +1,30 @@
+126 438 134 448 0 tick_label
+174 438 187 448 10 tick_label
+224 437 238 448 20 tick_label
+274 438 288 448 30 tick_label
+324 437 338 448 40 tick_label
+375 437 389 448 50 tick_label
+425 437 439 448 60 tick_label
+475 437 489 448 70 tick_label
+526 437 540 448 80 tick_label
+576 437 590 448 90 tick_label
+624 437 644 448 100 tick_label
+675 437 694 448 110 tick_label
+725 437 744 448 120 tick_label
+775 437 795 448 130 tick_label
+57 409 118 421 Cimetidine tick_label
+55 381 118 393 Famotidine tick_label
+18 352 118 366 Glyceryl Trinitrate tick_label
+25 324 118 336 Beclomethasone tick_label
+59 296 119 308 Fluoxetine tick_label
+66 268 119 282 Captopril tick_label
+52 239 118 251 Budesonide tick_label
+59 211 118 225 Felodipine tick_label
+1 182 118 197 Ipratropium Bromide tick_label
+63 154 118 167 Sertraline tick_label
+69 126 119 140 Enalapril tick_label
+61 98 118 110 Ranitidine tick_label
+54 69 117 81 Salbutamol tick_label
+50 41 118 55 Omeprazole tick_label
+53 13 118 25 Simvastatin tick_label
+366 455 549 470 Number of patents (total n=736) axis_title

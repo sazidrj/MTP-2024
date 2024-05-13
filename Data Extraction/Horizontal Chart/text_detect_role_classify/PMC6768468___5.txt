@@ -1,0 +1,55 @@
+25 30 100 62 Cellular \n Processing tick_grouping
+214 15 276 27 Cell_Motility tick_label
+145 53 275 66 Transport_and_Catabolism tick_label
+172 91 275 104 Membrane_Transport tick_label
+176 130 275 143 Signal_Transduction tick_label
+161 168 275 181 Replication_and_Repair tick_label
+220 207 275 218 Translation tick_label
+178 245 274 258 Infectious_Diseases tick_label
+149 284 275 297 Carbohydrate_Metabolism tick_label
+156 322 275 335 Amino_Acid_Metabolism tick_label
+180 361 275 373 Energy_Metabolism tick_label
+148 399 275 412 Environmental_Adaptation tick_label
+172 438 275 450 Poorly_Characterized tick_label
+109 476 274 489 Cellular_Processes_and_Signaling tick_label
+18 459 100 472 Unclassified tick_grouping
+22 392 99 424 Organismal \n Systems tick_grouping
+24 324 101 337 Metabolism tick_grouping
+35 242 96 272 Human \n Diseases tick_grouping
+21 171 98 220 Genetic \n Information \n Processing tick_grouping
+3 93 100 141 Environmental \n Information \n Processing tick_grouping
+261 523 285 515 0.00 tick_label
+353 523 376 514 0.03 tick_label
+444 523 468 515 0.06 tick_label
+537 524 559 515 0.09 tick_label
+627 523 651 515 0.12 tick_label
+719 523 743 515 0.15 tick_label
+554 49 653 63 Cinobufacini-H legend_label
+554 28 583 42 DSS legend_label
+554 6 604 19 Control legend_label
+345 5 358 13 ## other
+365 17 373 25 \star other
+306 44 335 53 \star\star ## other
+336 121 362 130 \star\star ## other
+355 134 369 142 \star\star other
+605 82 618 91 ## other
+701 92 715 100 \star\star other
+545 159 572 169 \star\star ## other
+520 171 534 179 \star\star other
+445 198 472 207 \star\star ## other
+423 210 437 217 \star\star other
+301 236 314 245 ## other
+304 246 319 254 \star\star other
+666 274 691 283 \star\star ## other
+582 313 608 322 \star\star ## other
+554 324 569 332 \star\star other
+471 351 498 361 \star\star ## other
+454 363 468 371 \star\star other
+288 392 302 400 \star\star other
+287 403 302 411 \star\star other
+453 430 480 438 \star\star ## other
+460 439 475 448 \star\star other
+438 467 467 476 \star\star ## other
+458 540 591 553 Relative Aboudance axis_title
+149 531 260 559 KEEG_Pathways \n Level2 other
+0 529 111 558 KEGG_Pathways \n Level1 other

@@ -1,0 +1,17 @@
+637 33 654 44 Left legend_label 
+637 54 659 65 Right legend_label 
+89 275 103 285 CN tick_label 
+169 275 182 285 Pu tick_label 
+245 275 264 285 GPe tick_label 
+326 275 342 285 GPi tick_label 
+406 275 419 285 SN tick_label 
+483 275 501 285 STN tick_label 
+562 275 580 285 Tha tick_label 
+1 69 49 80 12,000.000 tick_label 
+1 101 49 111 10,000.000 tick_label 
+6 134 49 144 8,000.000 tick_label 
+6 166 49 177 6,000.000 tick_label 
+6 198 49 209 4,000.000 tick_label 
+6 230 49 241 2,000.000 tick_label 
+23 262 49 272 0.000 tick_label 
+168 0 499 20 Basal Ganglia and Thalamus Volumes (mm^{3}) chart_title 

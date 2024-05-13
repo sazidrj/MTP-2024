@@ -1,0 +1,11 @@
+45 413 92 427 tick_label y_axis 68 405
+133 413 177 427 tick_label y_axis 156 405
+222 413 267 427 tick_label y_axis 244 405
+309 413 355 427 tick_label y_axis 332 405
+397 413 443 428 tick_label y_axis 420 405
+485 413 531 427 tick_label y_axis 508 405
+0 35 51 50 tick_label x_axis 68 44
+19 112 51 127 tick_label x_axis 68 125
+19 193 48 208 tick_label x_axis 68 206
+11 275 50 290 tick_label x_axis 68 287
+26 356 53 371 tick_label x_axis 68 368

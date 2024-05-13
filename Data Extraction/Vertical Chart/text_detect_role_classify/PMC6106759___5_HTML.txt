@@ -1,0 +1,16 @@
+545 21 567 39 up legend_label 
+545 50 592 69 down legend_label 
+526 330 558 348 AA tick_label 
+422 330 451 348 GT tick_label 
+307 330 354 348 CBM tick_label 
+211 331 239 348 CE tick_label 
+104 330 135 348 GH tick_label 
+38 305 50 323 0 tick_label 
+30 254 50 272 10 tick_label 
+28 203 50 221 20 tick_label 
+28 151 50 169 30 tick_label 
+28 100 50 118 40 tick_label 
+28 49 50 67 50 tick_label 
+28 0 50 16 60 tick_label 
+253 362 408 390 Enzyme Class axis_title 
+0 79 20 242 Gene Number axis_title 

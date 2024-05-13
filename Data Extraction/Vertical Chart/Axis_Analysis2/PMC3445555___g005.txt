@@ -1,0 +1,9 @@
+25 2 59 17 tick_label y_axis 72 11
+34 87 59 102 tick_label y_axis 72 96
+25 172 59 187 tick_label y_axis 72 181
+34 257 57 272 tick_label y_axis 72 266
+25 342 59 357 tick_label y_axis 72 351
+48 427 59 442 tick_label y_axis 72 436
+111 446 230 465 tick_label x_axis 172 436
+283 446 452 465 tick_label x_axis 368 436
+478 446 651 465 tick_label x_axis 565 436

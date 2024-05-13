@@ -1,0 +1,8 @@
+6 5 24 34 tick_label y_axis 53 20
+6 114 24 144 tick_label y_axis 53 129
+6 222 24 253 tick_label y_axis 53 239
+6 331 24 361 tick_label y_axis 53 346
+6 440 24 470 tick_label y_axis 53 455
+6 548 24 579 tick_label y_axis 53 563
+185 592 234 610 tick_label x_axis 207 565
+514 592 599 610 tick_label x_axis 555 565

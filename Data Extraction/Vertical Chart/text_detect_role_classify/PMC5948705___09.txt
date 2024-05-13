@@ -1,0 +1,19 @@
+607 356 765 374 cap vs. cap sensors tick_label 
+433 354 589 373 cap vs. opt sensors tick_label 
+258 355 414 374 opt vs. cap sensors tick_label 
+84 354 238 373 opt vs. opt sensors tick_label 
+339 383 509 407 Sensor technology axis_title 
+453 443 545 465 VeriFinger legend_label 
+250 443 337 461 Bozoroth3 legend_label 
+372 443 419 461 MCC legend_label 
+45 328 57 344 0 tick_label 
+46 292 57 308 5 tick_label 
+36 256 56 273 10 tick_label 
+36 221 56 238 15 tick_label 
+35 185 57 202 20 tick_label 
+35 149 56 166 25 tick_label 
+35 113 56 130 30 tick_label 
+35 77 56 94 35 tick_label 
+35 42 56 58 40 tick_label 
+35 5 56 22 45 tick_label 
+7 94 26 257 Mean cross EERs axis_title 

@@ -1,0 +1,30 @@
+190 454 344 471 Property taken away tick_label
+217 409 344 427 Child taken away tick_label
+155 365 343 384 Intimate partner violence tick_label
+155 322 343 340 Losing customers or a job tick_label
+190 277 344 295 Conflict with partner tick_label
+163 233 344 252 Separation from partner tick_label
+199 189 344 207 Teasing or insulting tick_label
+15 145 343 164 Isolation/lack of support from family/friends tick_label
+61 101 344 120 Losing respect of family or community tick_label
+0 57 343 75 Being a burden or source of concern for others tick_label
+101 14 343 31 Involuntary HIV status disclosure tick_label
+307 581 333 595 Yes legend_label
+362 581 435 595 Uncertain legend_label
+368 455 393 470 0.2 value_label
+373 411 397 425 0.7 value_label
+378 366 402 381 1.1 value_label
+373 322 398 337 4.6 value_label
+375 278 400 295 5,0 value_label
+378 235 403 250 5.5 value_label
+395 191 419 206 8.5 value_label
+400 146 425 162 9.4 value_label
+409 102 441 118 11.4 value_label
+434 58 467 76 16,0 value_label
+464 14 497 29 21.5 value_label
+354 499 365 514 0 tick_label
+613 15 637 29 3.8 value_label
+464 499 483 514 10 tick_label
+577 499 596 514 20 tick_label
+522 526 537 541 % axis_title
+691 499 709 514 30 tick_label

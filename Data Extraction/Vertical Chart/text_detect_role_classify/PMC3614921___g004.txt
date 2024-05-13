@@ -1,0 +1,16 @@
+62 5 96 24 100 tick_label 
+72 54 96 73 80 tick_label 
+72 102 96 122 60 tick_label 
+71 151 96 171 40 tick_label 
+71 200 96 219 20 tick_label 
+83 249 96 268 0 tick_label 
+129 292 172 312 0.30 tick_label 
+210 292 251 312 0.35 tick_label 
+290 292 333 312 0.40 tick_label 
+371 292 412 312 0.45 tick_label 
+451 292 494 312 0.50 tick_label 
+531 292 573 312 0.55 tick_label 
+612 292 654 312 0.60 tick_label 
+692 292 734 312 0.65 tick_label 
+297 350 542 378 The polymorphic ratio axis_title 
+5 26 33 243 No. of variety-pairs axis_title 

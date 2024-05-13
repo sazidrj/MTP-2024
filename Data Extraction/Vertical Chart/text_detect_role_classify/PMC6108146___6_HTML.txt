@@ -1,0 +1,19 @@
+279 0 410 19 MDA-MB231 chart_title 
+484 54 507 69 ns other 
+298 92 321 107 ns other 
+137 156 160 170 ns other 
+498 427 543 414 ID4 tick_label 
+330 427 374 415 ID4 tick_label 
+162 428 207 415 ID4 tick_label 
+46 461 122 418 control tick_label 
+212 460 288 417 control tick_label 
+377 461 454 418 control tick_label 
+107 531 145 553 24h tick_grouping 
+286 531 324 553 48h tick_grouping 
+46 375 61 395 0 tick_label 
+33 275 61 294 10 tick_label 
+32 174 60 193 20 tick_label 
+33 73 61 92 30 tick_label 
+0 0 19 21 a other 
+499 532 536 552 72h tick_grouping 
+0 112 24 351 % of wound closure axis_title 
