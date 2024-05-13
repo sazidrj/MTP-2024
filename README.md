@@ -8,3 +8,8 @@
 | ------------- | ------------- |
 | Original-statista Data |[Original Dataset](https://github.com/vis-nlp/Chart-to-text) |
 | Preprocessed Data |[Train, Valid, Test](https://drive.google.com/drive/folders/1v9sxXq8qNjy124dD_dHVeejDL0pU0ntf?usp=sharing) |
+
+## LineChart
+
+You can download github repository of Line-Former from [Link](https://github.com/TheJaeLal/LineFormer)
+
